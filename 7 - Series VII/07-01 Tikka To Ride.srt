@@ -1,0 +1,2146 @@
+﻿1
+00:00:01,000 --> 00:00:04,197
+(STIRRING MUSIC)
+
+2
+00:00:20,400 --> 00:00:23,518
+(FLUSHING)
+
+3
+00:00:31,520 --> 00:00:33,875
+(WHOOSHING)
+
+4
+00:00:37,440 --> 00:00:39,829
+Hello? Testing - one, two, three.
+
+5
+00:00:40,000 --> 00:00:41,638
+Hello? Yes!
+
+6
+00:00:44,120 --> 00:00:47,750
+OK. Here we go. Ship's log...um...one.
+
+7
+00:00:48,360 --> 00:00:52,593
+I've decided to keep a journal of life
+on-board ship and send it off in a probe.
+
+8
+00:00:52,760 --> 00:00:56,196
+Since turning 28,
+I feel a new maturity about myself.
+
+9
+00:00:56,360 --> 00:01:00,593
+In fact, I can't even remember the last time
+I tried to urinate on Rimmer from the top of D-deck...
+
+10
+00:01:00,760 --> 00:01:04,435
+No, wait a minute - Friday.
+But apart from that one lapse,
+
+11
+00:01:04,600 --> 00:01:07,399
+Maturity wise, I'm practically
+up there with Abe Lincoln and Moses.
+
+12
+00:01:07,560 --> 00:01:12,589
+Now, just recently we came across a craft,
+piloted by ourselves from 15 years into the future.
+
+13
+00:01:12,760 --> 00:01:17,197
+We had a bit of an argument,
+and they attacked us. See attached...
+
+14
+00:01:17,400 --> 00:01:18,913
+- Another lock!
+- Incoming message.
+
+15
+00:01:19,120 --> 00:01:21,999
+Either you give us access to the
+data we require
+
+16
+00:01:22,160 --> 00:01:25,039
+or be prepared to be blasted out of the sky.
+
+17
+00:01:30,240 --> 00:01:31,799
+(RIMMER) Cat!
+
+18
+00:01:32,960 --> 00:01:35,110
+Dead. But there may be a...
+
+19
+00:01:37,720 --> 00:01:39,313
+Kryten!
+
+20
+00:01:40,600 --> 00:01:44,389
+There may be a what? A way out of this?
+Is that what you were going to say?
+
+21
+00:01:44,560 --> 00:01:48,474
+S...speak, Kryten.
+How can we change what's happening?
+
+22
+00:02:18,120 --> 00:02:20,794
+We were no match. They killed us
+
+23
+00:02:20,960 --> 00:02:24,157
+and destroyed everything onboard ship,
+including the Time Drive,
+
+24
+00:02:24,320 --> 00:02:27,950
+which meant there was no Time Drive for them
+to have in the future to bring back into the past
+
+25
+00:02:28,120 --> 00:02:30,430
+to destroy the future of their
+past selves in the present.
+
+26
+00:02:30,600 --> 00:02:33,114
+Put simply, by killing us they
+killed themselves,
+
+27
+00:02:33,280 --> 00:02:36,033
+because once we were dead it was impossible
+for us to become them in the future
+
+28
+00:02:36,200 --> 00:02:39,875
+and return in time to kill ourselves
+in the past even though it was the present.
+
+29
+00:02:40,040 --> 00:02:41,360
+(BUZZING)
+
+30
+00:02:42,720 --> 00:02:44,279
+Oh, smeg!
+
+31
+00:02:44,440 --> 00:02:47,114
+Have you been trying to explain about
+our future selves again, sir?
+
+32
+00:02:47,280 --> 00:02:50,750
+- I just thought I'd have one more go.
+- That's the third camera this week!
+
+33
+00:02:50,920 --> 00:02:53,389
+The machines just can't take it, sir.
+
+34
+00:02:53,600 --> 00:02:56,797
+But I'm only trying to explain why Starbug's
+damaged despite the timeline being erased
+
+35
+00:02:56,960 --> 00:03:00,476
+because this reality's unstable and anomalies have
+merged from both dimensions to cope with the paradox.
+
+36
+00:03:00,680 --> 00:03:02,398
+Oh! Garbled, confusing
+
+37
+00:03:02,560 --> 00:03:06,440
+and, quite frankly, duller than an
+in-flight magazine produced by Air Belgium.
+
+38
+00:03:06,640 --> 00:03:10,031
+Now, just state our position
+and explain we're down on supplies.
+
+39
+00:03:10,200 --> 00:03:12,271
+All right! All right!
+
+40
+00:03:14,440 --> 00:03:17,796
+This is Dave Lister
+of the JMC transport vehicle Starbug.
+
+41
+00:03:17,960 --> 00:03:20,918
+We're down on supplies. We need help. Out.
+
+42
+00:03:22,800 --> 00:03:24,113
+Oh by the way, we're in space.
+
+43
+00:03:24,137 --> 00:03:26,509
+Just passed a sort of reddy
+moon a couple of days ago.
+
+44
+00:03:26,680 --> 00:03:28,671
+Coordinates enclosed.
+
+45
+00:03:29,680 --> 00:03:32,354
+It's about that shape. You can't miss it.
+
+46
+00:03:33,320 --> 00:03:35,391
+("RED DWARF" THEME)
+
+47
+00:04:06,360 --> 00:04:08,397
+(LISTER) Ship's log update, Friday am.
+
+48
+00:04:08,560 --> 00:04:12,918
+The battle with our future selves
+has had the most terrible consequence.
+
+49
+00:04:13,880 --> 00:04:16,793
+Wiped out? Kryten, man, they can't be.
+
+50
+00:04:17,000 --> 00:04:21,631
+I'm afraid so, sir. The laser cannon breached
+the main water tank and flooded Supply Deck B.
+
+51
+00:04:21,800 --> 00:04:24,030
+- They didn't stand a chance.
+- Yeah, but surely...
+
+52
+00:04:24,240 --> 00:04:26,390
+There was nothing we
+could do to save them, sir.
+
+53
+00:04:27,520 --> 00:04:28,840
+So, you mean...
+
+54
+00:04:29,000 --> 00:04:31,230
+now we've got no poppadoms at all?
+
+55
+00:04:32,400 --> 00:04:36,394
+No poppadoms, no curries...
+All the Indian food supplies have been totalled.
+
+56
+00:04:40,240 --> 00:04:42,277
+I'll have to survive without them, then.
+
+57
+00:04:42,440 --> 00:04:45,398
+- I'll have salads.
+- Sir, you're in shock.
+
+58
+00:04:45,600 --> 00:04:48,831
+- You don't know what you're saying.
+- After all, it's only curry.
+
+59
+00:04:49,040 --> 00:04:51,475
+Oh "only curry", the
+enormity of it hasn't sunk in.
+
+60
+00:04:51,640 --> 00:04:53,950
+You must mourn, sir. Don't
+you see? You must mourn.
+
+61
+00:04:54,160 --> 00:04:56,959
+- Me curries.
+- Oh, sir.
+
+62
+00:04:57,120 --> 00:04:59,430
+Get it out. Cry like a baby.
+
+63
+00:04:59,600 --> 00:05:03,878
+What am I gonna do? Curry night
+was the one little beacon I had.
+
+64
+00:05:04,040 --> 00:05:09,035
+It made me feel like a normal ordinary guy,
+not some sad freak stuck in deep space -
+
+65
+00:05:09,200 --> 00:05:12,670
+no woman, no hope, no curry.
+
+66
+00:05:12,840 --> 00:05:18,153
+Worse still, a choice of only two alcoholic
+beverages - Cinzano Bianco or advocaat.
+
+67
+00:05:18,320 --> 00:05:21,312
+- It's a human tragedy.
+- No lager?!
+
+68
+00:05:21,480 --> 00:05:25,235
+Sir, there is nothing unmanly
+in howling like a hungry prairie dog.
+
+69
+00:05:25,400 --> 00:05:29,030
+- No Lager?!
+- All the supplies on B-deck were destroyed, sir.
+
+70
+00:05:29,200 --> 00:05:32,192
+There wasn't even any wreckage, no debris, zip.
+
+71
+00:05:32,360 --> 00:05:38,390
+God... A few beers and a curry,
+it was the highlight of my week!
+
+72
+00:05:38,760 --> 00:05:41,036
+I used to look forward
+to curry night, too, sir.
+
+73
+00:05:41,200 --> 00:05:43,794
+Seeing your little face
+all happy and smiling.
+
+74
+00:05:43,960 --> 00:05:48,750
+Come rain or shine, we'd always make time
+for curry night every Friday.
+
+75
+00:05:48,920 --> 00:05:50,877
+- Saturday.
+- Sunday.
+
+76
+00:05:51,040 --> 00:05:52,917
+- Tuesday.
+- Wednesday.
+
+77
+00:05:53,080 --> 00:05:57,711
+And Thursday. Always the same meal -
+three poppadoms with mango chutney.
+
+78
+00:05:57,880 --> 00:06:00,030
+- Those little onions.
+- Dill pickle.
+
+79
+00:06:00,200 --> 00:06:03,318
+That Day-Glo green mint sauce
+that just doesn't wash out.
+
+80
+00:06:03,480 --> 00:06:08,031
+- And that weird red stuff that no one knows what it is.
+- Then a shami kebab starter.
+
+81
+00:06:08,200 --> 00:06:13,070
+Followed by a chicken vindaloo, kamikaze hot,
+with a fire extinguisher on standby.
+
+82
+00:06:13,240 --> 00:06:15,595
+And two scoops of kulfi ice-cream.
+
+83
+00:06:15,760 --> 00:06:17,956
+And two indigestion tablets.
+
+84
+00:06:18,280 --> 00:06:20,351
+Oh, life without curry?
+
+85
+00:06:20,520 --> 00:06:22,591
+It's like Laurel without Hardy,
+
+86
+00:06:22,760 --> 00:06:25,673
+the Lone Ranger without... that Indian bloke.
+
+87
+00:06:25,840 --> 00:06:27,672
+Sir...
+
+88
+00:06:27,840 --> 00:06:30,798
+Perhaps you could learn to love pasta?
+
+89
+00:06:32,360 --> 00:06:34,670
+Pasta? You sick?
+
+90
+00:06:44,000 --> 00:06:47,675
+You know the news?
+All the curry supplies have been destroyed.
+
+91
+00:06:48,880 --> 00:06:50,917
+We heard.
+
+92
+00:06:51,080 --> 00:06:55,551
+As a mark of respect, we thought on Sunday at
+12 o'clock we could have a minute's flatulence.
+
+93
+00:06:57,080 --> 00:07:00,789
+It's nothing to you guys, is it?
+Curries were my life.
+
+94
+00:07:00,960 --> 00:07:04,510
+God, some of the nights! I remember
+once on planet leave on Orion,
+
+95
+00:07:04,680 --> 00:07:08,053
+I drank a yard of vindaloo sauce, you
+know out of one of those long glass tubes?
+
+96
+00:07:08,077 --> 00:07:10,361
+And then went out on
+the pull. It was a bet.
+
+97
+00:07:10,385 --> 00:07:15,073
+It's impossible for mechanoids to vomit, sir,
+I believe it is safe for you to continue.
+
+98
+00:07:16,320 --> 00:07:20,075
+I went to this club, the Crazy Astro,
+started dancing with this Space Corps nurse.
+
+99
+00:07:20,240 --> 00:07:22,311
+- Couldn't hear her name.
+- Fido, was it?
+
+100
+00:07:22,480 --> 00:07:25,791
+- Lassie, possibly?
+- She was very attractive, actually, Rimmer.
+
+101
+00:07:25,960 --> 00:07:31,990
+Very short skirt, little ankle bracelet, took out her chewing
+gum before she ate her chicken in a basket. You know, class.
+
+102
+00:07:32,160 --> 00:07:35,198
+All right, so she had teeth that
+looked like six half-open garage doors,
+
+103
+00:07:35,360 --> 00:07:39,035
+but it was nothing a cosmetic
+surgeon couldn't fix in ten minutes.
+
+104
+00:07:39,200 --> 00:07:43,114
+- So what happened?
+- I went over to her, leant in close,
+
+105
+00:07:43,280 --> 00:07:44,918
+asked her to dance...
+
+106
+00:07:45,080 --> 00:07:48,994
+- For a few seconds, she didn't answer.
+- She was probably concussed.
+
+107
+00:07:49,160 --> 00:07:53,597
+A yard of vindaloo sauce? You must have had
+breath that could shear sheep.
+
+108
+00:07:53,800 --> 00:07:57,350
+- We started to snuggle up...
+- I'm not sure I want to hear any more of this.
+
+109
+00:07:57,560 --> 00:08:00,598
+Then all of a sudden... a rumbling in me stomach.
+
+110
+00:08:02,280 --> 00:08:06,239
+AlI I can remember is running.
+Across the dance floor, through the crowd.
+
+111
+00:08:06,400 --> 00:08:09,199
+- Just made it.
+- So you didn't get off with her?
+
+112
+00:08:09,400 --> 00:08:12,392
+Only thing I got off was
+the loo about six hours later.
+
+113
+00:08:12,560 --> 00:08:16,793
+When I got back to the dance floor, everyone
+was gone. They had to wait for me to lock the club!
+
+114
+00:08:16,960 --> 00:08:20,954
+God, nearly put me off curries for life. In fact, I
+didn't have another one until the following night.
+
+115
+00:08:22,640 --> 00:08:24,790
+What an enchanting little tale.
+
+116
+00:08:25,600 --> 00:08:29,798
+Well, if you'll excuse me I'm just off to
+glug a couple of yards of vindi sauce,
+
+117
+00:08:29,960 --> 00:08:34,591
+then if we do happen to chance across
+'Planet of the Snooty Sex Sirens', I can't miss.
+
+118
+00:08:34,800 --> 00:08:38,714
+Sirs, I suggest we carry out
+a thorough inspection of the ship.
+
+119
+00:08:38,880 --> 00:08:42,760
+The altercation with our future selves
+caused dimensional anomalies
+
+120
+00:08:42,920 --> 00:08:46,515
+which have expanded the cargo deck by 212%.
+
+121
+00:08:46,680 --> 00:08:49,274
+We should ascertain that
+the new structures are stable.
+
+122
+00:08:52,520 --> 00:08:56,275
+(CAT) Time has returned to the point before
+we discovered the time machine, right?
+
+123
+00:08:56,440 --> 00:09:01,037
+So what's to stop us going back on board the
+Gemini 12 and picking it up all over again?
+
+124
+00:09:01,200 --> 00:09:03,760
+We have to avoid all forms of time travel.
+
+125
+00:09:03,920 --> 00:09:08,278
+It's the only way of breaking our destiny line and
+ensuring we don't end up like our future selves.
+
+126
+00:09:08,440 --> 00:09:11,016
+Yeah, but surely we can use
+the Time Drive if we're careful?
+
+127
+00:09:11,040 --> 00:09:13,879
+You know, if we don't abuse it
+in the way our future selves did?
+
+128
+00:09:14,040 --> 00:09:17,271
+- You know, if we're sensible and mature.
+- And do what?
+
+129
+00:09:17,440 --> 00:09:21,354
+Go back in time to an Indian
+takeaway and order 500 curries.
+
+130
+00:09:21,520 --> 00:09:24,990
+Sir, the scheme is irresponsible,
+moronic and preposterous!
+
+131
+00:09:25,160 --> 00:09:27,151
+All your hallmarks, bud!
+
+132
+00:09:27,320 --> 00:09:31,279
+One really big takeaway order once every
+two years and our problems are over.
+
+133
+00:09:31,440 --> 00:09:34,353
+YOUR problems are over.
+OUR problems are just beginning.
+
+134
+00:09:34,520 --> 00:09:38,070
+What about causality? Interfering
+in the past, no matter how minutely,
+
+135
+00:09:38,240 --> 00:09:40,834
+always alters the present - cause and effect.
+
+136
+00:09:41,000 --> 00:09:44,880
+Look, I'm a curry-aholic!
+I've only got two taste buds that work.
+
+137
+00:09:45,040 --> 00:09:47,600
+I need curry.
+
+138
+00:09:47,760 --> 00:09:52,391
+We can't afford to take any more chances.
+I say the Time Drive stays where it is.
+
+139
+00:09:52,560 --> 00:09:57,555
+You know I'd rather wear sideways-pressed flares
+and a clip-on polyester tie than agree with Goalpost Head,
+
+140
+00:09:57,720 --> 00:09:59,711
+but this time he's right.
+
+141
+00:09:59,880 --> 00:10:01,917
+Oh, OK. OK.
+
+142
+00:10:15,200 --> 00:10:17,874
+(KRYTEN) Since that completes
+the B-deck inspection, sirs,
+
+143
+00:10:18,080 --> 00:10:22,551
+permission to off-line for the next 12 hours
+while I discard some old cache files?
+
+144
+00:10:22,720 --> 00:10:24,950
+How come you need more memory?
+
+145
+00:10:25,120 --> 00:10:28,795
+Over the years, you've had more RAM
+than a field of sheep.
+
+146
+00:10:28,960 --> 00:10:31,998
+My head is littered
+with unnecessary information, sir.
+
+147
+00:10:32,160 --> 00:10:36,527
+The ability to sing the Bay City Rollers'
+greatest hits is no longer a priority.
+
+148
+00:10:36,551 --> 00:10:40,918
+For the most cultural purposes, crooning
+"Bye Bye, Baby" is more than sufficient.
+
+149
+00:10:41,080 --> 00:10:43,469
+This clean-up thing, how does it work, exactly?
+
+150
+00:10:43,640 --> 00:10:48,669
+I simply attach my RAM to the ship's computer
+and download the unwanted files into its trash file.
+
+151
+00:10:48,840 --> 00:10:52,879
+Your RAM's in your head, isn't it?
+So you won't actually be using your body, then?
+
+152
+00:10:53,040 --> 00:10:55,509
+- Why do you ask?
+- Just interested.
+
+153
+00:10:55,680 --> 00:10:58,354
+Robotics, it's fascinating, isn't it?
+
+154
+00:11:01,680 --> 00:11:04,069
+(ALARM RINGS)
+
+155
+00:11:32,080 --> 00:11:33,479
+(CLICKS)
+
+156
+00:11:49,320 --> 00:11:50,993
+(CLICKS)
+
+157
+00:11:54,240 --> 00:11:56,754
+- My heavens! I'm head Head!
+- Shh!
+
+158
+00:11:56,960 --> 00:11:59,349
+- This is only temporary.
+- I don't understand.
+
+159
+00:11:59,520 --> 00:12:03,639
+Look, I want to go back in time on a curry hunt.
+Kryten said "no way". What do you say?
+
+160
+00:12:03,800 --> 00:12:06,792
+I can't go behind Kryten's head.
+What would he say if he found out?
+
+161
+00:12:06,960 --> 00:12:09,076
+It's deceitful, wrong and dishonest.
+
+162
+00:12:10,960 --> 00:12:13,952
+I'm in! Those are emotions
+I've longed to experience,
+
+163
+00:12:14,120 --> 00:12:17,954
+but first you'll have to override my guilt
+chip and disable my behaviour protocols.
+
+164
+00:12:18,120 --> 00:12:21,272
+- OK. Show me how
+- Press the skull release catch behind my right ear.
+
+165
+00:12:29,920 --> 00:12:32,116
+(BLEEPING)
+
+166
+00:12:32,720 --> 00:12:34,154
+OK, here we go.
+
+167
+00:12:40,160 --> 00:12:41,992
+My guilt chip.
+
+168
+00:12:42,160 --> 00:12:44,674
+No behaviour protocols.
+
+169
+00:12:44,840 --> 00:12:46,877
+Just call me "bad ass"!
+
+170
+00:12:53,560 --> 00:12:56,154
+Oooooooooooooooow!
+
+171
+00:12:56,320 --> 00:13:01,918
+I feel great! Got all the beauty sleep
+I needed. Stayed awake all night.
+
+172
+00:13:02,080 --> 00:13:04,151
+Hey, that smells good. What's for brekkie?
+
+173
+00:13:04,360 --> 00:13:06,476
+Waffles, sir, dripping in honey and jam
+
+174
+00:13:06,640 --> 00:13:08,870
+with three fried eggs on the sid, coated in cheese!
+
+175
+00:13:10,080 --> 00:13:15,234
+- That sounds about as healthy as jumping off a cliff.
+- Healthy? Who cares? Pork away!
+
+176
+00:13:20,360 --> 00:13:22,829
+(WHIRRS)
+
+177
+00:13:28,840 --> 00:13:32,754
+So, um...Kryten,
+now that you've had time to think,
+
+178
+00:13:32,920 --> 00:13:35,275
+what about that curry
+hunt to the 22nd Century?
+
+179
+00:13:35,440 --> 00:13:40,150
+Ooh, I meant to mention that, yes. I overreacted yesterday.
+On reflection, I think it'd be quite safe.
+
+180
+00:13:40,320 --> 00:13:42,675
+- Safe?
+- What about causality?
+
+181
+00:13:42,880 --> 00:13:45,838
+Causality? Well, OK, you know,
+one event causes another, OK
+
+182
+00:13:46,000 --> 00:13:51,200
+but sometimes, you just gotta say,
+"The laws of time and space? Who gives a smeg?"
+
+183
+00:13:51,360 --> 00:13:53,954
+Ah, I think what Kryten's
+trying to say here is...
+
+184
+00:13:54,160 --> 00:13:56,993
+- You're smoking!
+- Oh, is my generator overheating again?
+
+185
+00:13:57,200 --> 00:13:58,634
+- A cigarette.
+- D'you want one?
+
+186
+00:13:58,800 --> 00:14:01,189
+- Of course I don't want one!
+- D'you want me to go outside?
+
+187
+00:14:01,360 --> 00:14:05,274
+I think what Kryten's trying to say
+is that it's OK to go back in time
+
+188
+00:14:05,440 --> 00:14:08,432
+and order a small lake's worth
+of vindaloo to go, isn't that right?
+
+189
+00:14:08,640 --> 00:14:12,156
+- You bet your ass!
+- OK, so let's navigate those reality bubbles and do it.
+
+190
+00:14:12,360 --> 00:14:15,159
+Kryten, can I have a word?
+
+191
+00:14:18,320 --> 00:14:23,679
+Look, what is wrong with you? You don't smoke,
+you never say "bet your ass",
+
+192
+00:14:23,840 --> 00:14:27,231
+and you never use your groinal
+attachment to stir anybody's tea!
+
+193
+00:14:27,400 --> 00:14:31,678
+- I didn't get any error commands.
+- Yeah, because you've got no behaviour protocols, ya spanny
+
+194
+00:14:31,840 --> 00:14:35,390
+- Now, get a grip or we'll be rumbled.
+- (WHIRRS)
+
+195
+00:14:38,600 --> 00:14:40,432
+So uptight.
+
+196
+00:14:50,080 --> 00:14:54,233
+(KRYTEN HUMS FUNKY TUNE)
+
+197
+00:15:00,480 --> 00:15:03,518
+What is wrong
+with that demented Tonka toy now?
+
+198
+00:15:03,680 --> 00:15:08,117
+He's just got a bit of a bio-glitch in his transponder
+calibrations. It's only temporary.
+
+199
+00:15:08,320 --> 00:15:11,711
+Hey, Mr Time Drive!
+
+200
+00:15:11,880 --> 00:15:14,952
+OK, Kryten,
+we want the Taj Mahal Tandoori Restaurant
+
+201
+00:15:15,160 --> 00:15:17,629
+behind the JMC building in London.
+
+202
+00:15:17,840 --> 00:15:21,799
+- Back table. Quiet.
+- I'll need a moment to acquaint myself with the controls.
+
+203
+00:15:22,000 --> 00:15:24,276
+- But you've used it before.
+- Have I?
+
+204
+00:15:24,440 --> 00:15:27,637
+Oh, yes, of course I have. Sorry. Stupid of me.
+
+205
+00:15:27,800 --> 00:15:30,189
+Just programming it now, matey boy.
+
+206
+00:15:59,280 --> 00:16:00,509
+(GUNSHOT)
+
+207
+00:16:03,040 --> 00:16:05,429
+(GUNSHOT)
+
+208
+00:16:10,240 --> 00:16:14,279
+Nice landing, Kryten. (!)
+That was about as smooth as Egyptian whiskey.
+
+209
+00:16:14,440 --> 00:16:17,239
+Apologies, sir. I'm not sure what I did then.
+
+210
+00:16:17,440 --> 00:16:19,829
+This isn't right. Where are we?
+
+211
+00:16:20,040 --> 00:16:24,876
+Well, according to the Time Drive,
+the date is November 22nd 1963,
+
+212
+00:16:25,040 --> 00:16:27,190
+and we're in the city of Dallas.
+
+213
+00:16:27,760 --> 00:16:30,149
+How come? Gimme that thing!
+
+214
+00:16:31,280 --> 00:16:35,478
+I've always been a bit of a technical whiz
+when it comes to these kinds of gizmos.
+
+215
+00:16:38,560 --> 00:16:41,359
+You're right. Dallas, '63. No doubt about it.
+
+216
+00:16:41,560 --> 00:16:44,473
+(SIRENS WAIL)
+
+217
+00:16:44,680 --> 00:16:48,992
+Dallas? Wasn't that that place
+where that American king got assassinated?
+
+218
+00:16:49,200 --> 00:16:53,194
+- JFK.
+- No, it was John something, not Jeff Kay.
+
+219
+00:16:53,400 --> 00:16:58,713
+J-F-K, not Jeff Kay, you gimboid. Like the
+airport. I did a paper on him at school.
+
+220
+00:16:58,920 --> 00:17:01,753
+I wonder why would anyone would
+wanna name their kid after an airport?
+
+221
+00:17:02,520 --> 00:17:05,831
+Heathrow Lister.
+John, Paul, George and Ringway.
+
+222
+00:17:06,000 --> 00:17:08,196
+Well, actually, that could work.
+
+223
+00:17:08,400 --> 00:17:12,155
+- The airport was named after the president.
+- All right.
+
+224
+00:17:12,320 --> 00:17:16,598
+We didn't do 20th-century history
+at my school. It didn't seem interesting to me.
+
+225
+00:17:16,760 --> 00:17:20,913
+Apart from nuclear fusion and some really
+snazzy car adverts, they did nothing.
+
+226
+00:17:21,640 --> 00:17:24,598
+The last human being alive
+and he's got less brains
+
+227
+00:17:24,760 --> 00:17:29,550
+than a macaque rhesus monkey after the first
+course of a Vietnamese wedding banquet.
+
+228
+00:17:29,760 --> 00:17:31,797
+(SIRENS WAIL)
+
+229
+00:17:46,480 --> 00:17:49,791
+Where did this gunman dude shoot from exactly anyway?
+
+230
+00:17:49,960 --> 00:17:52,156
+Well, if my Histo-Chip serves me correctly,
+
+231
+00:17:52,320 --> 00:17:56,200
+the gunman's location
+was in the Texas Book Depository.
+
+232
+00:18:22,080 --> 00:18:24,276
+It was probably from this very window!
+
+233
+00:18:24,440 --> 00:18:26,431
+What, do you reckon?
+
+234
+00:18:32,080 --> 00:18:34,117
+Hey, what's this?
+
+235
+00:18:40,760 --> 00:18:44,230
+Hey! There's something
+on the end of this! Give us a hand!
+
+236
+00:18:45,640 --> 00:18:47,631
+Pull! Whoever they are, they're in trouble!
+
+237
+00:18:48,320 --> 00:18:50,118
+(WAILS)
+
+238
+00:18:57,840 --> 00:18:59,831
+Hey, what's going on down there?
+
+239
+00:19:00,840 --> 00:19:04,629
+What are all those people doing
+gathered around that giant pizza?
+
+240
+00:19:04,800 --> 00:19:07,269
+That is not a giant pizza, sir.
+
+241
+00:19:07,440 --> 00:19:10,637
+It's eight foot across, man.
+You don't think that's giant?
+
+242
+00:19:10,800 --> 00:19:15,795
+What kind of pizza house
+have you been going to? The Fat Bastardoria?
+
+243
+00:19:15,960 --> 00:19:21,831
+Hey, look at this! I think we just pulled
+the gunman out of the window!
+
+244
+00:19:22,000 --> 00:19:23,991
+FBI! Drop the gun!
+
+245
+00:19:25,400 --> 00:19:27,391
+- Don't shoot!
+- Hands on heads!
+
+246
+00:19:27,600 --> 00:19:29,815
+You are hereby charged with
+the murder of Lee Harvey Oswald,
+
+247
+00:19:29,839 --> 00:19:32,470
+who valiantly tried to foil your
+attempt to assassinate the President
+
+248
+00:19:32,640 --> 00:19:35,439
+Thanks to Mr Oswald, the president is alive, but wounded.
+
+249
+00:19:35,600 --> 00:19:38,911
+What is that? Some kind of weapon?
+Kick it over here!
+
+250
+00:19:41,200 --> 00:19:42,952
+(WHOOSH)
+
+251
+00:19:45,320 --> 00:19:47,118
+(WHOOSH)
+
+252
+00:19:48,320 --> 00:19:49,958
+(WHOOSH)
+
+253
+00:19:50,400 --> 00:19:52,437
+Oh! Nice one, Kryts.
+
+254
+00:19:52,640 --> 00:19:55,109
+- Where are we?
+- It says 1966.
+
+255
+00:19:55,280 --> 00:19:57,396
+I must have prodded us forward three years.
+
+256
+00:19:57,600 --> 00:20:00,240
+At least it'll give us time to analyse the original error.
+
+257
+00:20:03,480 --> 00:20:05,630
+Hey, there's nobody here.
+
+258
+00:20:06,800 --> 00:20:09,394
+The entire city's deserted.
+
+259
+00:20:16,080 --> 00:20:19,277
+I don't understand it.
+All we did was save Kennedy's life.
+
+260
+00:20:19,440 --> 00:20:23,673
+- Is that bad? What kind of a dude was he?
+- He was a fine man.
+
+261
+00:20:25,040 --> 00:20:26,758
+Look!
+
+262
+00:20:28,600 --> 00:20:32,673
+- Can you get anything for us from his scent?
+- (SNIFFS)
+
+263
+00:20:33,720 --> 00:20:35,313
+Male.
+
+264
+00:20:37,120 --> 00:20:39,999
+Mid-thirties. Last meal...
+
+265
+00:20:40,320 --> 00:20:42,994
+a salt beef sandwich
+with extra mayo and a gherkin.
+
+266
+00:20:43,640 --> 00:20:47,873
+Smoker. Starched shirt. Probably married.
+
+267
+00:20:49,000 --> 00:20:55,838
+Eric White. Single, vegetarian... and
+chairman of the Anti-Smoking League.
+
+268
+00:20:56,000 --> 00:20:58,116
+ I bet I'm right about the gherkin, though.
+
+269
+00:20:58,320 --> 00:21:02,757
+It looks like he was trampled to death
+in some kind of stampede.
+
+270
+00:21:05,080 --> 00:21:07,071
+Just processing. (BLEEPS)
+
+271
+00:21:07,240 --> 00:21:10,278
+I'll re-route the results
+through my chest monitor.
+
+272
+00:21:11,720 --> 00:21:14,599
+President Kennedy was impeached in 1964
+
+273
+00:21:14,760 --> 00:21:18,515
+for sharing a mistress
+with Mafia boss Sam Giancana.
+
+274
+00:21:18,680 --> 00:21:21,433
+It was the biggest scandal
+in American history.
+
+275
+00:21:21,600 --> 00:21:26,037
+Kennedy was sentenced to three years
+in an open prison in July '65.
+
+276
+00:21:26,200 --> 00:21:30,512
+J Edgar Hoover became president.
+He was forced to run by the mob,
+
+277
+00:21:30,680 --> 00:21:34,116
+who had pictures of him
+at a transvestite orgy.
+
+278
+00:21:34,960 --> 00:21:38,271
+So America had a president
+controlled by the Mafia?
+
+279
+00:21:38,440 --> 00:21:42,752
+Soon after his election, the USSR were
+allowed to install a nuclear base in Cuba
+
+280
+00:21:42,920 --> 00:21:46,914
+in return for Mafia cocaine trafficking
+between Cuba and the States.
+
+281
+00:21:47,120 --> 00:21:50,158
+With a Soviet nuclear base
+30 miles from the US mainland,
+
+282
+00:21:50,360 --> 00:21:53,318
+people fled from all the major cities.
+
+283
+00:21:53,480 --> 00:21:58,236
+So am I right in thinking there's a chance I could
+get a major nuclear explosion all over this suit?
+
+284
+00:21:58,400 --> 00:22:02,280
+'Cause I'm telling you guys,
+that stuff does not dry-clean!
+
+285
+00:22:02,440 --> 00:22:05,717
+- Back to Starbug.
+- Starbug isn't there. It doesn't exist.
+
+286
+00:22:05,880 --> 00:22:07,917
+- What?
+- How come?
+
+287
+00:22:08,080 --> 00:22:11,516
+Best guess, Kennedy's impeachment
+in '64 traumatised the American nation,
+
+288
+00:22:11,680 --> 00:22:14,274
+allowing the USSR to win the space race.
+
+289
+00:22:14,440 --> 00:22:18,832
+In this reality, it was probably the Russians
+who were the first to land on the Moon.
+
+290
+00:22:19,000 --> 00:22:20,427
+So we're marooned?
+
+291
+00:22:20,451 --> 00:22:24,754
+How was I supposed to know a chicken
+vindaloo was going to cause all this?
+
+292
+00:22:24,920 --> 00:22:27,673
+- But you guys said Kennedy was a great pres.
+- He was.
+
+293
+00:22:27,840 --> 00:22:31,037
+He was also an inveterate womaniser.
+His affairs were legendary.
+
+294
+00:22:31,200 --> 00:22:35,797
+- They never came out when he was alive.
+- Every man has his weak spot, his Achilles' heel.
+
+295
+00:22:35,960 --> 00:22:38,031
+Kennedy's was just higher up.
+
+296
+00:22:38,200 --> 00:22:43,957
+If I knew this was gonna happen, I would've had
+an egg sarnie and finished the Cinzano.
+
+297
+00:22:44,120 --> 00:22:46,316
+Kryten, what've I done, man?
+
+298
+00:22:46,480 --> 00:22:50,360
+Well, you've brought the 20th century
+to the very brink of extinction, sir.
+
+299
+00:22:50,520 --> 00:22:52,750
+- Gum?
+- What is wrong with you?
+
+300
+00:22:52,920 --> 00:22:58,677
+Where is your compassion? You've got about
+as much warmth as a service station chip!
+
+301
+00:22:58,840 --> 00:23:00,990
+That's right, you've got no behaviour protocols, have ya?
+
+302
+00:23:01,200 --> 00:23:03,271
+And you thought causality didn't matter?
+
+303
+00:23:04,440 --> 00:23:08,229
+Every action we take has trillions of
+implications. How come you forgot that?
+
+304
+00:23:08,400 --> 00:23:11,995
+Oh, I didn't forget, sir.
+I just didn't care. I've got no guilt.
+
+305
+00:23:12,160 --> 00:23:13,639
+Ah.
+
+306
+00:23:13,800 --> 00:23:17,077
+I nicked Kryten's body.
+That's Spare Head Two.
+
+307
+00:23:17,240 --> 00:23:18,992
+I removed his guilt chip.
+
+308
+00:23:20,200 --> 00:23:25,195
+You have altered the entire course of
+civilisation from the 20th century onwards,
+
+309
+00:23:25,360 --> 00:23:28,716
+you've brought the world to the
+bring of nuclear war, and worst of all...
+
+310
+00:23:28,880 --> 00:23:32,032
+I know, I know. I still haven't had a curry.
+
+311
+00:23:32,200 --> 00:23:34,999
+No, worst of all, the Time Drive has frozen.
+
+312
+00:23:35,160 --> 00:23:37,151
+Let me see.
+
+313
+00:23:39,160 --> 00:23:43,154
+Do you think it's because the sub-space conduits
+have locked with the transponder calibrations
+
+314
+00:23:43,320 --> 00:23:46,199
+and caused a major tachyon surge
+that has overloaded the time matrix?
+
+315
+00:23:46,360 --> 00:23:49,239
+No, sir. I've just been jabbing it too hard.
+
+316
+00:23:50,400 --> 00:23:52,391
+So what now?
+
+317
+00:23:54,480 --> 00:23:57,313
+We need to have time to work out how to unfreeze it.
+
+318
+00:23:57,480 --> 00:24:01,713
+I suggest we set up camp here for the night, and
+perhaps 'Kryten' can go and look for some food.
+
+319
+00:24:01,880 --> 00:24:03,234
+I'm on my way, sir!
+
+320
+00:24:06,600 --> 00:24:09,319
+How can the same guy be an icon in one reality
+
+321
+00:24:09,480 --> 00:24:12,871
+and a criminal in the next
+for doing exactly the same things?
+
+322
+00:24:13,080 --> 00:24:17,119
+- In one reality, he wasn't caught.
+- Yeah, but was he a good guy or not a good guy?
+
+323
+00:24:17,320 --> 00:24:20,597
+- Both.
+- But somewhere along the way, just like me,
+
+324
+00:24:20,760 --> 00:24:23,752
+he disabled his guilt chip
+and discarded his behaviour protocols.
+
+325
+00:24:23,920 --> 00:24:26,355
+- Power corrupts.
+- Is it true?
+
+326
+00:24:26,520 --> 00:24:29,797
+- Can you be two things simultaneously?
+- Take you, sir.
+
+327
+00:24:29,960 --> 00:24:32,634
+In some ways,
+you're bright, sensitive and caring.
+
+328
+00:24:32,840 --> 00:24:36,196
+In other ways, you're an irresponsible,
+curry-obsessed moron.
+
+329
+00:24:37,400 --> 00:24:41,109
+Thanks, Kryten. That's... Wow, yeah.
+
+330
+00:24:42,360 --> 00:24:45,671
+It's hopeless. I can't fix it. We're trapped.
+
+331
+00:24:50,040 --> 00:24:52,714
+- Chicken's good.
+- Yeah, yeah, it's really good.
+
+332
+00:24:54,360 --> 00:24:57,273
+- That's not chicken, sirs.
+- Oh, what is it?
+
+333
+00:24:57,480 --> 00:24:59,756
+It's that man we found. It's Eric.
+
+334
+00:25:01,440 --> 00:25:03,954
+- What?
+- Well, it seemed such a waste
+
+335
+00:25:04,120 --> 00:25:07,590
+to just leave him lying there
+when he'd barbecue so beautifully.
+
+336
+00:25:07,800 --> 00:25:11,839
+- (SNIGGERS)
+- Did I do wrong? I didn't get any error commands.
+
+337
+00:25:12,040 --> 00:25:17,513
+Obviously, I thought about it because without my guilt
+chip or moral imperatives I had nothing to guide me.
+
+338
+00:25:17,720 --> 00:25:20,951
+But it seemed to me
+that if humanoids eat chicken,
+
+339
+00:25:21,120 --> 00:25:25,114
+then obviously they'd eat their own species,
+otherwise they'd just be picking on the chickens.
+
+340
+00:25:26,440 --> 00:25:30,115
+One minute you're down,
+the next you're right back up again.
+
+341
+00:25:30,280 --> 00:25:36,071
+- I just said I was enjoying that.
+- I knew it didn't smell right! Oh, my God!
+
+342
+00:25:37,600 --> 00:25:40,752
+- I'm a cannibal!
+- (BLEEPING)
+
+343
+00:25:42,160 --> 00:25:44,879
+- Look!
+- Right, let's get out of here!
+
+344
+00:25:45,040 --> 00:25:48,954
+I badly need to floss a piece of
+roasted dead person out of my teeth!
+
+345
+00:25:50,600 --> 00:25:53,911
+- Where to?
+- Ah, Hawaii. Let's catch some surf.
+
+346
+00:25:55,240 --> 00:26:00,360
+No. No. We've got to go back and stop ourselves
+interfering with the assassination.
+
+347
+00:26:01,240 --> 00:26:05,199
+I don't care where we go,
+as long as it's before we had dinner!
+
+348
+00:26:12,200 --> 00:26:14,794
+- Decorators.
+- Try up on the sixth floor.
+
+349
+00:26:21,520 --> 00:26:24,876
+Isn't this sick, I mean just standing by
+and allow the president to be killed?
+
+350
+00:26:25,040 --> 00:26:29,716
+- Not if you're Eric White it ain't.
+- To think, Eric's out there right now
+
+351
+00:26:29,880 --> 00:26:34,909
+without any idea that one day he'll become a
+between-meals snack that does ruin your appetite.
+
+352
+00:26:36,200 --> 00:26:38,794
+Unless we put things back the way they were.
+
+353
+00:26:47,360 --> 00:26:50,796
+Stand back, sir,
+our original selves are about to beam in.
+
+354
+00:26:50,960 --> 00:26:56,319
+When they realise their mistake they'll beam
+out again. I propose we go down to the fourth.
+
+355
+00:26:58,080 --> 00:27:00,037
+- (GUNSHOT)
+- First shot!
+
+356
+00:27:02,880 --> 00:27:06,032
+- It doesn't smell right. I think he's missed.
+- How come?
+
+357
+00:27:06,200 --> 00:27:08,714
+He's right, sir, by sending Oswald up to the sixth,
+
+358
+00:27:08,880 --> 00:27:12,475
+we've made the trajectory of his shot
+so steep he's only wounded him.
+
+359
+00:27:12,640 --> 00:27:15,200
+Let's start again and bring
+him back down to the fifth.
+
+360
+00:27:15,360 --> 00:27:19,149
+We can't use the fifth. Our original selves are
+destined to beam in there as fires his third shot
+
+361
+00:27:19,320 --> 00:27:21,550
+and this version of
+us is now on the fourth.
+
+362
+00:27:21,720 --> 00:27:26,157
+We've been copied more times than that poster
+of the tennis girl scratching her butt.
+
+363
+00:27:26,440 --> 00:27:28,328
+If we could arrange
+somehow for a second gunman
+
+364
+00:27:28,352 --> 00:27:31,355
+to fire from just behind that little
+hill over there, covered in lawn...
+
+365
+00:27:31,520 --> 00:27:34,239
+You mean the, er... the grassy knoll, sir?
+
+366
+00:27:34,400 --> 00:27:36,391
+Yeah, that'd solve it, wouldn't it?
+
+367
+00:27:36,560 --> 00:27:38,710
+Shoot the pres? Who?
+
+368
+00:27:38,880 --> 00:27:41,315
+- You can count me out.
+- Yeah, and me.
+
+369
+00:27:43,080 --> 00:27:48,553
+Hang on. Maybe, just maybe, there's someone
+who can get us out of this mess.
+
+370
+00:27:48,720 --> 00:27:55,160
+- Where are we going?
+- Idlewild Airport, July '65.
+
+371
+00:28:08,640 --> 00:28:10,039
+(WHOOSH)
+
+372
+00:28:11,560 --> 00:28:17,192
+This is right, he's being escorted to Hoover Open Prison
+in New York. Give me five minutes.
+
+373
+00:28:18,080 --> 00:28:19,354
+(WHOOSH)
+
+374
+00:28:21,440 --> 00:28:25,877
+Don't be alarmed, sir,
+but I have a very strange tale to tell.
+
+375
+00:28:26,320 --> 00:28:30,678
+I, ah, have had plenty of time
+to reflect on my days in the White House.
+
+376
+00:28:30,840 --> 00:28:34,231
+In all important respects,
+I believe I did a good job.
+
+377
+00:28:34,400 --> 00:28:38,792
+It was right to plan a pull-out of Vietnam,
+to fight for civil rights,
+
+378
+00:28:38,960 --> 00:28:42,112
+and, ah, to fight Congress, ah, to put a man on the Moon.
+
+379
+00:28:42,280 --> 00:28:49,038
+It was, ah, wrong, however, to, ah, act like an
+irresponsible jackass with all those women
+
+380
+00:28:49,200 --> 00:28:53,194
+and allow my enemies
+to wreak havoc on our nation.
+
+381
+00:28:53,400 --> 00:28:57,473
+But I can help, man...
+I mean, Mr President, man... I mean, sir.
+
+382
+00:28:57,680 --> 00:28:59,910
+And how er, can you help?
+
+383
+00:29:00,120 --> 00:29:04,591
+Well, come with us back to Dallas,
+November 1963, Be a second gunman.
+
+384
+00:29:04,760 --> 00:29:07,115
+The gunman behind the grassy knoll.
+
+385
+00:29:07,320 --> 00:29:11,951
+You mean... assassinate myself?
+
+386
+00:29:12,160 --> 00:29:16,279
+Yeah. It'll drive the conspiracy nuts crazy,
+but they'll never figure it out.
+
+387
+00:29:17,440 --> 00:29:19,875
+But I still have a future here.
+
+388
+00:29:20,040 --> 00:29:26,389
+Jackie left me, but, ah, when I get out,
+I can, ah, still make a contribution to the world.
+
+389
+00:29:27,160 --> 00:29:30,039
+See this airport? Idlewild Airport?
+
+390
+00:29:30,200 --> 00:29:33,875
+In our reality, they renamed it JFK after you.
+
+391
+00:29:34,080 --> 00:29:37,994
+Where I come from, you're a liberal
+icon, and that's the person you should be.
+
+392
+00:29:38,160 --> 00:29:41,551
+But if you're gonna be that person,
+you gonna have to sacrifice your life.
+
+393
+00:29:43,200 --> 00:29:46,591
+And only then will my reputation
+be restored in history?
+
+394
+00:29:46,800 --> 00:29:49,792
+Mmm. And I can get a smeggin' curry.
+
+395
+00:29:52,000 --> 00:29:56,471
+Ask not what your country can do for you...
+
+396
+00:29:56,640 --> 00:29:59,519
+ask what you can do for your country.
+
+397
+00:29:59,720 --> 00:30:02,951
+- Hey, that'd make a pretty neat speech, that!
+- It did.
+
+398
+00:30:35,840 --> 00:30:42,189
+I, ah... thank you all for giving me
+the opportunity to, ah... be reborn.
+
+399
+00:31:05,320 --> 00:31:06,719
+Smeg!
+
+400
+00:31:06,880 --> 00:31:10,794
+I forgot to ask if there are
+any curry houses in Dallas!
+
+401
+00:31:14,280 --> 00:31:17,511
+(CAT WHISTLES NONCHALANTLY)
+
+402
+00:31:18,360 --> 00:31:20,271
+Aaargh!
+
+403
+00:31:30,560 --> 00:31:32,198
+Right, Krytie. Same drill.
+
+404
+00:31:32,360 --> 00:31:34,829
+You measure the output voltage.
+I'll note the reading.
+
+405
+00:31:35,000 --> 00:31:37,640
+Just give me a second to get in position.
+
+406
+00:31:40,240 --> 00:31:42,834
+Right. In your own time.
+
+407
+00:31:55,680 --> 00:31:57,079
+Well?
+
+408
+00:31:57,240 --> 00:32:00,437
+350 volts, sir. Same as the others.
+
+409
+00:32:00,600 --> 00:32:03,399
+Not that one, then.
+Still, we're narrowing it down.
+
+410
+00:32:03,560 --> 00:32:07,599
+- Just 17 more to go.
+- Sir, might I suggest that we use an actual volt meter,
+
+411
+00:32:07,760 --> 00:32:09,831
+as opposed to, well... using me?
+
+412
+00:32:10,040 --> 00:32:13,078
+Oooh! Too good to be a
+volt meter now, are we?
+
+413
+00:32:13,240 --> 00:32:16,631
+I dunno, one morning spent
+poncing around without your guilt chip
+
+414
+00:32:16,800 --> 00:32:19,269
+and suddenly you think
+you're some hoity-toity robo-god
+
+415
+00:32:19,440 --> 00:32:22,273
+instead of the lashed-together
+Meccano gimboid that you are.
+
+416
+00:32:22,480 --> 00:32:25,871
+Oh, if you want me to be a volt meter
+I'm only too happy to be of service.
+
+417
+00:32:26,040 --> 00:32:29,292
+Why, if you asked me to remove my
+head and turn it into a chemical toilet,
+
+418
+00:32:29,316 --> 00:32:31,718
+complete with working
+flush, I'd be equally honoured.
+
+419
+00:32:31,880 --> 00:32:37,193
+It's just that firing my eyes out of my head at the speed
+of sound does invalidate my Divadroid service guarantee.
+
+420
+00:32:37,400 --> 00:32:39,960
+I would hate to malfunction
+and you not get a full refund.
+
+421
+00:32:40,160 --> 00:32:42,470
+I mean, wouldn't that be so annoying?
+
+422
+00:32:42,680 --> 00:32:45,399
+I am a total twonk.
+
+423
+00:32:45,560 --> 00:32:50,589
+How could I be such a saliva-dribbling,
+moronic, brain frozen, putzy little smegger?
+
+424
+00:32:50,800 --> 00:32:52,996
+It's good that book
+on self-enlightenment, isn't it?
+
+425
+00:32:53,200 --> 00:32:56,397
+The curry supplies. There was no debris.
+
+426
+00:32:56,560 --> 00:33:00,315
+Don't you get it? No little bits of floating
+crate? They weren't destroyed in the flood.
+
+427
+00:33:00,520 --> 00:33:02,670
+Well, what happened to them, then?
+
+428
+00:33:02,840 --> 00:33:06,913
+I took 'em. At some point in the future,
+I must go back to the past
+
+429
+00:33:07,080 --> 00:33:10,550
+and bring all the curry supplies
+to the present. Capisce?
+
+430
+00:33:10,760 --> 00:33:15,755
+Of course! Oh, it's so simple, even a half
+concussed gym teacher could understand it.
+
+431
+00:33:15,960 --> 00:33:18,236
+This is the last jaunt... I promise.
+
+432
+00:33:19,360 --> 00:33:23,797
+No, absolutely not. As senior technician on this ship,
+I forbid it, d'you hear me? I absolutely forbid it.
+
+433
+00:33:24,680 --> 00:33:26,671
+(WHOOSHING)
+
+434
+00:33:28,360 --> 00:33:32,957
+What is the point of me being his superior officer
+if he never obeys a single command?
+
+435
+00:33:33,120 --> 00:33:36,795
+You know, he hasn't even got the good manners to let
+me court-martial him. Not even when I ask him nicely.
+
+436
+00:33:37,840 --> 00:33:41,834
+- We might as well have a melon in command.
+- I thought we had, sir.
+
+437
+00:33:42,640 --> 00:33:44,631
+Oh, I see. Sorry, sir.
+
+438
+00:33:44,800 --> 00:33:47,633
+The voltage must have corrupted
+my comprehension unit.
+
+439
+00:33:48,800 --> 00:33:51,633
+Stand back!
+It sounds like something's coming in.
+
+440
+00:33:51,800 --> 00:33:54,189
+(WHOOSHING)
+
+441
+00:34:06,040 --> 00:34:12,594
+Yes! This thing is amazing.
+If only we could use it to get back to Earth our time.
+
+442
+00:34:12,800 --> 00:34:17,112
+Sir, you saw the havoc we caused in Dallas
+in the first two seconds of our arrival.
+
+443
+00:34:17,280 --> 00:34:21,274
+Heaven knows what we'd reduce civilisation
+to if we lived in the past permanently.
+
+444
+00:34:21,440 --> 00:34:26,913
+He's right. We don't want anymore idiotic gaffs
+until... Think we could make it to half four?
+
+445
+00:34:30,200 --> 00:34:35,798
+You know, I must have passed this thing
+a million times. What the hell's it for?
+
+446
+00:34:48,120 --> 00:34:53,069
+Oh! Nice going on the idiotic gaffs front, sir.
+We almost lasted a full five seconds, there.
+
+447
+00:34:53,240 --> 00:34:58,314
+Kryten, surely you're not implying that was
+accidental? I've had that ace up my sleeve for months.
+
+448
+00:35:31,240 --> 00:35:33,629
+They're not coming back.
+
+449
+00:35:33,800 --> 00:35:35,996
+I'm lost in deep space,
+
+450
+00:35:36,160 --> 00:35:38,720
+over three million years from home.
+
+451
+00:35:38,880 --> 00:35:42,475
+No life, no bird, no nothin'.
+
+452
+00:35:43,280 --> 00:35:46,477
+Just me and three and a half tons of curry.
+
+453
+00:35:48,000 --> 00:35:50,469
+Fan-smeggin'-tastic!
+
+454
+00:36:18,520 --> 00:36:21,876
+# It's cold outside,
+there's no kind of atmosphere
+
+455
+00:36:22,040 --> 00:36:25,396
+# I'm all alone, more or less
+
+456
+00:36:25,560 --> 00:36:28,712
+# Let me fly far away from here
+
+457
+00:36:28,880 --> 00:36:31,599
+# Fun, fun, fun
+
+458
+00:36:31,760 --> 00:36:35,355
+# In the sun, sun, sun
+
+459
+00:36:35,520 --> 00:36:38,751
+# I want to lie, shipwrecked and comatose
+
+460
+00:36:38,920 --> 00:36:42,117
+# Drinking fresh mango juice
+
+461
+00:36:42,280 --> 00:36:45,432
+# Goldfish shoals, nibbling at my toes
+
+462
+00:36:45,600 --> 00:36:48,240
+# Fun, fun, fun
+
+463
+00:36:48,400 --> 00:36:52,155
+# In the sun, sun, sun
+
+464
+00:36:52,320 --> 00:36:54,960
+# Fun, fun, fun
+
+465
+00:36:55,120 --> 00:36:59,193
+# In the sun, sun, sun #
+

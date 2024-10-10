@@ -1,0 +1,1838 @@
+﻿1
+00:00:02,200 --> 00:00:05,113
+("RED DWARF" THEME)
+
+2
+00:00:46,360 --> 00:00:48,351
+How are you feeling, Mr Lister?
+
+3
+00:00:48,520 --> 00:00:51,319
+(WEARILY) Oh, much better, thanks, Kryten.
+
+4
+00:00:52,360 --> 00:00:57,673
+- Much, much better.
+- Well, you certainly look better, far better.
+
+5
+00:00:57,840 --> 00:01:01,117
+I can't believe how much
+the swelling's gone down overnight.
+
+6
+00:01:01,320 --> 00:01:02,616
+Do you reckon?
+
+7
+00:01:02,640 --> 00:01:06,552
+Oh, definitely. It was almost interfering
+with the ceiling fan yesterday afternoon.
+
+8
+00:01:06,720 --> 00:01:10,839
+You're nearly back to your old old self. In
+fact, you can hardly tell you've got space mumps at all.
+
+9
+00:01:11,040 --> 00:01:12,478
+So, when can I have a mirror?
+
+10
+00:01:12,502 --> 00:01:15,591
+Ah, I don't think we're
+quite ready for a mirror just yet, sir.
+
+11
+00:01:15,800 --> 00:01:18,633
+Let's take it one step at a time, shall we?
+
+12
+00:01:19,200 --> 00:01:24,912
+Oh, there what did I tell you? It's gone down
+eight inches overnight. You'll be up and about in no time.
+
+13
+00:01:25,080 --> 00:01:28,696
+I don't know what I'd have done
+without you these last three weeks, Kryten.
+
+14
+00:01:28,720 --> 00:01:30,473
+You're like Florence
+Nightingdroid.
+
+15
+00:01:31,640 --> 00:01:37,318
+- Did you bring my breakfast?
+- Yes, sir. Hot lager with croutons. Just the way you asked.
+
+16
+00:01:37,520 --> 00:01:41,639
+You certainly find out who your mates are
+when you've got an unsightly disfiguring ailment.
+
+17
+00:01:41,840 --> 00:01:45,390
+- I wouldn't say unsightly, sir.
+- Get out of town, Kryten.
+
+18
+00:01:45,560 --> 00:01:49,076
+I've got a head like a hot-air balloon.
+I look like the Human Light Bulb.
+
+19
+00:01:49,240 --> 00:01:52,124
+And how many times
+have they visited me?
+
+20
+00:01:52,148 --> 00:01:55,031
+How many times have they dropped by with
+a word of comfort or a bunch of grapes?
+
+21
+00:01:55,240 --> 00:01:58,471
+It's just not been possible, sir.
+Mr Rimmer has been on vacation.
+
+22
+00:01:58,640 --> 00:02:02,429
+ Vacation? The world's most charismatic man?
+Where did he go?
+
+23
+00:02:02,600 --> 00:02:05,069
+He's been on a rambling holiday through the diesel decks.
+
+24
+00:02:05,280 --> 00:02:09,239
+A ten-day hike through the ship's
+combustion engines with two of the skutters.
+
+25
+00:02:09,400 --> 00:02:13,155
+- He said he'd pop by later and show you the slides.
+- He didn't, did he?
+
+26
+00:02:13,360 --> 00:02:16,990
+Well, he's been loading the
+projection carousel for 24 hours now, sir.
+
+27
+00:02:17,200 --> 00:02:19,191
+We've got to stop him!
+
+28
+00:02:19,360 --> 00:02:23,433
+A slide show of the diesel decks -
+that could really finish me off.
+
+29
+00:02:23,600 --> 00:02:25,750
+I would have thought the Cat
+would have dropped in though.
+
+30
+00:02:25,960 --> 00:02:28,713
+Well, he's been preoccupied of late
+what with all this pod business.
+
+31
+00:02:29,800 --> 00:02:34,431
+Oh, screw down my diodes and call me Frank!
+I wasn't supposed to mention that.
+
+32
+00:02:34,640 --> 00:02:35,698
+What pod?
+
+33
+00:02:35,722 --> 00:02:38,918
+Oh! Now you're not well, sir.
+Now, just forget I mentioned it.
+
+34
+00:02:39,120 --> 00:02:40,793
+Come on, Kryten. What pod?
+
+35
+00:02:41,000 --> 00:02:45,392
+Ohh... Yesterday evening, we came across
+an escape pod floating in the local asteroid belt.
+
+36
+00:02:45,560 --> 00:02:49,315
+It contains the survivor of some space crash,
+apparently cryogenically frozen.
+
+37
+00:02:49,520 --> 00:02:53,912
+- Oh, yeah?
+- All the signs are she's in a suitable condition for revival.
+
+38
+00:02:54,120 --> 00:02:57,909
+- She?
+- As far as we can tell, she's a she, yes.
+
+39
+00:02:58,080 --> 00:03:01,198
+That's just great, isn't it? That's just typical.
+
+40
+00:03:01,400 --> 00:03:03,960
+The first female company in three million years,
+
+41
+00:03:04,120 --> 00:03:07,112
+and I look like something that belongs up a whale's nose.
+
+42
+00:03:07,320 --> 00:03:10,392
+- Smeg!
+- You can't get up, sir! What are you doing?
+
+43
+00:03:10,600 --> 00:03:12,716
+What do you think I'm doing?
+There's a woman on board!
+
+44
+00:03:12,880 --> 00:03:15,110
+I'm on the cop.
+
+45
+00:03:16,880 --> 00:03:20,510
+- So, who is she, Holly?
+- It says on the pod, 'Barbra Bellini.'
+
+46
+00:03:20,680 --> 00:03:23,638
+Barbra Bellini. What a beautiful name.
+
+47
+00:03:23,800 --> 00:03:27,634
+There's no justice. How could this happen to me?
+
+48
+00:03:27,840 --> 00:03:30,639
+Maybe, I could wear a turban
+and pretend I'm from India.
+
+49
+00:03:30,840 --> 00:03:33,593
+Maybe you could stick a spike in your
+head and pretend you're the Taj Mahal.
+
+50
+00:03:33,800 --> 00:03:37,236
+Oh, it's you.
+Well, thanks for visiting me, man. Thanks a lot.
+
+51
+00:03:37,440 --> 00:03:40,751
+Look at you. You know what
+you look like? It's nauseating.
+
+52
+00:03:40,920 --> 00:03:45,039
+You could go double-dating with the Elephant Man
+and *he* would be the looker.
+
+53
+00:03:46,400 --> 00:03:48,266
+- Why isn't this activated?
+- What?
+
+54
+00:03:48,290 --> 00:03:50,155
+How come no-one started up the thaw process.
+
+55
+00:03:50,360 --> 00:03:54,240
+- I thought Alphabet-Head did it.
+- So, who is she, man? Where's she from?
+
+56
+00:03:54,440 --> 00:03:57,398
+Who cares? At last... a date.
+
+57
+00:03:57,600 --> 00:03:59,618
+Who says she's gonna
+be interested in you?
+
+58
+00:03:59,642 --> 00:04:01,116
+I see what you're saying.
+
+59
+00:04:01,280 --> 00:04:04,079
+All this time alone in deep space
+could have driven her insane, right?
+
+60
+00:04:04,280 --> 00:04:07,716
+No. Say she's just an ordinary
+person, who doesn't go for your type?
+
+61
+00:04:07,920 --> 00:04:10,958
+I would have heard about her! She would have appeared in "Ripley's Believe It Or Not".
+
+62
+00:04:11,160 --> 00:04:13,879
+- Well say she's interested in somebody else?
+- Like who?
+
+63
+00:04:14,120 --> 00:04:18,034
+I dunno. Like... Well, like me?
+
+64
+00:04:18,240 --> 00:04:21,073
+You've got a head like like a watermelon.
+What you gonna do?
+
+65
+00:04:21,240 --> 00:04:25,154
+Paint it with yellow and black stripes and
+tell her you play quarterback with the Bengals?
+
+66
+00:04:25,320 --> 00:04:29,279
+I just think you're a little bit cocky for a guy
+who's never actually met a real woman before.
+
+67
+00:04:29,480 --> 00:04:35,112
+I've seen mirrors. I have eyes.
+Let's face it, buddy, I have a body that makes men wet.
+
+68
+00:04:37,120 --> 00:04:39,932
+- Have you ever heard of an animal called an Iranian jird?
+- No.
+
+69
+00:04:39,956 --> 00:04:42,752
+It can do 150 pelvic
+thrusts a second.
+
+70
+00:04:43,560 --> 00:04:45,790
+- So?
+- That's me in slo-mo.
+
+71
+00:04:45,960 --> 00:04:50,796
+Put a Black & Decker drill on the end,
+and I can make it through walls, boy!
+
+72
+00:04:53,400 --> 00:04:55,471
+Listy, what are you doing up?
+
+73
+00:04:55,680 --> 00:04:59,389
+Shouldn't you be in the greenhouse
+with the rest of the cantaloupes?
+
+74
+00:04:59,600 --> 00:05:02,638
+- Who started the RP?
+- He did.
+
+75
+00:05:02,800 --> 00:05:05,872
+You simple-minded gimboid.
+Didn't I tell you to leave this to me?
+
+76
+00:05:06,080 --> 00:05:08,594
+Look, what's the problem?
+She's in there, let's get her out.
+
+77
+00:05:08,800 --> 00:05:14,159
+The problem, Pussy Cat Willum,
+is this capsule was ejected from a prison ship
+
+78
+00:05:14,320 --> 00:05:16,755
+a prison ship on which the convicts mutinied.
+
+79
+00:05:16,920 --> 00:05:22,791
+There was a pitched battle with only two survivors:
+one prisoner, one guard - the erstwhile Ms Bellini.
+
+80
+00:05:22,960 --> 00:05:25,634
+One of those two got into this pod and escaped.
+
+81
+00:05:25,800 --> 00:05:30,237
+But, of course, you'll know all of this having familiarised
+yourself thoroughly with the black box recording.
+
+82
+00:05:30,440 --> 00:05:34,877
+- So, if it's not Bellini in there, then who is it?
+- One of the prisoners.
+
+83
+00:05:35,040 --> 00:05:38,954
+And considering
+that ship was transporting 40 psychotic,
+
+84
+00:05:39,120 --> 00:05:41,839
+half-crazed, mass-murdering, super-strong androids,
+
+85
+00:05:42,000 --> 00:05:44,913
+we thought it prudent to find out who the
+smeg was in there before we woke them up!
+
+86
+00:05:45,120 --> 00:05:47,316
+With respect, sir, they're not androids.
+
+87
+00:05:47,480 --> 00:05:49,756
+- They're simulants.
+- What's the difference?
+
+88
+00:05:49,920 --> 00:05:54,994
+Well, the basic difference is that an android would never rip off a human's head and spit down his neck.
+
+89
+00:05:55,200 --> 00:06:01,071
+- Can we stop it, Hol?
+- What? Oh, no. One-way process.
+
+90
+00:06:01,240 --> 00:06:04,539
+Well, can't we find out who's
+in there by X-raying the pod?
+
+91
+00:06:04,563 --> 00:06:07,634
+No. Lead lining. Has to
+survive in space, dunnit?
+
+92
+00:06:07,840 --> 00:06:11,196
+- There must be some way of finding out.
+- Well, there is.
+
+93
+00:06:11,360 --> 00:06:14,000
+All we have to do is hang around here for 24 hours.
+
+94
+00:06:14,160 --> 00:06:17,804
+Then, if you find your limbs scattered around
+deep space and your neck full of saliva.
+
+95
+00:06:17,828 --> 00:06:19,917
+You can take it as read, it probably wasn't Babs.
+
+96
+00:06:21,440 --> 00:06:24,876
+Why not tool up with bazookoids,
+wait for the pod to open,
+
+97
+00:06:25,040 --> 00:06:28,670
+and if it's one of these bad-ass
+android dudes, let it eat laser?
+
+98
+00:06:28,880 --> 00:06:30,917
+Simulants are virtually indestructible, sir.
+
+99
+00:06:31,080 --> 00:06:35,551
+It could easily withstand a volley of bazookoid
+fire at close range with only minimal damage.
+
+100
+00:06:35,720 --> 00:06:39,600
+It would certainly survive long enough to make
+balloon animals out of your lower intestines.
+
+101
+00:06:39,800 --> 00:06:43,077
+Well, I see no other option.
+Let's blast it back into space.
+
+102
+00:06:43,280 --> 00:06:49,549
+Hang on! Say it isn't the simulant?
+You can't just shoot an innocent woman into space.
+
+103
+00:06:49,720 --> 00:06:54,317
+What a dilemma!
+Inside this pod is either death or a date.
+
+104
+00:06:55,120 --> 00:06:57,316
+Personally, I'm prepared to take the risk.
+
+105
+00:06:57,520 --> 00:07:03,038
+Meanwhile, the pod is defrosting, and
+we haven't decided what to do. Holly, any ideas?
+
+106
+00:07:03,240 --> 00:07:05,159
+Right. Here's a
+possibility: the black box.
+
+107
+00:07:05,183 --> 00:07:08,758
+Contains the coordinates of the penal
+colony the prison ship was heading for.
+
+108
+00:07:08,920 --> 00:07:11,594
+- So?
+- Well, there's bound to be facilities there
+
+109
+00:07:11,760 --> 00:07:13,797
+to contain any hostile life form.
+
+110
+00:07:13,960 --> 00:07:16,395
+If it's turns out to be Bellini, we release her.
+
+111
+00:07:16,560 --> 00:07:19,632
+If it's the simulant, we can bung him in the cell and leave him to rot.
+
+112
+00:07:19,840 --> 00:07:23,151
+IF the colony's still there, and IF it's still operational.
+
+113
+00:07:23,360 --> 00:07:27,911
+There's an old android saying which I believe
+has particular relevance here it goes like this:
+
+114
+00:07:28,080 --> 00:07:31,835
+"If you don't gosub a program loop,
+you'll never get a subroutine."
+
+115
+00:07:32,040 --> 00:07:35,556
+Yeah, we have a human expression which is pretty similar:
+"Nothing ventured, nothing gained."
+
+116
+00:07:35,760 --> 00:07:38,593
+Oh no, I think the android one is punchier.
+
+117
+00:07:42,920 --> 00:07:46,231
+- Do you have to sit up here?
+- It's warmer in the front. It helps my gunge.
+
+118
+00:07:46,400 --> 00:07:49,392
+I can't see anything, your head keeps getting in the way of the mirror.
+
+119
+00:07:49,560 --> 00:07:52,678
+In fact, it keeps getting in the way of the windscreen.
+
+120
+00:07:52,840 --> 00:07:54,831
+Next! Ah, now, this one...
+
+121
+00:07:55,000 --> 00:07:57,799
+We reached this beauty on the
+evening of the fourth day.
+
+122
+00:07:57,960 --> 00:08:02,716
+The Cameron Mackintosh
+40-valve air-cooled diesel. The 184.
+
+123
+00:08:02,880 --> 00:08:06,350
+Almost identical to the 179,
+but have you noticed the difference?
+
+124
+00:08:06,520 --> 00:08:08,670
+See the refinement in the funnel edges?
+
+125
+00:08:12,000 --> 00:08:16,790
+I thought we're never get another chance to see one of these
+so we bivouacked down for the night under the fuel pump.
+
+126
+00:08:16,960 --> 00:08:19,349
+There's a funny story about that, which I'll tell you later
+
+127
+00:08:19,520 --> 00:08:24,037
+but we're not going to get to any of the
+class fives unless we push along. Next!
+
+128
+00:08:24,200 --> 00:08:27,909
+- Ah! Another favourite.
+- Sir, can we take a break for a while?
+
+129
+00:08:28,080 --> 00:08:30,993
+It appears my intelligence circuits have melted.
+
+130
+00:08:32,480 --> 00:08:35,313
+We're not going to get through them all, Kryten, if we take a second break...
+
+131
+00:08:35,520 --> 00:08:38,433
+Sir, that's a gamble I'm willing to take.
+
+132
+00:08:38,760 --> 00:08:40,910
+Now, the class 40s, the first twin...
+
+133
+00:08:41,120 --> 00:08:43,157
+(SQUELCH)
+
+134
+00:08:45,480 --> 00:08:48,040
+Oh, my God!
+
+135
+00:08:48,520 --> 00:08:51,399
+His head burst!
+
+136
+00:08:54,640 --> 00:08:58,349
+That is better. That is so much better. I feel good!
+
+137
+00:08:58,560 --> 00:09:01,234
+Talk about a weight off your mind.
+
+138
+00:09:02,280 --> 00:09:07,070
+I don't want to live!
+Someone, please... shoot me in the head!
+
+139
+00:09:10,200 --> 00:09:14,433
+- (LISTER) Is there anything down there, Hol?
+- No life forms, not according to the heat scan.
+
+140
+00:09:14,600 --> 00:09:18,434
+- Any mechanical intelligence?
+- Yeah, mainframe's still operational.
+
+141
+00:09:18,600 --> 00:09:21,513
+Just initiating interface...
+Hang about. Here we go.
+
+142
+00:09:21,680 --> 00:09:23,751
+Getting a message.
+
+143
+00:09:23,920 --> 00:09:25,911
+(JUSTICE COMPUTER) Welcome to Justice World,
+
+144
+00:09:26,120 --> 00:09:29,078
+Please state your clearance code
+and prison officer ident.
+
+145
+00:09:29,280 --> 00:09:33,069
+We're not a prison ship. We don't have a clearance
+code. We just want to use your facilities.
+
+146
+00:09:33,280 --> 00:09:35,954
+- State life form inventory.
+- Four.
+
+147
+00:09:36,120 --> 00:09:38,475
+One hologram, one mechanoid, two humanoid.
+
+148
+00:09:38,680 --> 00:09:43,117
+- Transfer ship navicomp to my jurisdiction.
+- OK, guys.
+
+149
+00:09:43,960 --> 00:09:48,477
+On landing, please disembark and proceed
+through the neutral area to the clearance zone.
+
+150
+00:09:57,640 --> 00:10:03,079
+Until you are granted a clearance code,
+please observe all security requirements.
+
+151
+00:10:03,240 --> 00:10:07,120
+Your party will be met
+by a consignment of escort boots.
+
+152
+00:10:09,960 --> 00:10:13,112
+Please step into the boots.
+
+153
+00:10:18,240 --> 00:10:22,473
+I'm supposed to wear these?!
+These look like Frankenstein's hand-me-downs.
+
+154
+00:10:22,640 --> 00:10:26,235
+Haven't you got anything
+with a Cuban heel or a crepe sole?
+
+155
+00:10:26,440 --> 00:10:31,355
+- I can't wear these. I'm a hologram.
+- That has been accounted for.
+
+156
+00:10:32,160 --> 00:10:34,549
+(BOOTS WHIRR)
+
+157
+00:10:34,720 --> 00:10:36,233
+Now what?
+
+158
+00:10:44,400 --> 00:10:46,710
+(ELECTRONIC PULSE)
+
+159
+00:10:46,880 --> 00:10:51,750
+- Oh, God! What's this?
+- Relax, sir. It's just a mind probe.
+
+160
+00:10:56,080 --> 00:10:59,516
+- Hang on a minute, what's a mind probe?
+- The computer was just searching our minds,
+
+161
+00:10:59,680 --> 00:11:02,240
+presumably for any evidence of criminal activity, sir.
+
+162
+00:11:03,760 --> 00:11:06,229
+What do you mean, "criminal activity"?
+
+163
+00:11:06,440 --> 00:11:09,273
+I wouldn't worry about it, sir.
+It's just a routine clearance procedure.
+
+164
+00:11:09,480 --> 00:11:12,916
+Yeah, yeah, but when you say "criminal activity",
+what do you mean by "criminal activity"?
+
+165
+00:11:13,120 --> 00:11:16,431
+- I mean, how criminal do you mean by "criminal"?
+- What are you bleating on about, Lister?
+
+166
+00:11:16,640 --> 00:11:19,393
+Just define "criminal activity" for me, that's all!
+
+167
+00:11:19,600 --> 00:11:23,309
+Well, imagine a situation where someone had
+committed a crime and concealed it from the law,
+
+168
+00:11:23,680 --> 00:11:27,674
+the mind probe would be able to uncover that
+crime and sentence that person accordingly.
+
+169
+00:11:27,880 --> 00:11:30,520
+Why did no one tell me this
+before I put the smegging boots on?
+
+170
+00:11:30,720 --> 00:11:35,556
+Oh, Listy, Listy. Is that a small sewage plant
+you're carrying in your trousers...
+
+171
+00:11:36,960 --> 00:11:39,076
+..or I detect you're a tad concerned?
+
+172
+00:11:39,280 --> 00:11:43,319
+Well, come on, guys. Everyone's done something
+in their past that's been a little bit illegal.
+
+173
+00:11:43,520 --> 00:11:46,831
+- I haven't. I never so much as got a parking ticket.
+- Oh, smeggin' hell!
+
+174
+00:11:47,040 --> 00:11:49,077
+- What did you do?
+- Well, like scrumping.
+
+175
+00:11:49,240 --> 00:11:52,007
+When I was a kid back in Liverpool,
+we used to always go scrumping.
+
+176
+00:11:52,031 --> 00:11:53,871
+Oh, Stealing apples?
+That's hardly a crime, sir.
+
+177
+00:11:54,080 --> 00:11:58,039
+Yeah, but me and me mates,
+we used to go scrumping for cars.
+
+178
+00:11:58,240 --> 00:12:00,470
+- Did you get caught?
+- All the time, I was stupid.
+
+179
+00:12:00,680 --> 00:12:02,990
+Oh, there's no problem then, you've
+already served your punishment.
+
+180
+00:12:03,160 --> 00:12:05,879
+There were other things as a kid, though.
+Things that I didn't get caught for.
+
+181
+00:12:06,080 --> 00:12:08,799
+- Like what?
+- Well, there was this one time at this hotel...
+
+182
+00:12:09,000 --> 00:12:11,116
+Oh, lots of people take towels from hotels, sir.
+
+183
+00:12:11,320 --> 00:12:13,118
+I took the bed.
+
+184
+00:12:13,280 --> 00:12:15,238
+I winched it out the
+window to me mates outside.
+
+185
+00:12:15,262 --> 00:12:17,513
+I was renting this flat, you
+see. It was unfurnished.
+
+186
+00:12:17,720 --> 00:12:21,315
+- You mean to say you went to a hotel and stole the bed?!
+- I stole the entire room.
+
+187
+00:12:21,520 --> 00:12:24,034
+Absolutely despicable. You're a common thief.
+
+188
+00:12:24,240 --> 00:12:26,804
+I'm not making excuses,
+but everyone was doing it.
+
+189
+00:12:26,828 --> 00:12:29,235
+I wasn't strong enough
+to go against the flow.
+
+190
+00:12:29,440 --> 00:12:33,752
+- I would not like to be in your boots right now, buddy!
+- Why? What do you think's going to happen to me?
+
+191
+00:12:33,960 --> 00:12:38,079
+Oh, don't worry about it, sir. I'm sure they're not
+going to be interested in some minor misdemeanour
+
+192
+00:12:38,240 --> 00:12:40,993
+you committed as an adolescent
+over three million years ago.
+
+193
+00:12:41,200 --> 00:12:45,353
+- Seriously, Kryten, do you reckon?
+- Boy, I'm really getting the hang of this lie mode
+
+194
+00:12:45,520 --> 00:12:47,511
+That was totally convincing, wasn't it?
+
+195
+00:12:51,440 --> 00:12:54,478
+(JUSTICE COMPUTER)
+The mechanoid Kryten - clearance granted.
+
+196
+00:12:54,640 --> 00:12:56,870
+You may go freely about the complex.
+
+197
+00:13:04,800 --> 00:13:08,316
+The creature known as Cat - clearance granted.
+
+198
+00:13:08,520 --> 00:13:11,034
+Oooooooooowwww!
+
+199
+00:13:11,200 --> 00:13:14,192
+Hey, I hear they do good bread and water here, buddy.
+
+200
+00:13:15,640 --> 00:13:20,635
+The human known as Lister -
+despite a number of petty criminal acts -
+
+201
+00:13:20,840 --> 00:13:22,990
+clearance granted.
+
+202
+00:13:29,560 --> 00:13:31,790
+The hologram known as Rimmer -
+
+203
+00:13:32,520 --> 00:13:39,278
+guilty of second-degree murder, 1,167 counts.
+
+204
+00:13:40,520 --> 00:13:42,591
+No. There must be some mistake, surely?
+
+205
+00:13:42,760 --> 00:13:48,153
+Each count carries a statutory penalty
+of eight years' penal servitude.
+
+206
+00:13:48,320 --> 00:13:50,675
+In the light of your hologrammatic status,
+
+207
+00:13:50,840 --> 00:13:53,354
+these sentences are to be served consecutively,
+
+208
+00:13:53,520 --> 00:13:59,755
+making a total sentence of 9,328 years.
+
+209
+00:14:00,880 --> 00:14:04,839
+I've never so much as returned a library book late!
+Second-degree murder?
+
+210
+00:14:05,000 --> 00:14:08,356
+A thousand people? 
+I would have remembered!
+
+211
+00:14:08,520 --> 00:14:13,196
+Your wilful negligence
+in failing to reseal a drive plate
+
+212
+00:14:13,360 --> 00:14:15,829
+resulted in the deaths of the entire crew
+
+213
+00:14:16,040 --> 00:14:20,716
+of the Jupiter Mining Corporation vessel
+the Red Dwarf.
+
+214
+00:14:20,880 --> 00:14:22,871
+Oh, that.
+
+215
+00:14:24,000 --> 00:14:27,914
+Sentence to commence immediately.
+
+216
+00:14:28,920 --> 00:14:33,630
+You are now leaving the neutral area
+and entering the Justice Zone.
+
+217
+00:14:33,800 --> 00:14:38,351
+Beyond this point,
+it is impossible to commit any act of injustice.
+
+218
+00:14:38,520 --> 00:14:39,840
+(RIMMER) Help!
+
+219
+00:14:45,160 --> 00:14:46,992
+Hi, killer.
+
+220
+00:14:47,160 --> 00:14:52,075
+- Nine thousand years. Nine!
+- I brought you a book.
+
+221
+00:14:52,800 --> 00:14:56,156
+Oh, thanks. That'll really help the centuries fly past.
+
+222
+00:14:56,360 --> 00:14:58,590
+Don't panic, man. We're gonna get you out of here.
+
+223
+00:14:58,800 --> 00:15:01,633
+Why bother? I'll be up for parole
+in another couple of ice ages.
+
+224
+00:15:01,840 --> 00:15:05,310
+Look, Kryten reckons you've got the Right of Appeal.
+He's trying to put a case together right now.
+
+225
+00:15:05,480 --> 00:15:09,838
+This isn't a bad place for a prison. How come
+there are no locks or bars or guards or anything?
+
+226
+00:15:10,040 --> 00:15:15,274
+There doesn't need to be. The whole prison complex is
+covered by something called the Justice Field.
+
+227
+00:15:15,440 --> 00:15:17,795
+I had to sit through this tedious lecture.
+
+228
+00:15:17,960 --> 00:15:21,351
+Apparently, it's physically impossible
+to commit any sort of crime here.
+
+229
+00:15:21,560 --> 00:15:24,200
+- What do you mean?
+- Just try and commit a crime. You'll see.
+
+230
+00:15:24,880 --> 00:15:27,235
+- Well, like what?
+- I don't know. Anything.
+
+231
+00:15:27,400 --> 00:15:29,516
+Arson. Try and set fire to those sheets.
+
+232
+00:15:30,360 --> 00:15:32,874
+- OK.
+- Go on. Try it.
+
+233
+00:15:35,280 --> 00:15:38,910
+Whatever crime you try and commit,
+the consequences happen to you.
+
+234
+00:15:40,800 --> 00:15:42,837
+Smeggin' hell!
+
+235
+00:15:46,400 --> 00:15:49,870
+Nice example, Rimmer! Nice example!
+
+236
+00:15:50,040 --> 00:15:52,509
+You could have just
+explained that to me verbally.
+
+237
+00:15:53,520 --> 00:15:55,716
+It's the same with stealing. Same with everything.
+
+238
+00:15:55,880 --> 00:15:59,919
+Right, I'm with you. So if you nick something,
+something of yours goes missing, yeah?
+
+239
+00:16:00,120 --> 00:16:02,111
+Right. Try it.
+
+240
+00:16:04,680 --> 00:16:07,672
+- No.
+- You see? It's the perfect system.
+
+241
+00:16:07,840 --> 00:16:09,785
+It forces the inmates
+to adhere to the law.
+
+242
+00:16:09,809 --> 00:16:11,754
+Once they get out, it's
+become second nature.
+
+243
+00:16:11,960 --> 00:16:15,032
+Good news.
+The justice computer has sanctioned a retrial.
+
+244
+00:16:15,240 --> 00:16:17,880
+I think we have a very strong case.
+
+245
+00:16:18,080 --> 00:16:22,677
+You do? It's simply a question of differentiating
+between guilt and culpability, sir.
+
+246
+00:16:22,840 --> 00:16:26,435
+What the mind probe detected was
+your own sense of guilt about the accident.
+
+247
+00:16:26,640 --> 00:16:29,109
+In a way, you tried and convicted yourself.
+
+248
+00:16:29,280 --> 00:16:33,513
+I simply have to establish that you're
+a neurotic, under-achieving emotional retard
+
+249
+00:16:33,720 --> 00:16:37,475
+whose ambition far outstrips his miniscule ability
+
+250
+00:16:37,640 --> 00:16:39,756
+and consequently blames himself for an accident
+
+251
+00:16:39,920 --> 00:16:42,230
+for which he could not possibly have been responsible.
+
+252
+00:16:42,440 --> 00:16:47,150
+You're going to prove that I was innocent of negligence
+on the grounds that I'm a halfwitted incompetent?
+
+253
+00:16:47,360 --> 00:16:51,638
+Man, there ain't a jury in the land
+that wouldn't buy a plea like that!
+
+254
+00:16:52,360 --> 00:16:55,876
+Well, no. Not a halfwit, exactly... more a buffoon.
+
+255
+00:16:56,080 --> 00:16:59,311
+But how would you begin to build such a case?
+Where would you conjur up the evidence?
+
+256
+00:16:59,520 --> 00:17:03,115
+Sir, providing I can have complete
+free access to your personal data files,
+
+257
+00:17:03,280 --> 00:17:06,591
+I think I can come up with the outline of
+a winning case by... lunchtime?
+
+258
+00:17:09,240 --> 00:17:12,198
+(KRYTEN) The mind probe
+was created to detect guilt,
+
+259
+00:17:12,400 --> 00:17:15,756
+yet in the case of Arnold Judas Rimmer,
+
+260
+00:17:16,760 --> 00:17:20,879
+the guilt it detected attaches to no crime.
+
+261
+00:17:21,040 --> 00:17:24,396
+He held a position of little or
+no importance on Red Dwarf.
+
+262
+00:17:24,600 --> 00:17:28,559
+He was a lowly grease monkey, a zero, a nothing,
+
+263
+00:17:28,760 --> 00:17:31,912
+a piece of sputum floating in the toilet bowl of life.
+
+264
+00:17:32,480 --> 00:17:35,996
+Yet he could never come to terms
+with a lifetime of underachievement.
+
+265
+00:17:36,200 --> 00:17:39,477
+His absurdly inflated ego would never permit it.
+
+266
+00:17:39,640 --> 00:17:42,598
+He's like the security guard on the front gate
+
+267
+00:17:42,760 --> 00:17:45,229
+who considers himself head of the corporation.
+
+268
+00:17:45,440 --> 00:17:48,831
+So when the crew were wiped out
+by a nuclear accident,
+
+269
+00:17:49,000 --> 00:17:51,469
+Arnold Rimmer accepted the blame.
+
+270
+00:17:51,640 --> 00:17:55,031
+It was his ship, ergo his fault.
+
+271
+00:17:55,240 --> 00:17:58,153
+I ask the court - look at this man,
+
+272
+00:17:58,320 --> 00:18:04,396
+this man who sat and failed
+his astronavigation exam on 13 occasions.
+
+273
+00:18:05,520 --> 00:18:09,195
+This sad man, this pathetic man,
+this joke of a man...
+
+274
+00:18:09,360 --> 00:18:11,670
+Kryten. You're going over the
+top, the court will never buy it.
+
+275
+00:18:11,880 --> 00:18:15,396
+Sir, trust me. My whole case
+hinges on proving you're a dork.
+
+276
+00:18:16,760 --> 00:18:18,239
+Understood.
+
+277
+00:18:18,440 --> 00:18:20,875
+I call my first witness.
+
+278
+00:18:26,280 --> 00:18:28,510
+- Name?
+- Dave Lister.
+
+279
+00:18:28,720 --> 00:18:30,757
+Occupation?
+
+280
+00:18:34,240 --> 00:18:35,878
+Er, Bum.
+
+281
+00:18:36,080 --> 00:18:38,799
+Would you describe the accused as a friend?
+
+282
+00:18:39,000 --> 00:18:41,992
+- Take the Fifth!
+- Now, please answer the question.
+
+283
+00:18:42,160 --> 00:18:46,757
+Remember, you are under polygraphic surveillance.
+Would you describe the accused as a friend?
+
+284
+00:18:46,960 --> 00:18:49,429
+No, I'd describe the accused as a git.
+
+285
+00:18:50,680 --> 00:18:53,638
+Who would you say then, is the person who thinks of him most fondly?
+
+286
+00:18:53,840 --> 00:18:55,592
+I do.
+
+287
+00:18:55,800 --> 00:18:58,553
+And are there no others who have
+shared moments of intimacy with him?
+
+288
+00:18:58,760 --> 00:19:01,354
+Only one, but she's got a puncture.
+
+289
+00:19:02,240 --> 00:19:03,639
+Objection!
+
+290
+00:19:04,480 --> 00:19:09,236
+- (COMPUTER) Overruled.
+- So you wouldn't describe him as a man with a good social life?
+
+291
+00:19:09,440 --> 00:19:14,196
+No. He partied less than Rudolf Hess.
+He was totally dedicated to his career.
+
+292
+00:19:14,360 --> 00:19:18,319
+He was in charge of Z shift, you see, 
+and it occupied his every waking moment.
+
+293
+00:19:18,520 --> 00:19:21,353
+And what was Z shift's most important duty?
+
+294
+00:19:21,520 --> 00:19:25,991
+Well, we had a lot of important duties on the
+ship but I guess our most vital responsibility
+
+295
+00:19:26,160 --> 00:19:30,393
+was making sure the vending machines
+didn't run out of fun-size Crunchie bars.
+
+296
+00:19:30,560 --> 00:19:35,953
+Can you ever envisage a situation where
+the lack of honeycomb-centred chocolate bars
+
+297
+00:19:36,120 --> 00:19:39,829
+might be the direct cause
+of a lethal radiation leak?
+
+298
+00:19:40,800 --> 00:19:42,996
+Not off the top of my head, no.
+
+299
+00:19:43,800 --> 00:19:46,030
+You may sit down.
+
+300
+00:19:46,560 --> 00:19:49,598
+I ask the court one key question -
+
+301
+00:19:49,760 --> 00:19:54,755
+would the Space Corps ever
+have allowed this man to be in a position of authority
+
+302
+00:19:54,920 --> 00:19:57,514
+where he might endanger the entire crew?
+
+303
+00:19:57,680 --> 00:20:03,596
+A man so petty and small-minded, he would
+while away his evenings sewing name labels
+
+304
+00:20:03,760 --> 00:20:06,718
+onto his ship-issue condoms.
+
+305
+00:20:07,960 --> 00:20:10,998
+- A man of such awesome stupidity...
+- Objection!
+
+306
+00:20:11,200 --> 00:20:14,830
+- Objection overruled.
+- A man of such awesome stupidity,
+
+307
+00:20:15,000 --> 00:20:18,356
+he even objects to his own defence counsel.
+
+308
+00:20:18,520 --> 00:20:21,160
+An over-zealous, trumped up little squirt...
+
+309
+00:20:21,320 --> 00:20:23,311
+- Objection!
+- Overruled.
+
+310
+00:20:23,520 --> 00:20:27,229
+An incompetent vending machine repairman
+with a Napoleon complex
+
+311
+00:20:27,400 --> 00:20:32,429
+who commanded as much respect and affection
+from his fellow crew members as Long John Silver's parrot.
+
+312
+00:20:32,600 --> 00:20:33,920
+Objection!
+
+313
+00:20:34,120 --> 00:20:39,559
+If you object to your own counsel once more,
+Mr Rimmer, you'll be in contempt.
+
+314
+00:20:39,760 --> 00:20:45,756
+Who would permit this man, this joke of a man,
+this man who could not outwit a used tea bag,
+
+315
+00:20:45,920 --> 00:20:49,436
+to be in a position where he
+might endanger the entire crew?
+
+316
+00:20:49,600 --> 00:20:52,513
+Who? Only a yogurt.
+
+317
+00:20:53,640 --> 00:20:56,473
+This man is not guilty of manslaughter.
+
+318
+00:20:56,640 --> 00:21:00,190
+He is only guilty of being Arnold J Rimmer.
+
+319
+00:21:00,800 --> 00:21:05,192
+That is his crime. It is also his punishment.
+
+320
+00:21:06,600 --> 00:21:08,910
+The defence rests.
+
+321
+00:21:09,080 --> 00:21:13,517
+The verdict on the defendant will now be passed.
+In view of your counsel's eloquent defence,
+
+322
+00:21:13,720 --> 00:21:17,315
+together with the reams of material
+evidence he submitted on computer card.
+
+323
+00:21:17,480 --> 00:21:20,233
+this court accepts that, in your case,
+
+324
+00:21:20,400 --> 00:21:24,359
+the mind probe is not an adequate method
+of ascertaining guilt.
+
+325
+00:21:24,560 --> 00:21:29,031
+It is not possible for you to have committed
+the crimes for which you blame yourself
+
+326
+00:21:29,200 --> 00:21:31,635
+and you may therefore go free.
+
+327
+00:21:31,800 --> 00:21:35,031
+- Objection!
+- Sir, what are you objecting to now?
+
+328
+00:21:35,200 --> 00:21:36,918
+I want an apology.
+
+329
+00:21:40,840 --> 00:21:43,673
+Brilliant, Kryten!
+What can I say? You were brilliant.
+
+330
+00:21:43,840 --> 00:21:48,869
+You even had me believing it. The way you
+twisted the facts to make them fit this pattern.
+
+331
+00:21:49,080 --> 00:21:53,074
+Come on, let's get out of here. I don't know what
+made us want to come to this hellhole in the first place.
+
+332
+00:21:53,280 --> 00:21:56,830
+- I do.
+- Hmm... Can I smell perfume?
+
+333
+00:21:57,040 --> 00:22:01,796
+- (GROWLS) I doubt it.
+- Are you by any chance Barbra Bellini?
+
+334
+00:22:01,960 --> 00:22:03,951
+I didn't think so!
+
+335
+00:22:06,920 --> 00:22:08,991
+'Ere! What's going on?! Oh!
+
+336
+00:22:11,640 --> 00:22:14,473
+(CAT) Ugh! To think I caressed his pod!
+
+337
+00:22:33,840 --> 00:22:36,275
+You are now entering the Justice Zone.
+
+338
+00:22:36,440 --> 00:22:41,355
+Beyond this point, it is impossible
+to commit any act of injustice.
+
+339
+00:22:42,760 --> 00:22:45,070
+You are now entering the Justice Zone.
+
+340
+00:22:45,240 --> 00:22:49,757
+Beyond this point, it is impossible
+to commit any act of injustice.
+
+341
+00:23:03,956 --> 00:23:05,076
+(METAL CLINKS)
+
+342
+00:23:17,880 --> 00:23:23,080
+Hey, my friends... I don't want any trouble.
+
+343
+00:23:23,920 --> 00:23:28,596
+I just want your spacecraft.
+Give me the start-up code.
+
+344
+00:23:29,520 --> 00:23:32,558
+Look. I have no weapon.
+
+345
+00:23:33,040 --> 00:23:36,158
+What are you waiting for? Gloop him.
+
+346
+00:23:36,320 --> 00:23:38,789
+I can't. He's not armed.
+
+347
+00:23:39,040 --> 00:23:43,591
+Lister, this is not a Scout meeting. We're not trying to win Best Behaved Troop flag. Gloop him.
+
+348
+00:23:45,960 --> 00:23:48,270
+- What? In the back?
+- Of course in the back!
+
+349
+00:23:48,440 --> 00:23:50,511
+It's only a pity he's awake.
+
+350
+00:23:51,160 --> 00:23:53,959
+You mean you could happily
+kill him if he was asleep?
+
+351
+00:23:54,120 --> 00:23:58,398
+I could happily kill him if he
+was on the job. Gloop him.
+
+352
+00:23:59,360 --> 00:24:01,158
+It's immoral.
+
+353
+00:24:01,320 --> 00:24:06,952
+Come on, my friends.
+You wouldn't shoot an unarmed droid.
+
+354
+00:24:07,120 --> 00:24:10,476
+Come out and let's discuss it.
+
+355
+00:24:12,520 --> 00:24:14,511
+I'm gonna go and talk to him.
+
+356
+00:24:22,760 --> 00:24:25,593
+You wanna talk? Let's talk.
+
+357
+00:24:27,320 --> 00:24:30,278
+- You have no weapons?
+- No.
+
+358
+00:24:31,120 --> 00:24:33,999
+You have no weapon?
+
+359
+00:24:34,160 --> 00:24:35,833
+No.
+
+360
+00:24:41,680 --> 00:24:43,830
+Guess what.
+
+361
+00:24:45,440 --> 00:24:46,953
+I lied.
+
+362
+00:24:47,120 --> 00:24:49,111
+Guess what.
+
+363
+00:24:50,120 --> 00:24:51,519
+So did I.
+
+364
+00:24:51,720 --> 00:24:56,078
+But I lied...twice.
+
+365
+00:24:58,680 --> 00:25:01,320
+- I didn't think of that.
+- I'm very glad you didn't.
+
+366
+00:25:01,520 --> 00:25:05,275
+- What do you want to talk about?
+- Your death.
+
+367
+00:25:06,440 --> 00:25:09,398
+Your... imminent death.
+
+368
+00:25:17,936 --> 00:25:18,936
+Oh...
+
+369
+00:25:22,800 --> 00:25:24,996
+What the smeg is going on?!
+
+370
+00:25:30,596 --> 00:25:31,896
+Ugh!
+
+371
+00:25:44,680 --> 00:25:47,559
+(BUZZING)
+
+372
+00:25:47,760 --> 00:25:53,153
+- Yo, matey. Hit me on the head with this.
+- Malfunction. Does not compute.
+
+373
+00:25:54,200 --> 00:25:59,639
+Mal...function. Mal...function.
+
+374
+00:26:05,840 --> 00:26:08,400
+(CHOKING)
+
+375
+00:26:16,760 --> 00:26:19,149
+I got him, buddy! Leave this to me!
+
+376
+00:26:19,320 --> 00:26:21,072
+Cat, no! No!
+
+377
+00:26:21,240 --> 00:26:23,231
+Better late than never.
+
+378
+00:26:26,240 --> 00:26:28,470
+(LAUGHS)
+
+379
+00:26:38,840 --> 00:26:43,550
+Makes you think though, doesn't it? I mean Mankind's
+history has been one long search for justice.
+
+380
+00:26:43,720 --> 00:26:45,365
+That's what all
+religions are about.
+
+381
+00:26:45,389 --> 00:26:47,839
+I mean, they accept life
+as being basically unfair,
+
+382
+00:26:48,000 --> 00:26:50,302
+but promise that everyone
+will get their just desserts later -
+
+383
+00:26:50,326 --> 00:26:52,870
+heaven, hell, karma,
+reincarnation, whatever.
+
+384
+00:26:53,040 --> 00:26:55,473
+Those guys that built that
+penal colony. They tried to bring
+
+385
+00:26:55,497 --> 00:26:58,160
+some order to the universe
+by creating the Justice Field,
+
+386
+00:26:58,320 --> 00:27:02,200
+but when you live in an environment where justice does exist,
+you have no free will.
+
+387
+00:27:02,360 --> 00:27:04,874
+That's why in our universe, you can never have true natural justice. guy.
+
+388
+00:27:05,040 --> 00:27:06,832
+Good things will happen to
+bad people
+
+389
+00:27:06,856 --> 00:27:08,920
+and bad things will happen to good people.
+It's the way it's going to be.
+
+390
+00:27:09,080 --> 00:27:11,356
+Life by its very nature has to be cruel, unkind
+
+391
+00:27:11,520 --> 00:27:13,318
+and unfaaaaaair...!
+
+392
+00:27:15,480 --> 00:27:17,835
+Thank God for that.
+
+393
+00:27:21,720 --> 00:27:25,031
+# It's cold outside, there's no kind of atmosphere
+
+394
+00:27:25,200 --> 00:27:28,477
+# I'm all alone, more or less
+
+395
+00:27:28,640 --> 00:27:31,758
+# Let me fly far away from here
+
+396
+00:27:31,920 --> 00:27:34,594
+# Fun, fun, fun
+
+397
+00:27:34,760 --> 00:27:38,276
+# In the sun, sun, sun
+
+398
+00:27:38,440 --> 00:27:41,671
+# I want to lie shipwrecked and comatose
+
+399
+00:27:41,840 --> 00:27:44,992
+# Drinking fresh mango juice
+
+400
+00:27:45,160 --> 00:27:48,391
+# Goldfish shoals nibbling at my toes
+
+401
+00:27:48,560 --> 00:27:51,200
+# Fun, fun, fun
+
+402
+00:27:51,360 --> 00:27:54,910
+# In the sun, sun, sun
+
+403
+00:27:55,080 --> 00:27:57,799
+# Fun, fun, fun
+
+404
+00:27:57,960 --> 00:28:00,349
+# In the sun, sun, sun #
+

@@ -1,0 +1,1446 @@
+﻿1
+00:00:35,240 --> 00:00:37,754
+KRYTEN: Initiating landing procedure.
+Everyone on standby.
+
+2
+00:00:37,880 --> 00:00:39,791
+Cabin crew. Prepare for landing.
+
+3
+00:00:39,880 --> 00:00:41,996
+CAT: Security checks commencing.
+All personnel in position.
+
+4
+00:00:42,080 --> 00:00:44,594
+-Everyone returned from the restroom?
+-ALL: Check.
+
+5
+00:00:44,680 --> 00:00:47,194
+-All little tables folded away?
+-ALL: Check.
+
+6
+00:00:47,280 --> 00:00:49,157
+-CAT: Seat belts on?
+-ALL: Check.
+
+7
+00:00:49,240 --> 00:00:51,629
+Winkers to shutdown. Landing gear down.
+
+8
+00:00:51,720 --> 00:00:53,233
+Requesting landing line.
+
+9
+00:00:53,320 --> 00:00:55,436
+Suggest left hand traffic pattern, sir,
+
+10
+00:00:55,520 --> 00:00:58,592
+towards that landing light edifice
+at the end of the street.
+
+11
+00:00:58,680 --> 00:01:01,877
+LISTER: Applying brakes now.
+Velocity decreasing.
+
+12
+00:01:01,960 --> 00:01:03,633
+KRYTEN: Revs 2,000 and dwindling.
+
+13
+00:01:03,720 --> 00:01:06,075
+CAT: Pavement in sight.
+Landing lights locked.
+
+14
+00:01:06,160 --> 00:01:10,074
+KRYTEN: Standby, we're attempting
+to stop. Good luck everybody.
+
+15
+00:01:10,680 --> 00:01:14,469
+Handbrake engaging. Ignition off.
+
+16
+00:01:15,280 --> 00:01:18,318
+-Wow, we made a good landing.
+-Well done, everyone.
+
+17
+00:01:18,400 --> 00:01:20,914
+-Okay, doors to manual.
+-Check.
+
+18
+00:01:21,000 --> 00:01:23,640
+Disembark in your own time, gentlemen.
+
+19
+00:01:31,000 --> 00:01:33,514
+What sort of God forsaken place is this?
+
+20
+00:01:33,600 --> 00:01:37,150
+-This is worse than Rimmer World.
+-Get out of town, this is brilliant.
+
+21
+00:01:37,240 --> 00:01:40,358
+This is just like where I grew up
+except there's less burning cars.
+
+22
+00:01:40,440 --> 00:01:44,274
+I'll find out where Mr Charles is from
+that information droid.
+
+23
+00:01:46,560 --> 00:01:48,756
+Salutations, old droid, sir.
+
+24
+00:01:48,840 --> 00:01:52,470
+I'm looking for the actor,
+Craig Charles. Can you direct?
+
+25
+00:01:52,880 --> 00:01:55,998
+KRYTEN: Perhaps it's over-heated.
+Are you usually that red?
+
+26
+00:01:56,080 --> 00:01:58,151
+I'm going to place this instrument
+into your voice unit
+
+27
+00:01:58,240 --> 00:02:00,390
+and I want you to say, "Ah".
+
+28
+00:02:00,800 --> 00:02:03,110
+-Hi, it's me. Where are you?
+-CRAIG: I'm in the Rovers, kid. Why?
+
+29
+00:02:03,200 --> 00:02:04,998
+See you in a minute.
+
+30
+00:02:06,720 --> 00:02:09,553
+Seems to be some sort of
+malfunction, sirs.
+
+31
+00:02:09,840 --> 00:02:11,160
+(BEEPING)
+
+32
+00:02:16,800 --> 00:02:21,192
+Good grief. Vandals have stolen
+the droid's entire hard drive
+
+33
+00:02:21,280 --> 00:02:23,749
+and stuffed envelopes
+through its voice unit.
+
+34
+00:02:23,840 --> 00:02:27,720
+-What kind of place is this?
+-Let's ask in the shop.
+
+35
+00:02:27,800 --> 00:02:31,430
+Let me do the talking, sir.
+I've been studying the dialect.
+
+36
+00:02:32,120 --> 00:02:34,509
+I'll wait outside, guard car bug.
+
+37
+00:02:37,760 --> 00:02:39,159
+Earth, man.
+
+38
+00:02:39,240 --> 00:02:40,310
+(SNIFFS)
+
+39
+00:02:40,400 --> 00:02:42,437
+Smell those chip butties.
+
+40
+00:02:43,520 --> 00:02:44,954
+(DOOR OPENS)
+
+41
+00:02:48,480 --> 00:02:53,714
+Hiya chuck, pal, love, sir.
+We're looking, I mean, looooking,
+
+42
+00:02:53,800 --> 00:02:56,110
+for granny-grabbing,
+philandering taxi driver,
+
+43
+00:02:56,200 --> 00:02:59,079
+Lloyd Mullaney,
+as played by Craig Charles.
+
+44
+00:03:00,360 --> 00:03:03,352
+I think he's in the Rovers
+learning his lines.
+
+45
+00:03:03,520 --> 00:03:05,557
+Is this some sort of joke?
+
+46
+00:03:05,640 --> 00:03:08,359
+The Rovers? Well, I'll stand at
+the bottom of our stairs
+
+47
+00:03:08,440 --> 00:03:12,274
+and eat a barm cake. We were just
+past that, weren't we, lads?
+
+48
+00:03:12,440 --> 00:03:15,910
+-Aye, we were, weren't we?
+-(SIGHS) What a load of numpties.
+
+49
+00:03:16,000 --> 00:03:19,197
+-Get your keks on, lads, we're sorted.
+-Quality.
+
+50
+00:03:19,280 --> 00:03:22,318
+-Mint.
+-Ta very much, chuck, pal, love, sir.
+
+51
+00:03:22,400 --> 00:03:24,277
+-See ya.
+-Ta-ra, pet.
+
+52
+00:03:25,320 --> 00:03:28,915
+Good job, chaps. We were so authentic
+it was frightening.
+
+53
+00:03:34,760 --> 00:03:36,910
+Oi. You'll never guess
+who I've just seen.
+
+54
+00:03:37,000 --> 00:03:38,559
+All your mates from Red Dwarf.
+
+55
+00:03:38,640 --> 00:03:40,677
+-They're outside.
+-Serious?
+
+56
+00:03:41,040 --> 00:03:44,715
+Yeah. They've just landed in
+a little spaceship,
+
+57
+00:03:44,800 --> 00:03:47,440
+it was green, what's it called?
+
+58
+00:03:47,520 --> 00:03:50,114
+Listen, mate, don't mess about.
+I've got loads of lines to learn.
+
+59
+00:03:50,200 --> 00:03:51,759
+I've got a massive scene this afternoon.
+
+60
+00:03:51,840 --> 00:03:54,309
+But I'm serious. I know what I saw.
+
+61
+00:03:55,320 --> 00:03:58,950
+-Even you were there.
+-I was there? How many have you had?
+
+62
+00:04:00,160 --> 00:04:02,549
+Well, I've had a couple, but listen,
+I've just seen you.
+
+63
+00:04:02,640 --> 00:04:05,314
+So high, ugly, it's definitely you.
+
+64
+00:04:09,760 --> 00:04:12,320
+Hi, guys. What are you doing here?
+
+65
+00:04:12,400 --> 00:04:15,199
+Ah, Mr Charles, sir. My name is Kryten.
+
+66
+00:04:15,280 --> 00:04:18,716
+I'm a fictitious character from the
+television series Red Dwarf
+
+67
+00:04:18,800 --> 00:04:20,837
+and we really need your help.
+
+68
+00:04:20,920 --> 00:04:22,240
+Told you.
+
+69
+00:04:22,320 --> 00:04:23,719
+(DOOR OPENS)
+
+70
+00:04:28,000 --> 00:04:30,799
+You're the only one
+that can help us, man.
+
+71
+00:04:31,880 --> 00:04:35,714
+I've heard about these.
+They're called flashbacks, flashbacks.
+
+72
+00:04:36,200 --> 00:04:39,158
+-I know you don't exist.
+-Okay, no need to rub it in.
+
+73
+00:04:39,240 --> 00:04:41,311
+Just give us the address
+of whoever created us
+
+74
+00:04:41,400 --> 00:04:43,789
+and we'll jump into Starbug
+and be out of here.
+
+75
+00:04:43,880 --> 00:04:45,951
+-Starbug?
+-I just told you.
+
+76
+00:04:46,040 --> 00:04:47,758
+They landed outside the Kabin.
+
+77
+00:04:47,840 --> 00:04:50,480
+That is okay, isn't it?
+We're not going to get a ticket, are we?
+
+78
+00:04:50,560 --> 00:04:53,678
+You're not all here.
+I know you're not all here.
+
+79
+00:04:53,760 --> 00:04:55,671
+He's not all here,
+but the rest of us are.
+
+80
+00:04:55,760 --> 00:04:56,875
+Yeah.
+
+81
+00:04:56,960 --> 00:04:58,871
+You see, sir, we're from an
+alternate dimension
+
+82
+00:04:58,960 --> 00:05:02,715
+and we need answers, like
+how many episodes do we have left?
+
+83
+00:05:02,920 --> 00:05:05,878
+Um, I know how many episodes
+you've got left.
+
+84
+00:05:06,480 --> 00:05:08,551
+-How many?
+-Er, one.
+
+85
+00:05:10,480 --> 00:05:15,680
+It's called Back to Earth, Part 3.
+Script due in a couple of days.
+
+86
+00:05:17,320 --> 00:05:20,073
+All we need from you is an address, bud.
+
+87
+00:05:20,600 --> 00:05:25,197
+-We've got to speak to our creator.
+-And I've got to get back to the Priory.
+
+88
+00:05:26,560 --> 00:05:29,871
+I am so glad I'm not him.
+The guy's a wreck
+
+89
+00:05:29,960 --> 00:05:33,078
+and pretending to be somebody else
+all day, that's no way to make a living.
+
+90
+00:05:33,160 --> 00:05:34,434
+Smeghead.
+
+91
+00:06:09,360 --> 00:06:10,998
+(DOORBELL RINGS)
+
+92
+00:06:59,160 --> 00:07:00,639
+Visitors, sir.
+
+93
+00:07:07,560 --> 00:07:10,313
+I'm surprised you didn't find me sooner.
+
+94
+00:07:10,720 --> 00:07:13,599
+It's not an easy thing to find
+your creator.
+
+95
+00:07:14,080 --> 00:07:16,435
+And how can he assist you?
+
+96
+00:07:16,560 --> 00:07:19,120
+We want more life, smegger.
+
+97
+00:07:20,000 --> 00:07:24,278
+A series cancellation sequence
+can't be revised once it's established.
+
+98
+00:07:24,760 --> 00:07:28,879
+What about all the loose ends,
+me and Kochanski, getting back home?
+
+99
+00:07:31,400 --> 00:07:33,152
+I grew weary of you.
+
+100
+00:07:34,760 --> 00:07:37,718
+Does this mean this is our
+last episode, sir?
+
+101
+00:07:37,960 --> 00:07:41,555
+The light that burns twice as bright,
+burns half as long.
+
+102
+00:07:41,640 --> 00:07:45,952
+Yeah, but the light that burns half
+as bright burns four times as long.
+
+103
+00:07:46,120 --> 00:07:49,351
+But the light that burns three-quarters
+as bright burns five-eighths as long
+
+104
+00:07:49,440 --> 00:07:53,877
+as the light that burns a quarter
+as bright as the light that's gone out.
+
+105
+00:07:53,960 --> 00:07:55,871
+I'd have needed a calculator for that.
+
+106
+00:07:55,960 --> 00:08:00,397
+The point is, gentlemen, you have all
+burned so very, very brightly
+
+107
+00:08:00,480 --> 00:08:05,077
+and for so very, very long
+just like the red dwarf star itself.
+
+108
+00:08:06,200 --> 00:08:08,953
+Nothing lasts forever, not even...
+
+109
+00:08:11,200 --> 00:08:12,395
+Banks.
+
+110
+00:08:14,560 --> 00:08:18,155
+What about a Kryten spin-off series?
+I could be his sidekick.
+
+111
+00:08:18,240 --> 00:08:21,915
+Or a sitcom? I'd even do a sitcom,
+anything, anything to stay alive.
+
+112
+00:08:22,000 --> 00:08:24,230
+-What about a show about cats?
+-That'd never work.
+
+113
+00:08:24,320 --> 00:08:27,915
+Look, what you need is me and Kryten
+thrown back in time
+
+114
+00:08:28,000 --> 00:08:31,152
+like a new kind of Robin Hood
+and each week he gets captured
+
+115
+00:08:31,240 --> 00:08:32,913
+and is about to be burnt at the stake
+
+116
+00:08:33,000 --> 00:08:36,152
+for witchcraft or just having
+a stupid head and each week I,
+
+117
+00:08:36,240 --> 00:08:39,710
+in a different new
+brave new way, rescue him, bravely.
+
+118
+00:08:41,840 --> 00:08:44,150
+All right it sucks. Fair enough.
+
+119
+00:08:46,600 --> 00:08:49,718
+Your deaths will be magnificent.
+
+120
+00:08:49,800 --> 00:08:52,076
+Sad and beautiful.
+
+121
+00:08:53,600 --> 00:08:55,352
+The shooting script.
+
+122
+00:08:56,160 --> 00:08:58,231
+Let me describe it for you.
+
+123
+00:08:58,320 --> 00:09:00,994
+You try to escape your destiny and run.
+
+124
+00:09:02,880 --> 00:09:03,995
+I give chase.
+
+125
+00:09:10,680 --> 00:09:12,398
+(PEOPLE CLAMOURING)
+
+126
+00:09:20,720 --> 00:09:22,472
+Move out of my way.
+
+127
+00:09:25,680 --> 00:09:26,829
+Move.
+
+128
+00:09:30,160 --> 00:09:32,470
+Move. Move. Move. Out of my way.
+
+129
+00:09:38,680 --> 00:09:40,034
+(GUN SHOTS)
+
+130
+00:09:49,960 --> 00:09:51,598
+(GLASS BREAKING)
+
+131
+00:09:56,720 --> 00:09:58,074
+(GUN SHOTS)
+
+132
+00:10:25,960 --> 00:10:28,076
+Sad and beautiful.
+
+133
+00:10:31,200 --> 00:10:35,637
+Blade Runner is the film which inspired
+both your creation and your death.
+
+134
+00:10:35,720 --> 00:10:37,518
+Gentlemen,
+
+135
+00:10:37,600 --> 00:10:39,910
+time to die.
+
+136
+00:10:49,800 --> 00:10:51,871
+-Come here.
+-You'd kill me?
+
+137
+00:10:51,960 --> 00:10:55,157
+You're damn right we would.
+You know how much you've made me suffer?
+
+138
+00:10:55,240 --> 00:10:57,834
+The life you created for me,
+all those cheap laughs.
+
+139
+00:10:57,920 --> 00:11:00,480
+All that stuff about Rachel,
+the inflatable doll?
+
+140
+00:11:00,560 --> 00:11:02,790
+All the jokes about
+my puncture repair kit.
+
+141
+00:11:02,880 --> 00:11:05,872
+Actually, that bit was funny.
+Sorry, carry on.
+
+142
+00:11:06,400 --> 00:11:09,358
+Did you ever think how I felt?
+Start writing.
+
+143
+00:11:09,560 --> 00:11:13,349
+I save the day. I get a girlfriend
+who's gorgeous and crazy about me
+
+144
+00:11:13,440 --> 00:11:17,229
+and before you even think of it,
+after we've bonked each other senseless,
+
+145
+00:11:17,320 --> 00:11:20,199
+she doesn't turn out to be my
+long-lost sister.
+
+146
+00:11:20,280 --> 00:11:23,671
+Damn, how did you know
+I was thinking that?
+
+147
+00:11:23,760 --> 00:11:25,353
+Because I know how you think.
+
+148
+00:11:25,440 --> 00:11:28,876
+Now write me a happy ending
+or we'll take you with us.
+
+149
+00:11:31,120 --> 00:11:32,394
+(TYPING)
+
+150
+00:11:42,040 --> 00:11:43,713
+You can never win.
+
+151
+00:11:45,320 --> 00:11:47,596
+Accept it and die well.
+
+152
+00:11:56,800 --> 00:11:59,997
+(GASPING) If you kill me, you moron,
+you'll cease to exist.
+
+153
+00:12:00,080 --> 00:12:02,754
+Haven't you been following any of this?
+
+154
+00:12:03,760 --> 00:12:05,990
+I've been dead for ages, man.
+
+155
+00:12:06,080 --> 00:12:08,879
+Just sitting around,
+getting old and fat.
+
+156
+00:12:09,040 --> 00:12:12,112
+I never thought I had
+responsibility to anyone,
+
+157
+00:12:12,200 --> 00:12:15,113
+I never thought there was anyone
+out there who was on my side,
+
+158
+00:12:15,200 --> 00:12:19,239
+who wanted to things to work out.
+We've got a fan club.
+
+159
+00:12:19,320 --> 00:12:22,119
+They've even named
+a TV station after me.
+
+160
+00:12:22,200 --> 00:12:25,272
+I was never alone.
+I just didn't realise it.
+
+161
+00:12:25,360 --> 00:12:27,636
+Now I want more life, smegger!
+
+162
+00:12:29,400 --> 00:12:31,118
+(THUNDER RUMBLING)
+
+163
+00:12:33,000 --> 00:12:35,879
+-I've killed him.
+-Well, we shouldn't exist.
+
+164
+00:12:36,720 --> 00:12:41,590
+All I wanted was a sitcom,
+a sitcom in a biscuit factory.
+
+165
+00:12:41,680 --> 00:12:44,752
+-Is that really too much to ask?
+-I killed him.
+
+166
+00:12:44,840 --> 00:12:47,116
+How can I kill him?
+That's not me. I don't kill people.
+
+167
+00:12:47,200 --> 00:12:49,237
+You killed him because he made you
+kill him, sir.
+
+168
+00:12:49,320 --> 00:12:53,359
+Kryten, Page 19, "You killed him, sir,
+because he made you kill him".
+
+169
+00:12:53,440 --> 00:12:57,354
+It's all in here. He lied to us about
+our deaths on the street.
+
+170
+00:12:57,440 --> 00:12:59,078
+That was just to throw us off.
+
+171
+00:12:59,160 --> 00:13:04,314
+He killed us by getting us to kill him
+and now we're going to die too because
+
+172
+00:13:04,400 --> 00:13:06,550
+there's no one to keep us alive.
+
+173
+00:13:06,640 --> 00:13:10,599
+He's right.
+In fact, I don't think I feel too well.
+
+174
+00:13:10,680 --> 00:13:12,432
+-Me neither.
+-I think I'm going to...
+
+175
+00:13:12,520 --> 00:13:15,433
+-Check the end, see what happens.
+-Oh, yeah.
+
+176
+00:13:26,360 --> 00:13:27,634
+(TYPING)
+
+177
+00:13:31,320 --> 00:13:33,311
+We can write our own end.
+
+178
+00:13:34,400 --> 00:13:36,835
+Of course, what's written happens.
+
+179
+00:13:37,760 --> 00:13:39,319
+We're free now.
+
+180
+00:13:53,000 --> 00:13:55,150
+Hey, man, I feel like a God.
+
+181
+00:13:55,240 --> 00:13:59,518
+I feel like I've got liquid gold
+coursing through every vein in my body.
+
+182
+00:13:59,600 --> 00:14:02,240
+Hey, we can get out of this.
+As long as we've got this,
+
+183
+00:14:02,320 --> 00:14:05,472
+we control the world,
+we can do whatever we want.
+
+184
+00:14:05,560 --> 00:14:09,190
+-I could command my own ship.
+-I could get Kochanski back.
+
+185
+00:14:09,280 --> 00:14:11,430
+Woo! I could get some new sponges.
+
+186
+00:14:11,520 --> 00:14:13,909
+Hey, how come I didn't get a line there?
+
+187
+00:14:14,000 --> 00:14:16,640
+I just gave you one there.
+I knew you'd be smegged off.
+
+188
+00:14:16,720 --> 00:14:18,631
+LISTER: I control everything.
+
+189
+00:14:18,720 --> 00:14:22,395
+So the rest of our loaves can be one
+giant hedonistic wash fulfilment.
+
+190
+00:14:22,480 --> 00:14:24,118
+Typos, sorry guys.
+
+191
+00:14:24,200 --> 00:14:26,157
+You really think you can write
+your wee out of this?
+
+192
+00:14:26,240 --> 00:14:28,277
+Hey, witch me, baby, just witch me.
+
+193
+00:14:28,360 --> 00:14:31,432
+RIMMER: He controls the world.
+He can do anything he wants.
+
+194
+00:14:31,520 --> 00:14:34,558
+I could, if I wanted to, do this.
+
+195
+00:14:34,640 --> 00:14:36,039
+(VOCALISING)
+
+196
+00:14:38,520 --> 00:14:41,034
+Lister, stop. That's an order.
+
+197
+00:14:41,320 --> 00:14:42,754
+(VOCALISING)
+
+198
+00:14:43,280 --> 00:14:44,350
+(GROANS)
+
+199
+00:14:44,440 --> 00:14:46,158
+This is brilliant.
+
+200
+00:14:46,240 --> 00:14:48,038
+What's he doing?
+
+201
+00:14:48,120 --> 00:14:51,909
+You've git to hop me stoop him, sir.
+Hop me stoop him.
+
+202
+00:14:52,920 --> 00:14:54,194
+(LAUGHS)
+
+203
+00:14:56,840 --> 00:14:58,069
+(GRUNTS)
+
+204
+00:15:06,720 --> 00:15:09,030
+(LAUGHS) Ow.
+
+205
+00:15:10,600 --> 00:15:11,874
+(GRUNTS)
+
+206
+00:15:12,120 --> 00:15:14,236
+This is absolutely awesome.
+
+207
+00:15:14,320 --> 00:15:17,995
+All right, next step. Happy ending.
+
+208
+00:15:18,080 --> 00:15:20,117
+Back off, sir.
+There's no way we can get to him.
+
+209
+00:15:20,200 --> 00:15:23,238
+Whoa! I didn't type that, or that.
+
+210
+00:15:23,320 --> 00:15:26,199
+Hey, I'm not typing this, guys,
+what's happened?
+
+211
+00:15:26,280 --> 00:15:29,159
+Maybe it's not the typewriter
+that's controlling our world.
+
+212
+00:15:29,240 --> 00:15:30,753
+Maybe it's something else.
+
+213
+00:15:30,840 --> 00:15:34,799
+What is it with these damn things?
+why do I keep making them?
+
+214
+00:15:34,880 --> 00:15:37,998
+-Useless.
+-What actually is it, sir?
+
+215
+00:15:38,440 --> 00:15:40,716
+There's something inside. Blow.
+
+216
+00:15:49,800 --> 00:15:51,632
+It looks like a squid.
+
+217
+00:15:52,800 --> 00:15:54,757
+why would I be making squids?
+
+218
+00:15:54,840 --> 00:15:57,400
+That something else
+that controls the world,
+
+219
+00:15:57,480 --> 00:15:59,756
+how about it's
+our combined subconscious?
+
+220
+00:15:59,840 --> 00:16:03,151
+Like the time we were ambushed by the
+Despair Squid?
+
+221
+00:16:03,560 --> 00:16:07,758
+On that Ocean planet?
+That thing that attacked us years ago.
+
+222
+00:16:07,840 --> 00:16:09,877
+whoa, whoa, hang on a minute.
+
+223
+00:16:09,960 --> 00:16:13,396
+Are you saying the creature in the
+water tank, the one that inked us,
+
+224
+00:16:13,480 --> 00:16:16,199
+was another Despair Squid?
+Because I don't feel despair,
+
+225
+00:16:16,280 --> 00:16:18,874
+I feel elation, joy.
+
+226
+00:16:19,680 --> 00:16:23,036
+I've felt great since I got here.
+In here I'm somebody.
+
+227
+00:16:23,120 --> 00:16:27,637
+-It's made me want to live again.
+- (SHUSHING) Footsteps. Do you hear them?
+
+228
+00:16:29,720 --> 00:16:32,599
+Kochanski. I can smell her perfume.
+
+229
+00:16:35,880 --> 00:16:39,635
+I can get her back again,
+kids, everything I've ever wanted.
+
+230
+00:16:39,880 --> 00:16:43,111
+But in the real world, sir,
+you'll be dying. This isn't real.
+
+231
+00:16:43,200 --> 00:16:44,793
+It'll feel real.
+
+232
+00:16:45,120 --> 00:16:48,238
+-Not in your heart.
+-I've got no option, Krytie.
+
+233
+00:16:48,880 --> 00:16:52,555
+This is the only chance I've got
+of getting her back again.
+
+234
+00:16:59,200 --> 00:17:01,840
+Miss Kochanski's not dead, sir.
+
+235
+00:17:06,320 --> 00:17:08,152
+Those kids were right?
+
+236
+00:17:08,400 --> 00:17:12,837
+I lied to you, sir. She dumped you.
+I was trying to protect you.
+
+237
+00:17:12,920 --> 00:17:14,957
+She's out there somewhere.
+
+238
+00:17:15,320 --> 00:17:18,312
+She's in here somewhere as well.
+In fact, she's right behind that door.
+
+239
+00:17:18,400 --> 00:17:20,311
+In this world she loves me.
+
+240
+00:17:20,400 --> 00:17:24,234
+In fact in this world she's going to
+love me until the moment I die.
+
+241
+00:17:24,320 --> 00:17:26,755
+-She's not real.
+-Nobody's perfect.
+
+242
+00:17:28,400 --> 00:17:32,758
+Look, I'm becoming transparent.
+I'm returning to reality.
+
+243
+00:17:33,240 --> 00:17:35,436
+Me, too. Sir!
+
+244
+00:17:36,400 --> 00:17:38,550
+(WHISPERS) I've got to stay.
+
+245
+00:17:56,360 --> 00:18:01,150
+What the hell happened there?
+I need diagrams and pointy arrows.
+
+246
+00:18:02,200 --> 00:18:04,794
+Best guess our natural defences
+fought back.
+
+247
+00:18:04,880 --> 00:18:09,477
+Our previous encounter with the creature
+must have strengthened our antibodies.
+
+248
+00:18:09,560 --> 00:18:12,029
+Which gave us the option to choose
+between realities,
+
+249
+00:18:12,120 --> 00:18:15,909
+this one or the one that started when
+Kremlin Kate showed up.
+
+250
+00:18:18,880 --> 00:18:21,838
+What if monkey boy chooses
+not to fight this?
+
+251
+00:18:22,640 --> 00:18:24,790
+Then he won't be coming out.
+
+252
+00:18:42,200 --> 00:18:45,875
+It seems you're undecided about which
+reality you wish to live in.
+
+253
+00:18:45,960 --> 00:18:47,712
+I'm mulling it over.
+
+254
+00:18:49,840 --> 00:18:52,593
+Would you mind if I asked you
+a question?
+
+255
+00:18:53,120 --> 00:18:54,269
+Shoot.
+
+256
+00:18:55,000 --> 00:18:57,719
+In your dreams, did you kiss me?
+
+257
+00:19:05,120 --> 00:19:06,554
+Was it good?
+
+258
+00:19:08,280 --> 00:19:10,317
+I never wanted to wake up.
+
+259
+00:19:13,480 --> 00:19:14,879
+Then don't.
+
+260
+00:19:45,120 --> 00:19:46,793
+(TYRES SCREECHING)
+
+261
+00:19:58,560 --> 00:20:00,312
+Where are you going?
+
+262
+00:20:00,760 --> 00:20:03,195
+I have to leave and get you back.
+
+263
+00:20:04,120 --> 00:20:05,519
+The real me?
+
+264
+00:20:05,840 --> 00:20:09,470
+(SCOFFS) You'll never get me.
+I'm way out of your league.
+
+265
+00:20:10,200 --> 00:20:12,714
+I thought that too, but I was wrong.
+
+266
+00:20:14,160 --> 00:20:15,673
+You were right.
+
+267
+00:20:15,920 --> 00:20:19,629
+No, I'm pretty cool.
+I don't take any smeg.
+
+268
+00:20:20,760 --> 00:20:24,674
+And even though I'm disgusting,
+sometimes I can be quite brave.
+
+269
+00:20:26,640 --> 00:20:30,315
+-You'll never get me.
+-Yeah. I will.
+
+270
+00:20:59,760 --> 00:21:01,194
+I mean, explain this.
+
+271
+00:21:01,280 --> 00:21:05,672
+How can me getting everything I've ever
+wanted be caused by despair ink?
+
+272
+00:21:05,760 --> 00:21:08,593
+Analysis of the creature, sir,
+suggests it's a female.
+
+273
+00:21:08,680 --> 00:21:11,513
+Male squid, female squid,
+what's the difference?
+
+274
+00:21:11,600 --> 00:21:13,318
+Females can do ten squidy things at once
+
+275
+00:21:13,400 --> 00:21:15,630
+but not so good at
+reversing around rocks?
+
+276
+00:21:15,720 --> 00:21:18,758
+The male defence system is an ink
+that produces despair.
+
+277
+00:21:18,840 --> 00:21:21,992
+It seems that the
+female ink causes the opposite.
+
+278
+00:21:22,280 --> 00:21:23,759
+What, gives you joy?
+
+279
+00:21:23,840 --> 00:21:25,751
+That's like attacking something
+that retaliates
+
+280
+00:21:25,840 --> 00:21:30,198
+by giving you an Indian head massage or
+an aromatherapy luxury nail treatment.
+
+281
+00:21:30,280 --> 00:21:32,590
+What kind of crazy defence mechanism
+is that?
+
+282
+00:21:32,680 --> 00:21:35,832
+Well it's an ingenious one, sir,
+because it means you stop attacking it.
+
+283
+00:21:35,920 --> 00:21:39,959
+Yeah. And while you're all happy-clappy,
+she scarpers, right?
+
+284
+00:21:40,040 --> 00:21:41,553
+Precisely, sir.
+
+285
+00:21:44,680 --> 00:21:46,717
+How did she get on board?
+
+286
+00:21:49,560 --> 00:21:51,312
+I kinda brought her.
+
+287
+00:21:53,360 --> 00:21:55,829
+Years ago. From that Ocean planet.
+
+288
+00:21:56,120 --> 00:22:00,796
+(SINGS) I'm going to eat you,
+little fishy, 'cos I like little fish.
+
+289
+00:22:02,960 --> 00:22:07,397
+Then she escaped. I knew you guys would
+get mad, so I didn't say nothing.
+
+290
+00:22:09,600 --> 00:22:11,318
+Boy, has she grown?
+
+291
+00:22:12,120 --> 00:22:14,509
+So what's going to happen to her?
+
+292
+00:22:14,800 --> 00:22:16,598
+I'm thinking sushi time.
+
+293
+00:22:16,680 --> 00:22:19,354
+I'm thinking we drop her off at
+the nearest ocean moon.
+
+294
+00:22:19,440 --> 00:22:21,431
+Make some happy sea life.
+
+295
+00:22:24,160 --> 00:22:27,198
+What's going to happen to everybody in
+the reality we left?
+
+296
+00:22:27,280 --> 00:22:29,078
+The guys all watching us on TV.
+
+297
+00:22:29,160 --> 00:22:31,674
+Well, they'll continue to exist as a
+consequence of us
+
+298
+00:22:31,760 --> 00:22:34,832
+creating them in our hallucination, sir.
+It's quantum mechanics.
+
+299
+00:22:34,920 --> 00:22:37,833
+Every decision that's made
+creates a new universe,
+
+300
+00:22:37,920 --> 00:22:41,550
+as do all dreams and hallucinations.
+It's multiverse 101.
+
+301
+00:22:42,040 --> 00:22:44,600
+But those sad suckers will live out the
+rest of their lives
+
+302
+00:22:44,680 --> 00:22:48,196
+convinced they're the real ones
+and we're characters from a TV show.
+
+303
+00:22:48,280 --> 00:22:51,910
+And you know if you told them the truth,
+you know what they'd probably do?
+
+304
+00:22:52,000 --> 00:22:53,559
+-Laugh.
+-Yeah.
+
+305
+00:22:53,640 --> 00:22:54,994
+(ALL LAUGH)
+
+306
+00:22:57,680 --> 00:22:59,432
+They probably would.
+
+307
+00:23:06,600 --> 00:23:09,638
+# It's cold outside,
+there's no kind of atmosphere
+
+308
+00:23:09,720 --> 00:23:13,315
+# I'm all alone, more or less
+
+309
+00:23:13,400 --> 00:23:16,711
+# Let me fly far away from here
+
+310
+00:23:16,800 --> 00:23:19,474
+# Fun, fun, fun
+
+311
+00:23:19,560 --> 00:23:23,349
+# In the sun, sun, sun
+
+312
+00:23:23,440 --> 00:23:26,956
+# I want to lie,
+shipwrecked and comatose
+
+313
+00:23:27,040 --> 00:23:30,032
+# Drinking fresh mango juice
+
+314
+00:23:30,120 --> 00:23:33,431
+# Goldfish shoals nibbling at my toes
+
+315
+00:23:33,520 --> 00:23:36,114
+# Fun, fun, fun
+
+316
+00:23:36,200 --> 00:23:40,159
+# In the sun, sun, sun
+
+317
+00:23:40,240 --> 00:23:42,959
+# Fun, fun, fun
+
+318
+00:23:43,040 --> 00:23:47,113
+# In the sun, sun, sun #
+

@@ -1,0 +1,2150 @@
+﻿1
+00:00:05,040 --> 00:00:09,398
+(DRAMATIC "2001"-TYPE MUSIC)
+
+2
+00:01:03,440 --> 00:01:05,511
+# To Ganymede and Titan,
+Yes, sir, I've been around... #
+
+3
+00:01:05,600 --> 00:01:09,719
+Lister, have you ever been hit
+over the head with a welding mallet?
+
+4
+00:01:10,360 --> 00:01:12,920
+No? Then shut up and push the trolley.
+
+5
+00:01:13,720 --> 00:01:15,199
+Yes, sir, Rimmer!
+
+6
+00:01:15,920 --> 00:01:18,799
+Right. Corridor 159.
+
+7
+00:01:18,880 --> 00:01:21,872
+(LISTER HUMS THE SAME TUNE)
+
+8
+00:01:23,120 --> 00:01:24,554
+Lister, shut up!
+
+9
+00:01:24,640 --> 00:01:26,711
+- I'm only humming!
+- Well, don't.
+
+10
+00:01:31,400 --> 00:01:35,553
+Lister, don't hum and don't make any
+stupid sounds with your cheeks.
+
+11
+00:01:35,680 --> 00:01:38,433
+(CLICKS TUNE WITH HIS TONGUE)
+
+12
+00:01:38,600 --> 00:01:42,594
+Lister, one more sound, anything,
+and you're on report, miladdo.
+
+13
+00:01:42,680 --> 00:01:44,398
+What job number's this?
+
+14
+00:01:44,560 --> 00:01:47,552
+(LISTER MIMES HIS ANSWER)
+
+15
+00:01:49,040 --> 00:01:50,713
+Right! That's it!
+
+16
+00:01:51,120 --> 00:01:53,157
+"Lister, D., Third Technician.
+
+17
+00:01:53,240 --> 00:01:56,995
+"Offence: obstructing a superior technician
+
+18
+00:01:57,080 --> 00:01:59,959
+"by humming, clicking and being quiet."
+
+19
+00:02:01,480 --> 00:02:03,357
+When the Captain sees this, you're dead.
+
+20
+00:02:03,520 --> 00:02:05,636
+- Rimmer, I'm bored!
+- Bored?!
+
+21
+00:02:05,720 --> 00:02:07,870
+This is essential routine maintenance.
+
+22
+00:02:07,960 --> 00:02:12,557
+It's absolutely vital for the well-being
+of this crew, this mission and this ship.
+
+23
+00:02:13,240 --> 00:02:17,791
+"Dispenser 172: chicken soup nozzle clogged."
+
+24
+00:02:21,280 --> 00:02:23,271
+Pass me a 14B, Lister.
+
+25
+00:02:27,880 --> 00:02:29,837
+Lister, is this a 14B?
+
+26
+00:02:29,920 --> 00:02:32,958
+Does it look even remotely like a 14B?
+
+27
+00:02:35,440 --> 00:02:38,273
+This is a 14B, Lister.
+
+28
+00:02:38,400 --> 00:02:41,233
+This is a 14F. Are you blind?
+
+29
+00:02:41,400 --> 00:02:43,630
+- Who cares?
+- I care, Lister!
+
+30
+00:02:48,240 --> 00:02:50,834
+It's my career, Lister,
+I'm the one who gets it in the neck
+
+31
+00:02:50,920 --> 00:02:53,150
+if an officer comes along, orders chicken soup,
+
+32
+00:02:53,240 --> 00:02:58,314
+and gets blackcurrant cordial
+with blancmange, two creams and a sugar.
+
+33
+00:02:59,600 --> 00:03:02,752
+Chicken soup.
+(THE MACHINE HUMS)
+
+34
+00:03:08,120 --> 00:03:10,236
+Yep. That's working.
+
+35
+00:03:10,800 --> 00:03:13,474
+It's stupid anyway,
+all this maintenance business.
+
+36
+00:03:13,560 --> 00:03:16,678
+The only reason they don't give
+this job to the service robots
+
+37
+00:03:16,760 --> 00:03:18,671
+is they've got a better union than us.
+
+38
+00:03:18,760 --> 00:03:20,717
+Lister, that is absolute nonsense.
+
+39
+00:03:20,800 --> 00:03:22,791
+Right. What's next?
+
+40
+00:03:22,880 --> 00:03:24,951
+"Botanical gardens: faulty porous circuit.
+
+41
+00:03:25,040 --> 00:03:27,839
+"In corridor 147: sticking door."
+
+42
+00:03:28,800 --> 00:03:30,791
+It's true, you know, though, Rimmer.
+
+43
+00:03:30,880 --> 00:03:33,269
+You rank below all four of those service robots.
+
+44
+00:03:33,360 --> 00:03:35,510
+Even the one that's gone absolutely mad.
+
+45
+00:03:35,680 --> 00:03:38,559
+Well, Lister, not for long, matey.
+Up, up, up! That's where I'm going!
+
+46
+00:03:38,720 --> 00:03:40,711
+Not until you pass your engineer's exam.
+
+47
+00:03:40,800 --> 00:03:42,871
+And you won't do that because you'll
+just go in there and flunk again.
+
+48
+00:03:43,080 --> 00:03:47,313
+Lister, last time I only failed
+by the "narrowest" of narrow margins.
+
+49
+00:03:47,480 --> 00:03:49,790
+You what? You walked in there
+
+50
+00:03:49,880 --> 00:03:52,599
+wrote "I am a fish," 400 times
+
+51
+00:03:52,680 --> 00:03:54,796
+did a funny little dance, and fainted.
+
+52
+00:03:54,880 --> 00:03:57,838
+- That's a total lie!
+- No, it's not! Petersen told me.
+
+53
+00:03:57,960 --> 00:03:59,792
+(MOCK SCOUSE ACCENT)
+"No, it's not! Petersen told me."
+
+54
+00:03:59,880 --> 00:04:03,316
+Lister, if you must know. What I did was,
+I wrote a discourse on porous circuits
+
+55
+00:04:03,400 --> 00:04:06,677
+which was simply
+too "radical", too "unconventional",
+
+56
+00:04:06,760 --> 00:04:08,637
+too "mould-breaking" for the
+examiners to accept!
+
+57
+00:04:08,800 --> 00:04:10,916
+Yeah. You said you were a fish.
+
+58
+00:04:11,800 --> 00:04:15,077
+- Is that a cigarette you're smoking, Lister?
+- No, it's a chicken.
+
+59
+00:04:15,240 --> 00:04:19,632
+Right! You're on report.
+Two times in as many minutes, Lister. I don't know!
+
+60
+00:04:20,200 --> 00:04:22,111
+- Rimmer, Lister.
+- Yes, sir.
+
+61
+00:04:22,200 --> 00:04:24,316
+Yo, Todhunter, get down!
+
+62
+00:04:24,640 --> 00:04:28,110
+Indeed. Now, Rimmer, I'm just going
+through McIntyre's artifacts,
+
+63
+00:04:28,200 --> 00:04:32,990
+and I see that you've filed
+247 complaints... against Lister.
+
+64
+00:04:33,160 --> 00:04:38,553
+- Yes, sir!
+- That's 123 counts of "insulting a superior technician"
+
+65
+00:04:38,640 --> 00:04:41,519
+39 counts of  "dereliction of duty",
+
+66
+00:04:41,600 --> 00:04:43,477
+84 counts of "general insubordination",
+
+67
+00:04:43,560 --> 00:04:46,313
+- and one count of "mutiny".
+- Yes, sir!
+
+68
+00:04:46,480 --> 00:04:49,040
+- "Mutiny", Lister?
+- I stood on his toe.
+
+69
+00:04:49,200 --> 00:04:52,636
+- Maliciously, and with intent to wound.
+- It was an accident!
+
+70
+00:04:52,800 --> 00:04:56,077
+Lister, I put it to you. How is it possible to stand
+on one small toe by accident?
+
+71
+00:04:56,160 --> 00:04:58,993
+You didn't stand on my toe at all,
+you stood on my entire foot,
+
+72
+00:04:59,080 --> 00:05:01,720
+thereby obstructing a superior technician
+in pursuit of vital duty.
+
+73
+00:05:01,880 --> 00:05:04,315
+But the "vital duty" was him going
+to snap my guitar in half!
+
+74
+00:05:04,480 --> 00:05:07,552
+Whereupon you leapt from the top bunk
+onto the whole of my right foot.
+
+75
+00:05:07,720 --> 00:05:09,950
+- Alright, that's enough.
+- Had there been a crisis situation, Lister,
+
+76
+00:05:10,040 --> 00:05:11,633
+I would have had to perform
+my duties hopping
+
+77
+00:05:11,720 --> 00:05:14,030
+clearly putting the ship at risk,
+clearly, therefore mutiny.
+
+78
+00:05:14,200 --> 00:05:16,669
+- Finished?
+- However, I'm not vindictive man,
+
+79
+00:05:16,760 --> 00:05:18,512
+so I won't intend to apply
+for the death penalty.
+
+80
+00:05:18,600 --> 00:05:20,591
+There are 169 people onboard this ship.
+
+81
+00:05:20,760 --> 00:05:23,991
+You, Rimmer, are over one man.
+Why can't you two get on?
+
+82
+00:05:24,160 --> 00:05:27,630
+You, see I try, sir.
+I'm not an insubordinate man by nature.
+
+83
+00:05:27,720 --> 00:05:30,234
+I try to respect Rimmer and everything,
+but it's not easy.
+
+84
+00:05:30,320 --> 00:05:31,958
+Because he's such a smeghead.
+
+85
+00:05:33,240 --> 00:05:36,312
+Did you hear that, sir?
+Lister, do you have any conception
+
+86
+00:05:36,400 --> 00:05:39,677
+of the penalty for describing
+a superior technician as a 'smeghead'?
+
+87
+00:05:39,840 --> 00:05:43,993
+Oh, Rimmer. You ARE a smeghead.
+
+88
+00:05:45,000 --> 00:05:46,496
+You heard that, Lister!
+With respect, sir,
+
+89
+00:05:46,520 --> 00:05:49,231
+your career's over, Todhunter,
+you're finished you big lig!
+
+90
+00:05:52,920 --> 00:05:56,993
+We're all gathered here today
+to pay our last respects to George McIntyre.
+
+91
+00:05:57,080 --> 00:05:59,594
+George was an excellent officer
+
+92
+00:05:59,680 --> 00:06:02,069
+and as good a friend as anyone
+could ever hope to have.
+
+93
+00:06:02,160 --> 00:06:05,391
+He'll be missed more deeply and
+more completely than he could ever know.
+
+94
+00:06:05,480 --> 00:06:09,269
+I now commend his ashes
+to the stars he loved so much.
+
+95
+00:06:11,600 --> 00:06:14,160
+Goodbye, George, we'll miss you.
+
+96
+00:06:16,240 --> 00:06:18,038
+(WHOOSH)
+
+97
+00:06:19,400 --> 00:06:23,519
+This is a piece of music he specially requested.
+Start the tape please, Holly?
+
+98
+00:06:23,600 --> 00:06:28,470
+# See you later, alligator
+In a while, crocodile... #
+
+99
+00:06:29,440 --> 00:06:31,351
+There goes McIntyre.
+
+100
+00:06:31,440 --> 00:06:34,478
+#...so long! Goodbye! #
+Bye George.
+
+101
+00:06:35,000 --> 00:06:39,392
+- That was George!
+- Really, I thought it was Mary Queen of Scots!
+
+102
+00:06:39,480 --> 00:06:40,993
+- So anybody for a sherry?
+Off!
+
+103
+00:06:41,160 --> 00:06:43,674
+- Hey, I was watching that!
+- Well, tough!
+
+104
+00:06:44,320 --> 00:06:48,791
+You touch that guitar, Lister, I'll remove
+the E-string and garrotte you with it.
+
+105
+00:06:48,880 --> 00:06:52,714
+Can I do anything? Is it OK
+if I breathe? Can I breathe?
+
+106
+00:06:54,880 --> 00:06:57,554
+Lister, I have an exam tomorrow
+which I intend to pass!
+
+107
+00:06:57,720 --> 00:06:59,711
+I know, yeah, by cheating.
+
+108
+00:06:59,880 --> 00:07:02,918
+This is not cheating!
+It is merely an aid to memory.
+
+109
+00:07:03,000 --> 00:07:05,116
+It helps me marshal the facts
+already at my command.
+
+110
+00:07:05,200 --> 00:07:08,397
+What does? Copying the entire
+textbooks onto your body?
+
+111
+00:07:08,480 --> 00:07:11,632
+Why don't you hand your body in
+and let them mark that?
+
+112
+00:07:12,520 --> 00:07:15,797
+Lister, so you think it is easy for someone
+like me to become an officer?
+
+113
+00:07:15,880 --> 00:07:17,996
+Someone who wasn't Academy educated?
+
+114
+00:07:18,080 --> 00:07:20,192
+Someone who didn't have
+the right nobby background?
+
+115
+00:07:20,216 --> 00:07:22,074
+Someone who didn't
+have the right parents?
+
+116
+00:07:22,240 --> 00:07:25,358
+You didn't have right parents?
+Whose parents did you have?
+
+117
+00:07:26,480 --> 00:07:28,676
+MY parents. The wrong parents.
+
+118
+00:07:28,760 --> 00:07:32,151
+I'm just saying, y'know, if you can't
+pass fair and square, why bother?
+
+119
+00:07:32,280 --> 00:07:35,159
+Well you would, Lister,
+because you've no ambition, no drive.
+
+120
+00:07:35,240 --> 00:07:37,595
+You're perfectly content to
+be the lowest rank on this ship.
+
+121
+00:07:37,760 --> 00:07:41,640
+I'm not the lowest rank on this ship.
+What about the laboratory mice?
+
+122
+00:07:41,720 --> 00:07:44,678
+Tell those mice to do something
+and they've got to jump to it.
+
+123
+00:07:44,760 --> 00:07:47,752
+"Yes, Mr Lister, sir! Eee, eee, eee."
+
+124
+00:07:48,120 --> 00:07:50,430
+Lister, you are a nothing.
+
+125
+00:07:50,520 --> 00:07:52,238
+I'm not a nothing. I've got me plan.
+
+126
+00:07:52,400 --> 00:07:55,950
+What's that, to be the slobbiest
+entity in the entire universe?
+
+127
+00:07:56,120 --> 00:07:58,760
+No. Me Five Year Plan.
+
+128
+00:07:58,840 --> 00:08:02,151
+You see, I'm going to do two more trips.
+I've been saving up all me pay...
+
+129
+00:08:02,240 --> 00:08:04,470
+- Since when?
+- Since always.
+
+130
+00:08:04,560 --> 00:08:07,951
+That's why I never buy any soap or deodorant or
+socks or anything like that. Y'know?
+
+131
+00:08:08,040 --> 00:08:10,873
+Anyway, I'm going to buy meself a little farm on Fiji
+
+132
+00:08:10,960 --> 00:08:13,873
+and I'm going to get a sheep
+and a cow and breed horses.
+
+133
+00:08:17,120 --> 00:08:20,397
+- With a sheep and a cow?
+- No, with horses and horses.
+
+134
+00:08:20,480 --> 00:08:23,472
+- On Fiji?
+- Yeah! The prices there are unbelievable.
+
+135
+00:08:23,640 --> 00:08:25,677
+Yes, because they had a volcanic eruption,
+
+136
+00:08:25,760 --> 00:08:27,990
+and now most of Fiji's
+three feet below sea level!
+
+137
+00:08:28,160 --> 00:08:30,151
+It's only three feet. They can wade.
+
+138
+00:08:31,480 --> 00:08:34,472
+That's why the animals are
+going to have to be quite tall.
+
+139
+00:08:34,560 --> 00:08:38,952
+Nice plan, Lister! Excellent plan!
+Brilliant plan, Lister!
+
+140
+00:08:39,200 --> 00:08:42,556
+What about the sheep? What are you
+going to do? Buy them water wings?
+
+141
+00:08:43,160 --> 00:08:44,958
+Fit them with stilts?
+
+142
+00:08:45,040 --> 00:08:49,238
+Better still, you could cross-breed them
+with dolphins and have leaping mutton!
+
+143
+00:08:49,320 --> 00:08:52,517
+Baa, pssh, baa, pssh.
+
+144
+00:08:53,160 --> 00:08:55,754
+You can get a drainage grant these days.
+
+145
+00:08:55,920 --> 00:08:58,912
+Why bother, Lister? You could be the
+first man to produce wet-look knitwear!
+
+146
+00:09:00,000 --> 00:09:02,008
+Look, this is why I
+never, ever said anything to you
+
+147
+00:09:02,032 --> 00:09:04,039
+because I knew you'd
+say something like this.
+
+148
+00:09:04,200 --> 00:09:06,840
+Lister, you've got the
+brain of a cheese sandwich.
+
+149
+00:09:06,920 --> 00:09:08,911
+(YOKEL VOICE) "Mornin', Farmer Lister!
+
+150
+00:09:09,000 --> 00:09:13,119
+"Oim just poppin' down to the shops in my submarine.
+Can I buy you anything?"
+
+151
+00:09:13,143 --> 00:09:14,256
+(SHIPS HORN BLARES)
+
+152
+00:09:14,280 --> 00:09:18,160
+The "Welcome Back George McIntyre"
+reception is about to begin in the refectory
+
+153
+00:09:18,320 --> 00:09:20,118
+George says he'd like to invite everybody
+
+154
+00:09:20,280 --> 00:09:23,671
+especially those who weren't
+able to attend his funeral
+
+155
+00:09:43,560 --> 00:09:47,155
+- Have you seen Rimmer's arm?
+- No, I'm waiting for it to come out in paperback!
+
+156
+00:09:49,400 --> 00:09:51,596
+Petersen, have you got a coin?
+
+157
+00:09:53,840 --> 00:09:56,354
+I've just been shown this
+great new intelligence test.
+
+158
+00:09:56,440 --> 00:09:59,319
+What you gotta do is force
+the coin onto your forehead.
+
+159
+00:09:59,400 --> 00:10:01,965
+and then the more times you
+can bang yourself on the head
+
+160
+00:10:01,989 --> 00:10:04,554
+without it falling off, the
+more intelligent you are.
+
+161
+00:10:04,640 --> 00:10:07,758
+- You gonna go for it?
+- (ALL) He's going for it!
+
+162
+00:10:07,840 --> 00:10:10,476
+- Are you ready? Can you feel it?
+- Yeah!
+
+163
+00:10:10,500 --> 00:10:11,376
+- Can you feel it?
+- Yep!
+
+164
+00:10:11,400 --> 00:10:12,416
+- Can you feel it?
+- Yep
+
+165
+00:10:12,540 --> 00:10:15,973
+- Go!
+(ALL) Go on, Petersen! Go for it!
+
+166
+00:10:16,680 --> 00:10:18,432
+(ALL) Brrr...brrr...brrr.
+
+167
+00:10:18,640 --> 00:10:21,792
+- Brrr...brrr..brrr...
+- Shhhh! shhhh!
+
+168
+00:10:24,120 --> 00:10:27,431
+Folks, today is a day
+for both sadness and joy.
+
+169
+00:10:27,520 --> 00:10:31,275
+Sadness for the passing
+away of George, and joy,
+
+170
+00:10:31,360 --> 00:10:34,751
+because George is back
+with us... albeit as a hologram.
+
+171
+00:10:34,840 --> 00:10:37,127
+Now some of you may not have
+travelled with a hologram before
+
+172
+00:10:37,151 --> 00:10:39,437
+so I ask you to
+treat him as a normal man,
+
+173
+00:10:39,520 --> 00:10:42,592
+because he is in every respect like George.
+
+174
+00:10:42,680 --> 00:10:46,435
+He has George's personality, and
+George's knowledge and experience.
+
+175
+00:10:46,520 --> 00:10:49,194
+Of course, he can't lift
+anything or touch anything,
+
+176
+00:10:49,280 --> 00:10:52,079
+so I ask you to cooperate with his requests.
+
+177
+00:10:52,160 --> 00:10:55,278
+And please take every care
+not to walk through him,
+
+178
+00:10:55,360 --> 00:10:57,351
+not even when you're in a hurry. Thank you.
+
+179
+00:10:57,520 --> 00:11:00,990
+(ALL) Whoa! Whoa
+(LISTER) Speech! Speech!
+
+180
+00:11:05,200 --> 00:11:10,354
+I want to thank everybody
+for giving me such a marvellous funeral.
+
+181
+00:11:10,440 --> 00:11:12,431
+I've just seen the vid.
+
+182
+00:11:12,600 --> 00:11:15,558
+And I want to thank the Captain
+for his beautiful eulogy.
+
+183
+00:11:15,760 --> 00:11:17,512
+Beautiful.
+
+184
+00:11:17,680 --> 00:11:20,149
+But I still don't understand why
+didn't he use the one I wrote!
+
+185
+00:11:23,320 --> 00:11:27,234
+This must seem pretty spooky for everyone,
+
+186
+00:11:27,320 --> 00:11:31,712
+but I don't want you to think
+of me as someone who's dead,
+
+187
+00:11:31,800 --> 00:11:35,430
+more as someone who's no longer
+a threat to your marriages.
+
+188
+00:11:37,760 --> 00:11:39,273
+I think Joe knows
+what I'm talking about!
+
+189
+00:11:42,880 --> 00:11:47,795
+As you know, Holly's only
+capable of sustaining one hologram.
+
+190
+00:11:47,880 --> 00:11:51,953
+So, my advice to anyone
+more vital to the mission than me is:
+
+191
+00:11:52,040 --> 00:11:53,872
+if you die, I'll kill you.
+
+192
+00:11:59,040 --> 00:12:02,158
+Please be upstanding for the cutting of the cake.
+
+193
+00:12:08,520 --> 00:12:10,511
+Flight Coordinator George Mcintyre.
+
+194
+00:12:10,680 --> 00:12:12,353
+(ALL) George!
+
+195
+00:12:12,440 --> 00:12:15,000
+(LISTER GARGLES)
+
+196
+00:12:20,280 --> 00:12:23,159
+OK. Just one thing before the disco.
+
+197
+00:12:23,240 --> 00:12:26,312
+Holly tells me he has sensed
+a non-human life form aboard.
+
+198
+00:12:26,720 --> 00:12:28,393
+Sir, it's Rimmer!
+
+199
+00:12:28,560 --> 00:12:32,190
+We don't know what it is, Lister.
+So just be careful, OK?
+
+200
+00:12:32,360 --> 00:12:34,158
+I'm turning you in, Rimmer.
+
+201
+00:12:34,240 --> 00:12:36,470
+(GROUP) Ooooh!
+
+202
+00:12:38,200 --> 00:12:40,555
+Right, they're bound
+to ask the right thigh,
+
+203
+00:12:40,640 --> 00:12:42,358
+which is 10%.
+
+204
+00:12:42,440 --> 00:12:46,035
+They must ask the left thigh, which is 20%.
+
+205
+00:12:46,120 --> 00:12:48,760
+They've got to ask one of the forearms.
+
+206
+00:12:48,920 --> 00:12:52,231
+Which means I've passed already!
+Anything on the left shin's a bonus!
+
+207
+00:12:54,440 --> 00:12:57,796
+Right. CUTIE: current under tension is...
+
+208
+00:12:57,880 --> 00:13:00,679
+What's this? Current under tension is equal?
+
+209
+00:13:00,760 --> 00:13:03,639
+Current under tension is expandable?
+
+210
+00:13:03,720 --> 00:13:06,189
+Current under tension is expensive?
+
+211
+00:13:06,280 --> 00:13:10,353
+What does this mean?
+What does any of this mean?
+
+212
+00:13:10,440 --> 00:13:16,791
+I've covered my body in complete and utter
+and total absolute nonsense gibberish!
+
+213
+00:13:16,880 --> 00:13:20,999
+Aaaargh! Just relax, relax, relax, relax...
+
+214
+00:13:22,120 --> 00:13:25,158
+Er, plus 20% of the ship's course minus
+
+215
+00:13:25,240 --> 00:13:28,790
+the Pythagoras theorem
+multiplied by two over the x axis
+
+216
+00:13:28,880 --> 00:13:30,951
+minus one equals the total
+velocity of Red Dwarf,
+
+217
+00:13:31,040 --> 00:13:32,553
+which means I know everything
+about astro-engineering.
+
+218
+00:13:32,640 --> 00:13:35,109
+Good morning, Lister,
+for probably the last time.
+
+219
+00:13:36,000 --> 00:13:38,276
+You've got it all down,
+have you, Rimmer?
+
+220
+00:13:38,360 --> 00:13:40,476
+Couple of blanks, but I think we're there.
+
+221
+00:13:40,560 --> 00:13:43,074
+So you can't remember anything?
+
+222
+00:13:43,200 --> 00:13:45,237
+Think what you will, Lister.
+
+223
+00:13:45,320 --> 00:13:49,791
+Rimmer, F-I-S-H, that's how you
+spell "Fish", and you just keel over.
+
+224
+00:13:49,880 --> 00:13:52,076
+I'm sure it'll all come flooding back to ya.
+
+225
+00:13:52,240 --> 00:13:55,312
+Dry up, Lister.
+(INTERCOM HONKS)
+
+226
+00:13:55,840 --> 00:13:58,719
+Will entrants for the engineer's examination,
+
+227
+00:13:58,800 --> 00:14:00,837
+now make their way to the Teaching Room.
+
+228
+00:14:00,920 --> 00:14:03,196
+Well, Rimmer, honestly, good luck.
+
+229
+00:14:04,800 --> 00:14:09,112
+ It's all right, Lister.
+I'm in complete and total control.
+
+230
+00:14:16,920 --> 00:14:19,673
+Lock! Lock!
+
+231
+00:14:21,160 --> 00:14:23,197
+(CAT MIAOWS)
+
+232
+00:14:31,480 --> 00:14:34,791
+Frankenstein! Come on, Frankenstein!
+
+233
+00:14:41,640 --> 00:14:44,712
+Oh, you're getting really big now, you know?
+
+234
+00:14:44,800 --> 00:14:48,555
+I hope it's not twins.
+You've already got all me milk ration.
+
+235
+00:14:48,640 --> 00:14:52,599
+Never mind, when the baby cat comes, maybe
+we can give it water and pretend it's milk.
+
+236
+00:14:52,680 --> 00:14:54,637
+It's only a baby cat, it won't know, eh?
+
+237
+00:14:54,720 --> 00:14:57,394
+Do you want to see my
+picture of Fiji again, Frankie?
+
+238
+00:14:57,480 --> 00:14:59,949
+You're gonna love it there. Look.
+
+239
+00:15:05,080 --> 00:15:07,310
+OK, everybody. You've got three hours.
+
+240
+00:15:07,400 --> 00:15:10,472
+No modems, no speaking slide-rules.
+
+241
+00:15:10,560 --> 00:15:12,995
+Turn over and start. Good luck.
+
+242
+00:16:39,880 --> 00:16:41,337
+Where's the Captain's office?
+
+243
+00:16:41,361 --> 00:16:44,033
+It's over there, where
+it says "Captain's Office".
+
+244
+00:16:44,120 --> 00:16:47,272
+- Where it's always said "Captain's Office"
+- So that's the Captain's office!
+
+245
+00:16:47,360 --> 00:16:49,829
+- So, how are you, then?
+- Fine.
+
+246
+00:16:49,920 --> 00:16:51,513
+Do you know what he
+wants to see me for?
+
+247
+00:16:51,600 --> 00:16:54,160
+Yes, I think you've been
+promoted to Admiral...
+
+248
+00:16:54,240 --> 00:16:55,878
+- Oh, yeah?
+- Yeah.
+
+249
+00:16:55,960 --> 00:16:58,884
+For your diligence and
+general devotion to duty.
+
+250
+00:16:58,908 --> 00:16:59,874
+Oh, yeah?
+
+251
+00:17:00,200 --> 00:17:02,032
+Lister!
+
+252
+00:17:05,840 --> 00:17:07,751
+You asked to see me, Captain?
+
+253
+00:17:08,440 --> 00:17:12,638
+- Where's the cat?
+- What? What cat?
+
+254
+00:17:12,880 --> 00:17:16,157
+Lister, not only are you so stupid
+
+255
+00:17:16,240 --> 00:17:18,390
+you bring aboard an unquarantined animal
+
+256
+00:17:18,480 --> 00:17:20,994
+and jeopardise every man
+and woman on this ship...
+
+257
+00:17:21,080 --> 00:17:25,119
+not only that, but you take a
+photograph of yourself with the cat
+
+258
+00:17:25,200 --> 00:17:27,669
+and sent it to be
+processed in the ship's lab.
+
+259
+00:17:28,960 --> 00:17:31,839
+Now, I'm gonna ask you
+again, do you have a cat?
+
+260
+00:17:32,040 --> 00:17:34,793
+- No.
+- Have you got a cat?
+
+261
+00:17:34,960 --> 00:17:36,837
+Yes, that one.
+
+262
+00:17:37,000 --> 00:17:38,991
+- Where did you get it, Titan?
+- Yes.
+
+263
+00:17:39,080 --> 00:17:41,720
+Don't you realise that thing
+could be carrying anything?!
+
+264
+00:17:41,800 --> 00:17:44,792
+Don't you remember what happened
+on the Oregon with the rabbits?
+
+265
+00:17:44,880 --> 00:17:47,918
+Lister, a loose animal aboard
+this ship could get anywhere.
+
+266
+00:17:48,000 --> 00:17:50,879
+It could get into the air ducts.
+It could get into Holly.
+
+267
+00:17:50,960 --> 00:17:53,918
+You know, a little nibble here
+and a little nibble there, Lister,
+
+268
+00:17:54,000 --> 00:17:56,640
+and before you know it,
+we're flying backwards.
+
+269
+00:17:56,720 --> 00:17:59,234
+Now, I want that cat, and I want it NOW.
+
+270
+00:17:59,400 --> 00:18:03,314
+Sir, just suppose I did have a cat. Just suppose.
+
+271
+00:18:03,400 --> 00:18:05,710
+What would you do with Frankenstein?
+
+272
+00:18:05,880 --> 00:18:09,669
+I'd send it down to the medical centre,
+and I'd have it cut up and tests run on it.
+
+273
+00:18:09,840 --> 00:18:12,070
+Would you put it back
+together, when you'd finished?
+
+274
+00:18:12,680 --> 00:18:15,240
+Lister, the cat would be dead.
+
+275
+00:18:15,360 --> 00:18:18,113
+So, with respect, sir,
+what's in it for the cat?
+
+276
+00:18:18,280 --> 00:18:20,032
+Lister, give me that cat!
+
+277
+00:18:20,200 --> 00:18:23,909
+It's not that easy as that! Me and
+the cat, we're gonna have a baby cat,
+
+278
+00:18:24,000 --> 00:18:26,879
+and we're going to buy a farm on Fiji,
+
+279
+00:18:26,960 --> 00:18:29,520
+and we're gonna have a sheep
+and a cow and three horses.
+
+280
+00:18:29,600 --> 00:18:34,037
+It's me plan, and no one can get in the way of it,
+not even you, and I do respect you.
+
+281
+00:18:34,240 --> 00:18:36,231
+- Sir!
+- Oh, Lister,
+
+282
+00:18:36,320 --> 00:18:40,234
+do you want to go into stasis for the rest
+of the trip and forfeit 18 months' wages?
+
+283
+00:18:40,320 --> 00:18:42,118
+- No
+- Do you wanna hand over that cat?
+
+284
+00:18:42,200 --> 00:18:45,158
+Gordon Bennet! Yes, Chen, everybody
+
+285
+00:18:46,400 --> 00:18:48,999
+Look, Dave, no one wants
+to go through with this.
+
+286
+00:18:49,023 --> 00:18:50,678
+It's OK, I can handle it.
+
+287
+00:18:52,320 --> 00:18:55,358
+- Rimmer, are you all right?
+- I can't really remember.
+
+288
+00:18:55,440 --> 00:18:57,431
+I think I did quite well.
+
+289
+00:18:59,920 --> 00:19:02,799
+- Is this going to hurt?
+- Haven't you ever travelled interstellar?
+
+290
+00:19:02,880 --> 00:19:04,553
+- No
+- Ah, you don't feel a thing.
+
+291
+00:19:04,640 --> 00:19:07,439
+The stasis room creates
+a static field of time.
+
+292
+00:19:07,520 --> 00:19:11,912
+See, just as X-rays can't pass through lead,
+time cannot penetrate the stasis field.
+
+293
+00:19:12,000 --> 00:19:14,514
+So, although you exist,
+you no longer exist in time
+
+294
+00:19:14,600 --> 00:19:16,511
+and for you time itself does not exist.
+
+295
+00:19:16,600 --> 00:19:19,956
+You see, although you're still a mass, you
+are no longer an event in space-time,
+
+296
+00:19:20,040 --> 00:19:22,680
+you are a non-event mass
+with a quantum probability of zero.
+
+297
+00:19:22,760 --> 00:19:24,433
+Oh, simple as that, eh?
+
+298
+00:19:24,800 --> 00:19:27,553
+- OK, I'm ready.
+- See you in 18 months.
+
+299
+00:19:29,160 --> 00:19:32,437
+- Holly, activate the stasis field.
+- OK, Frank.
+
+300
+00:19:53,360 --> 00:19:57,035
+Good morning, Dave. It is now
+safe for you to emerge from stasis.
+
+301
+00:19:57,120 --> 00:19:58,353
+I've only just gone in!
+
+302
+00:19:58,377 --> 00:20:00,909
+Please proceed to the
+Drive Room for debriefing.
+
+303
+00:20:06,360 --> 00:20:08,351
+Where is everybody, Hol?
+
+304
+00:20:08,440 --> 00:20:11,319
+- They're dead, Dave.
+- Who is?
+
+305
+00:20:11,400 --> 00:20:15,280
+- Everybody, Dave.
+- What, Captain Hollister?
+
+306
+00:20:15,360 --> 00:20:19,035
+- Everybody's dead, Dave.
+- What, Todhunter?
+
+307
+00:20:19,120 --> 00:20:23,353
+- Everybody's dead, Dave.
+- What, Selby?
+
+308
+00:20:23,520 --> 00:20:26,273
+They're all dead. Everybody's dead, Dave.
+
+309
+00:20:27,120 --> 00:20:30,715
+- Petersen isn't, is he?
+- Everybody is dead, Dave.
+
+310
+00:20:31,480 --> 00:20:35,269
+- Not Chen?
+- Gordon Bennet! Yes! Everybody.
+
+311
+00:20:35,360 --> 00:20:38,159
+- Everybody's dead, Dave.
+- Rimmer?
+
+312
+00:20:38,240 --> 00:20:42,234
+He's dead, Dave. Everybody is dead.
+Everybody. Is. Dead. Dave!
+
+313
+00:20:42,320 --> 00:20:46,712
+Wait. Are you trying to tell me everybody's dead?
+
+314
+00:20:48,720 --> 00:20:50,711
+I should've never let
+him out in the first place.
+
+315
+00:20:50,880 --> 00:20:51,776
+How?
+
+316
+00:20:51,800 --> 00:20:54,510
+The drive plate was
+inefficiently repaired.
+
+317
+00:20:54,600 --> 00:20:58,753
+It blew, and the entire crew was
+subjected to a lethal dose of Cadmium-2
+
+318
+00:20:58,840 --> 00:21:00,478
+before I could seal the area.
+
+319
+00:21:00,560 --> 00:21:04,918
+Oh, this is terrible. And why's it so
+dirty around here, Hol? What is this stuff?
+
+320
+00:21:05,000 --> 00:21:07,594
+That is Catering Officer Olaf Petersen.
+
+321
+00:21:07,680 --> 00:21:11,435
+Aaaah! I've been eating half the crew!
+
+322
+00:21:12,400 --> 00:21:14,914
+- Who's that?
+- That's Captain Hollister.
+
+323
+00:21:15,080 --> 00:21:18,152
+- And that's Todhunter.
+- No, that's Second Technician Rimmer.
+
+324
+00:21:18,320 --> 00:21:22,109
+Oh, yeah? I didn't recognise him
+without his report book.
+
+325
+00:21:22,520 --> 00:21:24,557
+What was Rimmer
+doing in the Drive Room?
+
+326
+00:21:24,720 --> 00:21:28,395
+He was explaining to the Captain why
+he hadn't sealed the drive plate properly.
+
+327
+00:21:28,560 --> 00:21:32,440
+So wait, Hol. How long was I in stasis?
+
+328
+00:21:32,520 --> 00:21:36,275
+Well, I couldn't release you until the
+radiation reached a safe background level
+
+329
+00:21:36,360 --> 00:21:39,079
+- How long?
+- Three million years.
+
+330
+00:21:39,240 --> 00:21:41,356
+Three million years!
+
+331
+00:21:42,440 --> 00:21:44,670
+I've still got that library book.
+
+332
+00:21:46,120 --> 00:21:48,919
+What about Krissie?
+What about Krissie Kochanski?
+
+333
+00:21:49,000 --> 00:21:51,640
+- She's dead, Dave.
+- Aw, hey!
+
+334
+00:21:51,800 --> 00:21:54,111
+I don't suppose it's any
+consolation, but if she were
+
+335
+00:21:54,135 --> 00:21:56,670
+still alive, the age difference
+would be insurmountable.
+
+336
+00:21:56,880 --> 00:21:59,633
+She was part of me plan.
+
+337
+00:21:59,720 --> 00:22:03,236
+I never got round to telling her, but
+she was going to come with me to Fiji.
+
+338
+00:22:03,320 --> 00:22:06,073
+She was to wear a white dress
+and ride the horses.
+
+339
+00:22:06,160 --> 00:22:10,074
+I was going to take care of everything
+else. It was me plan. I planned it.
+
+340
+00:22:10,240 --> 00:22:12,800
+Well, she won't be much use to you on Fiji now.
+
+341
+00:22:12,880 --> 00:22:15,793
+Not unless it snows and you need
+something to grit the path with.
+
+342
+00:22:19,240 --> 00:22:22,471
+- Holly?!
+- Sorry. I'm sorry about that.
+
+343
+00:22:22,560 --> 00:22:26,155
+I've been on me own for three million years,
+and I'm just used to saying what I think.
+
+344
+00:22:26,320 --> 00:22:28,960
+I think I've gone a bit
+peculiar, to tell you the truth.
+
+345
+00:22:29,280 --> 00:22:32,033
+So everyone's dead?
+I'm on me own? There's just me?
+
+346
+00:22:32,120 --> 00:22:35,670
+- Well, technically speaking, yeah.
+- What do you mean, "technically speaking"?
+
+347
+00:22:38,360 --> 00:22:41,239
+Hello, Lister. Long time no see.
+
+348
+00:22:41,400 --> 00:22:44,677
+- Rimmer, you're a hologram!
+- Yes. That's because I'm dead.
+
+349
+00:22:44,760 --> 00:22:48,276
+Dead as a can of Spam.
+And it's all thanks to you.
+
+350
+00:22:48,360 --> 00:22:52,069
+- Me? What did I do?
+- If you hadn't kept that stupid cat, Lister
+
+351
+00:22:52,160 --> 00:22:54,208
+and hadn't been sent to stasis,
+I would have had some help
+
+352
+00:22:54,232 --> 00:22:56,279
+when I was mending the drive
+plate and I wouldn't be dead.
+
+353
+00:22:56,360 --> 00:22:59,273
+- What does it feel like?
+- Death?
+
+354
+00:22:59,360 --> 00:23:02,239
+It's like being on holiday
+with a group of Germans.
+
+355
+00:23:02,640 --> 00:23:05,314
+No, I mean being a hologram.
+
+356
+00:23:06,480 --> 00:23:09,950
+Do you mind? Being a hologram is fine, Lister.
+
+357
+00:23:10,040 --> 00:23:13,237
+I still have the same drives,
+the same feelings, the same emotions,
+
+358
+00:23:13,320 --> 00:23:15,789
+but I can't touch anything.
+
+359
+00:23:15,880 --> 00:23:18,872
+Never again will I be able
+to brush a rose against my cheek,
+
+360
+00:23:18,960 --> 00:23:21,349
+cradle a laughing child,
+
+361
+00:23:21,440 --> 00:23:23,909
+or interfere with a woman sexually.
+
+362
+00:23:24,400 --> 00:23:27,119
+Rimmer, you never used to
+do any of those things anyway!
+
+363
+00:23:27,240 --> 00:23:30,232
+- I would have one day, murderer.
+- Hey! Hey! I didn't do anything!
+
+364
+00:23:30,320 --> 00:23:33,472
+It was YOU who didn't fix
+the drive plates properly.
+
+365
+00:23:33,640 --> 00:23:35,756
+- Is this me here?
+- Yeah.
+
+366
+00:23:35,780 --> 00:23:38,514
+- Me?
+- Come on, Rimmer, look on the bright side.
+
+367
+00:23:38,600 --> 00:23:41,274
+The bright side? What bright side?
+
+368
+00:23:41,360 --> 00:23:44,079
+I'm dead. I'm composed entirely of light,
+
+369
+00:23:44,160 --> 00:23:46,367
+and I'm alone in space with
+a man who'd lose a battle
+
+370
+00:23:46,391 --> 00:23:48,597
+of wits with a stuffed iguana.
+Where's the bright side?
+
+371
+00:23:48,800 --> 00:23:50,871
+What's an iguana?
+
+372
+00:23:50,960 --> 00:23:53,839
+Look, look, you're not dead, are ya?
+
+373
+00:23:53,920 --> 00:23:57,629
+I mean, you're dead! But not "dead" dead,
+'cause you're still here, aren't ya?
+
+374
+00:23:57,720 --> 00:24:01,429
+Lister, I'm not really here!
+I'm not really me! Don't you see?
+
+375
+00:24:01,520 --> 00:24:03,750
+I'm a computer simulation of me.
+
+376
+00:24:03,840 --> 00:24:07,435
+That's me, there,
+that pile of albino mouse droppings.
+
+377
+00:24:07,520 --> 00:24:09,670
+Come on. Lots of people have died.
+
+378
+00:24:09,760 --> 00:24:12,832
+Lots of people have died and gone on
+and done really, really well.
+
+379
+00:24:12,920 --> 00:24:15,196
+You're a hologram. So what?
+
+380
+00:24:15,360 --> 00:24:18,955
+I suppose you're right, Lister.
+I've got to pull myself together.
+
+381
+00:24:19,040 --> 00:24:22,396
+But you've got to help me. You've
+got to be my hands and my touch.
+
+382
+00:24:22,480 --> 00:24:25,598
+I know the sort of things you like
+to touch. No way, Rimmer. Forget it.
+
+383
+00:24:26,760 --> 00:24:28,637
+Are you smoking, Lister? In the Drive Room?
+
+384
+00:24:28,800 --> 00:24:32,191
+Yeah. I stopped for a while,
+but I'm back on them now.
+
+385
+00:24:32,480 --> 00:24:34,471
+You're on report, squire.
+
+386
+00:24:38,560 --> 00:24:41,393
+I can't write it down. I'll remember it.
+
+387
+00:24:41,680 --> 00:24:45,230
+Ohhh! Rimmer, I know it's wrong of
+me to speak ill of the dead and all that
+
+388
+00:24:45,320 --> 00:24:48,153
+- but you're still a smeghead.
+- I beg your pardon?
+
+389
+00:24:48,240 --> 00:24:50,231
+I said, you're still a smeghead.
+
+390
+00:24:50,320 --> 00:24:52,311
+Lister, do you have any
+conception of the penalty
+
+391
+00:24:52,400 --> 00:24:55,392
+for describing a deceased
+superior technician as a smeghead?
+
+392
+00:25:07,520 --> 00:25:12,549
+- Will you listen to me? Just listen to me. Just shut up, just shut up!
+
+393
+00:25:19,680 --> 00:25:22,752
+Aaahhh! Aow! Eeee!
+
+394
+00:25:22,840 --> 00:25:25,673
+Aow, eee, how am I looking?
+
+395
+00:25:28,440 --> 00:25:32,070
+Looking nice. No, wait a minute.
+
+396
+00:25:32,160 --> 00:25:35,312
+I'm looking better than nice.
+I'm looking dangerous.
+
+397
+00:25:35,400 --> 00:25:40,156
+Aaaoooww. Dangerous! Aaaooowww!
+Hey, what's that?
+
+398
+00:25:41,640 --> 00:25:45,554
+Oh, it's my shadow.
+Hey, even my shadow's looking nice.
+
+399
+00:25:45,640 --> 00:25:49,474
+I'm looking nice. My shadow's
+looking nice. What a team!
+
+400
+00:25:49,560 --> 00:25:53,110
+We are unbelievable! OK, team, this way.
+
+401
+00:25:53,840 --> 00:25:57,231
+No, this way. Aaaooowww...
+
+402
+00:25:57,320 --> 00:26:01,200
+Aaaoowww, yeah. This way!
+
+403
+00:26:01,800 --> 00:26:03,837
+Lister, just hold your
+horses, listen to me...
+
+404
+00:26:04,120 --> 00:26:06,794
+Aaaooowww!
+
+405
+00:26:08,560 --> 00:26:12,679
+Uh, oh! Better make myself look big!
+
+406
+00:26:16,320 --> 00:26:19,836
+Hee hee! Fearsome. I was fearsome!
+
+407
+00:26:19,920 --> 00:26:23,515
+ # Just me and my shadow, ooohhh! #
+
+408
+00:26:23,600 --> 00:26:25,876
+Come on, boy! # Walking down the... #
+
+409
+00:26:27,600 --> 00:26:32,674
+Aaahhh! Holly, what was that?
+
+410
+00:26:33,440 --> 00:26:36,159
+During the radioactive crisis, Dave,
+your cat and her kittens
+
+411
+00:26:36,240 --> 00:26:38,197
+were safely sealed in the hold,
+
+412
+00:26:38,280 --> 00:26:40,112
+and they've been breeding
+there for three million years,
+
+413
+00:26:40,200 --> 00:26:43,695
+and have evolved into the
+life-form you just saw in the corridor.
+
+414
+00:26:43,719 --> 00:26:44,876
+I don't get it.
+
+415
+00:26:45,360 --> 00:26:47,291
+Well, you know how
+mankind evolved from apes?
+
+416
+00:26:47,315 --> 00:26:48,318
+Yeah, I know that.
+
+417
+00:26:48,480 --> 00:26:51,518
+He evolved from cats. His ancestors were cats.
+
+418
+00:26:51,600 --> 00:26:54,479
+He descended from cats. He is a cat.
+
+419
+00:26:54,840 --> 00:26:58,549
+Aaahhh, ooohhh, yeah...
+
+420
+00:26:59,080 --> 00:27:01,879
+Hello... Cat?
+
+421
+00:27:02,080 --> 00:27:04,913
+Whoa! Crease!
+
+422
+00:27:07,640 --> 00:27:10,837
+Stand back, Lister.
+(SHOUTS INCOHERENTLY)
+
+423
+00:27:17,560 --> 00:27:20,279
+- Here you go, Cat.
+- Ah, crispies!
+
+424
+00:27:20,360 --> 00:27:22,636
+- Holly says you like these.
+- Mmmm!
+
+425
+00:27:22,880 --> 00:27:25,190
+Hey! You monkeys eat off the floor?
+
+426
+00:27:25,280 --> 00:27:28,557
+Ain't you got no style or sophistication?
+
+427
+00:27:28,640 --> 00:27:30,916
+I'm sorry, Cat. I'm sorry.
+
+428
+00:27:31,320 --> 00:27:33,311
+You people are unbelievable.
+
+429
+00:27:36,760 --> 00:27:39,494
+Where are all your other
+your catty friends, Cat?
+
+430
+00:27:39,518 --> 00:27:40,879
+Good crispies, man!
+
+431
+00:27:40,960 --> 00:27:44,157
+Where are your other little kitties? Are they
+gone? Are they dead? Have they left, yet?
+
+432
+00:27:44,320 --> 00:27:46,789
+Who cares? I want it off the ship!
+
+433
+00:27:46,880 --> 00:27:50,111
+No! He's coming home with us, aren't you, Cat?
+
+434
+00:27:50,200 --> 00:27:52,589
+Home? And where exactly
+is 'home' supposed to be?
+
+435
+00:27:52,760 --> 00:27:53,488
+Earth.
+
+436
+00:27:53,512 --> 00:27:55,718
+Earth?! What makes you
+think there'll BE any Earth, Lister
+
+437
+00:27:55,800 --> 00:27:58,360
+And even if there is, look what it's done
+to a household pet in three million years.
+
+438
+00:27:58,520 --> 00:28:00,716
+Can you imagine what
+humankind has evolved into?
+
+439
+00:28:00,880 --> 00:28:04,589
+To them, you'll be the equivalent of the
+slime that first crawled out the oceans.
+
+440
+00:28:04,760 --> 00:28:07,639
+- I could smarten meself up a bit.
+- Nah, you're a dinosaur.
+
+441
+00:28:07,720 --> 00:28:11,315
+- You're extinct, you've got nothing.
+- Hey! Hey! I've still got me plan.
+
+442
+00:28:11,400 --> 00:28:15,280
+And I've still got a cat. Okay, it's
+not Frankenstein, but it's still a cat.
+
+443
+00:28:15,400 --> 00:28:17,311
+- Did you say Frankenstein?
+- Yeah.
+
+444
+00:28:17,400 --> 00:28:20,472
+She was your great, great, great,
+great, great, great grandmother or something.
+
+445
+00:28:20,560 --> 00:28:24,519
+The Holy Mother? The Virgin Birth?
+No one believes that stuff.
+
+446
+00:28:24,600 --> 00:28:27,114
+The Virgin Birth?!
+
+447
+00:28:27,200 --> 00:28:29,794
+No, it was a big black tom on Titan.
+
+448
+00:28:29,960 --> 00:28:33,316
+Frankenstein, yeah! I remember
+that stuff from kitty school.
+
+449
+00:28:33,400 --> 00:28:37,280
+The Holy Mother, saved
+by Cloister the Stupid,
+
+450
+00:28:37,360 --> 00:28:39,397
+who was frozen in time,
+
+451
+00:28:39,480 --> 00:28:41,676
+and who gaveth of his
+life that we might live.
+
+452
+00:28:41,760 --> 00:28:46,118
+No! No, it's not Cloister, it's me, it's Lister!
+
+453
+00:28:46,200 --> 00:28:48,555
+It's Lister the...stupid?!
+
+454
+00:28:49,720 --> 00:28:54,112
+who shall returneth to lead us
+to Fuchal, the Promised Land.
+
+455
+00:28:54,200 --> 00:28:56,919
+No, it's not Fuchal, it's Fiji!
+
+456
+00:28:57,000 --> 00:28:58,991
+And I will! I'll lead you there.
+
+457
+00:28:59,080 --> 00:29:03,551
+That's where we're going.
+Holly, plot a course for Fiji.
+
+458
+00:29:03,640 --> 00:29:07,395
+Look out, Earth. The slime's coming home!
+
+459
+00:29:11,880 --> 00:29:15,669
+# It's cold outside,
+There's no kind of atmosphere
+
+460
+00:29:15,760 --> 00:29:18,991
+# I'm all alone, more or less
+
+461
+00:29:19,080 --> 00:29:22,152
+# Let me fly far away from here
+
+462
+00:29:22,240 --> 00:29:25,392
+# Fun, fun, fun
+
+463
+00:29:25,480 --> 00:29:28,791
+# In the sun, sun, sun
+
+464
+00:29:28,880 --> 00:29:32,396
+# I want to lie, shipwrecked and comatose
+
+465
+00:29:32,480 --> 00:29:35,518
+# Drinking fresh mango juice
+
+466
+00:29:35,600 --> 00:29:38,991
+# Goldfish shoals, nibbling at my toes
+
+467
+00:29:39,080 --> 00:29:41,071
+# Fun, fun, fun
+
+468
+00:29:41,560 --> 00:29:45,440
+# In the sun, sun, sun
+
+469
+00:29:45,520 --> 00:29:48,512
+# Fun, fun, fun
+
+470
+00:29:48,600 --> 00:29:52,195
+# In the sun, sun, sun #
+
