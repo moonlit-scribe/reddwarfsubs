@@ -125,7 +125,7 @@ Please direct me to a five-star hotel.
 
 30
 00:03:21,640 --> 00:03:23,677
-Lister, will you shut up?
+Lister, will you please shut up?
 
 31
 00:03:23,760 --> 00:03:26,229
@@ -200,7 +200,7 @@ same old usual, boring, normal way you get in.
 
 47
 00:04:12,297 --> 00:04:17,959
-- I failed me exams and applied. They snapped me up.
+- Failed me exams and applied. They snapped me up.
 - Ah, but you didn't get a degree... did you?
 
 48
@@ -257,7 +257,7 @@ La menuo aspektas bonege. Mi provas la kokidaĵon.
 
 59
 00:04:57,840 --> 00:04:59,831
-Ah, now this I one I do know...
+Ah, now this is one I do know...
 
 60
 00:04:59,920 --> 00:05:03,356
@@ -668,7 +668,7 @@ really interested and asked me exactly what I did there
 
 150
 00:11:48,920 --> 00:11:51,992
-- And I said you were a shelf!
+- And I said you were a shelf.
 - Exactly.
 
 151
@@ -678,7 +678,7 @@ And then I suggested a little trip to Titan Zoo,
 152
 00:11:54,800 --> 00:11:58,953
 and you said, "Ooh, he's taking you
-to meet his mum already!"
+home to meet his mum already!"
 
 153
 00:11:59,040 --> 00:12:02,112
@@ -792,8 +792,8 @@ and that I was pretty incredibly brave about it.
 
 177
 00:13:23,040 --> 00:13:27,113
-I mean, you know, perhaps you could mention
-hints that I've had tons of girlfriends?
+I mean, you know, perhaps you could mention,
+hint, that I've had tons of girlfriends?
 
 178
 00:13:29,120 --> 00:13:33,717
@@ -927,7 +927,7 @@ to mess up my hair. Hee-hee.
 
 207
 00:15:47,960 --> 00:15:54,753
-Hey, listen we just gonna make sure we don't pass
+Hey, listen, we just gonna make sure we don't pass
 any mirrors, 'cause if we do, I'm there for the day!
 
 208
