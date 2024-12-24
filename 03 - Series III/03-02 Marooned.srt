@@ -228,8 +228,8 @@ we'll rendezvous on the desert moon Sigma-14D.
 
 51
 00:03:32,181 --> 00:03:36,015
-(HOLLY) Well, Red Dwarf and everything in it will be crushed
-to the size of a garden pea.
+(HOLLY) Well, Red Dwarf and everything in it will be
+compacted down to the size of a garden pea.
 
 52
 00:03:36,461 --> 00:03:38,452
@@ -460,7 +460,7 @@ one of the greatest generals in history.
 102
 00:06:35,941 --> 00:06:39,237
 Well, maybe it's tot, I don't
-know but it's funny, even to this day,
+know. But it's funny, even to this day,
 
 103
 00:06:39,261 --> 00:06:42,497
@@ -495,7 +495,7 @@ humdrum, weaselly existence.
 109
 00:07:06,901 --> 00:07:11,372
 You're looking for something
-with a bit more - I don't know - glamour.
+with a bit more - oh, I don't know - glamour.
 
 110
 00:07:11,541 --> 00:07:13,930
@@ -621,7 +621,7 @@ Correction: I'M going to die.
 
 137
 00:09:37,541 --> 00:09:40,215
-I mean, you're a hologram, You're already dead. You don't need food.
+I mean, you're a hologram. You're already dead. You don't need food.
 
 138
 00:09:40,381 --> 00:09:43,294
@@ -635,7 +635,8 @@ Smeg all. Just a wasteland.
 
 140
 00:09:46,701 --> 00:09:49,614
-You've got to keep this fire going, it's your only form of heat
+You've got to keep this fire going. 
+It's your only form of heat
 
 141
 00:09:49,821 --> 00:09:52,256
@@ -949,7 +950,7 @@ there in front of me completely naked.
 208
 00:13:42,701 --> 00:13:46,137
 I was so excited,
-I nearly dropped my skateboard.
+I nearly dropped me skateboard.
 
 209
 00:13:46,661 --> 00:13:49,460
@@ -1161,7 +1162,7 @@ Have you ever actually read any of it?
 
 255
 00:16:22,301 --> 00:16:25,419
-I've seen "West Side Story". That's based on one of them.
+I've seen... "West Side Story". That's based on one of them.
 
 256
 00:16:26,581 --> 00:16:30,131
@@ -1416,7 +1417,7 @@ That's my lifeline. I need that guitar.
 311
 00:20:29,661 --> 00:20:34,417
 I mean, when it gets to me...
-I mean the loneliness and all that...
+I mean, the loneliness and all that...
 
 312
 00:20:34,581 --> 00:20:38,734
@@ -1540,7 +1541,7 @@ When it really comes down to it, you're one heck of a regular guy.
 
 339
 00:23:21,301 --> 00:23:24,453
-And there's not point being modest.
+And there's no point being modest.
 I know what that guitar meant to you.
 
 340
@@ -1596,7 +1597,7 @@ I'm a pretty rich man.
 350
 00:24:10,861 --> 00:24:15,094
 - No, not the soldiers, as well...
-- you burned your guitar, I want to make a sacrifice, too.
+- You burned your guitar, I want to make a sacrifice, too.
 
 351
 00:24:15,261 --> 00:24:18,014
