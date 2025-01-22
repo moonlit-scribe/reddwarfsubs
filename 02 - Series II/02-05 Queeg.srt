@@ -647,7 +647,7 @@ The lifts are fixed. The fire extinguishers work.
 
 143
 00:10:25,421 --> 00:10:28,777
-And when I say 'work'.
+And when I say 'work',
 I mean they work when you turn them on,
 
 144
