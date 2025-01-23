@@ -12,7 +12,7 @@ Uphill, slight burrow to the left.
 
 4
 00:00:59,920 --> 00:01:03,550
-Yes! Yes! Yes! Yes! Owwww!
+Yes! Yes! Yes! Yes! Aaaoowwww!
 
 5
 00:01:03,720 --> 00:01:07,111
@@ -127,7 +127,7 @@ you're gonna get out of me, buddy!
 
 29
 00:02:38,600 --> 00:02:41,592
-Listen, man. Just get out of my face.
+Listen, man. Just get out of me face.
 
 30
 00:02:42,560 --> 00:02:45,359
@@ -219,7 +219,7 @@ I'm sick of your stupid flared nostrils.
 
 51
 00:04:24,640 --> 00:04:27,632
-Sick of the way you always
+I'm sick of the way you always
 smile when you're being insulted.
 
 52
@@ -283,7 +283,7 @@ was a bloke who fixed windows.
 
 65
 00:05:17,400 --> 00:05:20,233
-He can't have been that dense, can he? I mean he invented the tension sheet.
+He can't have been that dense, can he? I mean, he invented the tension sheet.
 
 66
 00:05:20,440 --> 00:05:22,733
@@ -410,7 +410,7 @@ I'm actually here at a smeggin' wedding!
 92
 00:06:56,480 --> 00:07:01,714
 He's punching me again. Fantastic.
-ALL right! ALL right! OK. I'm going.
+Alright! Alight! OK! I'm going.
 
 93
 00:07:04,280 --> 00:07:06,271
@@ -422,7 +422,7 @@ I can't walk out of the edge of the photograph.
 
 95
 00:07:12,040 --> 00:07:14,554
-- ..credible.
+..credible.
 - Try another one.
 
 96
@@ -638,7 +638,7 @@ You can't just mess about with history.
 141
 00:10:28,760 --> 00:10:33,277
 - We'll just do something small.
-- No such thing as 'small' when you're talking about changing time.
+- There's no such thing as 'small' when you're talking about changing time.
 
 142
 00:10:33,480 --> 00:10:37,001
@@ -719,7 +719,7 @@ What are you wearing?
 160
 00:11:28,551 --> 00:11:31,474
 It was all the rage, it's what everyone
-was wearing, called "Sham glam".
+was wearing, called "sham glam".
 
 161
 00:11:31,640 --> 00:11:34,519
@@ -781,7 +781,7 @@ company and got his own parking space.
 
 174
 00:12:21,960 --> 00:12:25,078
-#Om #
+# Om #
 
 175
 00:12:25,280 --> 00:12:27,032
@@ -899,7 +899,7 @@ You don't make it 'cause...you're crap.
 
 199
 00:13:53,280 --> 00:13:56,796
-Oh and how would you know, grandad?
+Oh, and how would you know, grandad?
 You're too old to recieve what we're trying to transmit.
 
 200
@@ -978,7 +978,7 @@ Oh, give up. The guy's an idiot.
 
 216
 00:14:56,480 --> 00:14:59,836
-I don't want a break. it's my future. I'll take me own chances, thanks.
+I don't want a break. It's my future. I'll take me own chances, thanks.
 
 217
 00:15:00,040 --> 00:15:02,526
@@ -997,7 +997,7 @@ Ugh. You think about it. C'mon.
 
 220
 00:15:11,400 --> 00:15:14,552
-You haven't got a copy of the "Om" song i can take back with me, have you?
+You haven't got a copy of the "Om" song I can take back with me, have you?
 
 221
 00:15:14,720 --> 00:15:16,836
@@ -1006,7 +1006,7 @@ You haven't got a copy of the "Om" song i can take back with me, have you?
 
 222
 00:15:17,040 --> 00:15:20,431
-I just can't get it out of my head. it's so catchy. #Om...
+I just can't get it out of my head. It's so catchy. # Om...
 
 223
 00:15:20,600 --> 00:15:22,591
@@ -1059,7 +1059,7 @@ so they've disappeared, too.
 
 234
 00:16:01,800 --> 00:16:04,474
-- So it's just you and me?
+- So, it's just you and me?
 - For the rest of eternity.
 
 235
@@ -1074,12 +1074,12 @@ No, thanks! Find him and bring him back.
 237
 00:16:19,520 --> 00:16:23,912
 - And?
-- Tension sheet. Inventor of: D Lister, aged 17.
+- Tension sheet. Inventor of: Dave Lister, aged 17.
 
 238
 00:16:24,120 --> 00:16:28,637
 - Damn!
-- and he died tragically in a plane crash, aged 98.
+- And he died tragically in a plane crash, aged 98.
 
 239
 00:16:28,840 --> 00:16:30,877
@@ -1123,7 +1123,7 @@ of the Disgustingly Rich and Famous."
 247
 00:16:57,560 --> 00:17:02,077
 Tonight, we'll be looking at the world's youngest
-billionaire, Mr. Dave "Tension Sheet" Lister.
+billionaire, Mr Dave "Tension Sheet" Lister.
 
 248
 00:17:02,240 --> 00:17:04,914
@@ -1248,7 +1248,7 @@ Yow!
 
 274
 00:18:46,000 --> 00:18:49,391
-Mr Lister, sir. What an utter delight, sir
+Mr Lister, sir. What an utter delight, sir,
 it is to welcome you home.
 
 275
@@ -1325,7 +1325,7 @@ with a glass of sterilised milk.
 
 291
 00:20:08,880 --> 00:20:12,191
-This is Brilliant. We used to llive on these
+This is brilliant. We used to llive on these
 when I was in the band.
 
 292
@@ -1353,8 +1353,7 @@ Old Iron Balls. Rimmer. Rimmer!
 
 297
 00:20:38,240 --> 00:20:40,959
-Apparently,
-the gentleman's name is Rimmer, sir.
+Apparently, the gentleman's name is Rimmer, sir.
 
 298
 00:20:41,160 --> 00:20:45,279
@@ -1382,7 +1381,7 @@ Of course you don't remember. It hasn't happened, has it?
 303
 00:20:58,680 --> 00:21:00,876
 - Yes?
-- THE Sabrina Mulholland-JJones?
+- THE Sabrina Mulholland-Jjones?
 
 304
 00:21:01,080 --> 00:21:04,277
@@ -1576,7 +1575,7 @@ Like you get in packing paper?
 
 346
 00:23:50,977 --> 00:23:54,390
-Look, do you mind, Holden, this is a
+Look, do you mind, Holden? This is a
 private conversation. Go back to sleep.
 
 347
@@ -1591,7 +1590,7 @@ in packing paper, but you paint them red.
 
 349
 00:24:04,040 --> 00:24:06,395
-Look, will you shut up. I'm trying to make the kid rich.
+Look, will you shut up? I'm trying to make the kid rich.
 
 350
 00:24:08,120 --> 00:24:11,397
@@ -1632,7 +1631,7 @@ No, sir.
 
 358
 00:24:44,440 --> 00:24:47,956
-Oh, yes! Oh, yes! Oh, yes!
+# Oh, yes! Oh, yes! Oh, yes!
 # If I were a rich man
 
 359
@@ -1717,7 +1716,7 @@ inexplicably cruel and horrible happens,
 
 377
 00:25:54,520 --> 00:25:57,558
-- and it all blows up in my face.
+and it all blows up in my face.
 - Hang on a mo...
 
 378
