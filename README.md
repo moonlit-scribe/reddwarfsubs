@@ -1,5 +1,5 @@
 # Red Dwarf: The Unabridged Subtitles
-A collection of complete, unabdriged subtitles for all episodes of British TV show /Red Dwarf/. Initially created to power [The Smega-Drive](https://smegadrive.ganymede.tv) - a Frinkiac style screenshot archive and meme generator for /Red Dwarf/ - they are now being collected in SRT format and made available for direct download on [The Smega-Drive Episode Index](https://smegadrive.ganymede.tv/episodes) and GitHub.
+A collection of complete, unabdriged subtitles for all episodes of British TV show _Red Dwarf_. Initially created to power [The Smega-Drive](https://smegadrive.ganymede.tv) - a Frinkiac style screenshot archive and meme generator for _Red Dwarf_ - they are now being collected in SRT format and made available for direct download on [The Smega-Drive Episode Index](https://smegadrive.ganymede.tv/episodes) and GitHub.
 
 **The primary aim for these subtitles is to be word-for-word accurate, due to their primary function being as an indexing tool. As such, many different accessibility barriers had to be ignored. Anyone wanting to use these as a genuine aide may struggle to consume them due to the increased amount of words over a given period of time on screen.**
 
