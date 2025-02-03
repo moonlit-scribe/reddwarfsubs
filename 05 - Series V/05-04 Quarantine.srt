@@ -40,7 +40,7 @@ Launch scouter.
 
 10
 00:01:26,340 --> 00:01:29,651
-I'll be in the stern, correlating the...
+I'll be in the stern, correlating the, uh...
 
 11
 00:01:29,820 --> 00:01:31,413
@@ -1184,7 +1184,7 @@ Didn't I warn you what would happen?
 256
 00:19:01,260 --> 00:19:04,412
 - There he goes.
-- Kryten, if you put that on, I'm not going to help you out. I'm not helping you again.
+- Kryten, if you put that on, I'm not gonna help you out. I'm not helping you again.
 
 257
 00:19:04,580 --> 00:19:07,140
@@ -1292,7 +1292,7 @@ He'll refuse.
 
 279
 00:20:18,341 --> 00:20:21,777
-He can't. he's playing it by
+He can't. He's playing it by
 the book. We've nailed him...
 
 280
@@ -1350,7 +1350,7 @@ and you think that's un-amiss?
 291
 00:21:03,220 --> 00:21:07,293
 No, of course not. It's just we'd thought you'd gone nuts.
-We were  trying to humour you.
+We were trying to humour you.
 
 292
 00:21:07,460 --> 00:21:13,650
@@ -1617,7 +1617,7 @@ Two and one-half badgers, please!
 
 350
 00:25:11,780 --> 00:25:13,771
-Ah, that's better. Now I can...
+Ah, that's better. Maybe now I can...
 
 351
 00:25:13,940 --> 00:25:16,773
