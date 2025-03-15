@@ -49,7 +49,7 @@ Let's take it one step at a time, shall we?
 
 12
 00:01:19,200 --> 00:01:24,912
-Oh, there what did I tell you? It's gone down
+Oh, there, what did I tell you? It's gone down
 eight inches overnight. You'll be up and about in no time.
 
 13
@@ -99,7 +99,7 @@ Mr Rimmer has been on vacation.
 
 22
 00:01:58,640 --> 00:02:02,429
- Vacation? The world's most charismatic man?
+Vacation? The world's most charismatic man?
 Where did he go?
 
 23
@@ -281,7 +281,7 @@ person, who doesn't go for your type?
 
 61
 00:04:07,920 --> 00:04:10,958
-I would have heard about her! She would have appeared in "Ripley's Believe It Or Not".
+I'd have heard about her! She would've appeared in "Ripley's Believe It Or Not".
 
 62
 00:04:11,160 --> 00:04:13,879
@@ -359,7 +359,7 @@ She's in there, let's get her out.
 77
 00:05:08,800 --> 00:05:14,159
 The problem, Pussy Cat Willum,
-is this capsule was ejected from a prison ship
+is this capsule was ejected from a prison ship,
 
 78
 00:05:14,320 --> 00:05:16,755
@@ -438,11 +438,11 @@ All we have to do is hang around here for 24 hours.
 94
 00:06:14,160 --> 00:06:17,804
 Then, if you find your limbs scattered around
-deep space and your neck full of saliva.
+deep space and your neck full of saliva,
 
 95
 00:06:17,828 --> 00:06:19,917
-You can take it as read, it probably wasn't Babs.
+you can take it as read, it probably wasn't Babs.
 
 96
 00:06:21,440 --> 00:06:24,876
@@ -790,7 +790,7 @@ you're carrying in your trousers...
 
 171
 00:11:36,960 --> 00:11:39,076
-..or I detect you're a tad concerned?
+..or do I detect you're a tad concerned?
 
 172
 00:11:39,280 --> 00:11:43,319
@@ -814,7 +814,7 @@ we used to always go scrumping.
 
 176
 00:11:52,031 --> 00:11:53,871
-Oh, Stealing apples?
+Oh, stealing apples?
 That's hardly a crime, sir.
 
 177
@@ -1216,7 +1216,7 @@ a piece of sputum floating in the toilet bowl of life.
 
 264
 00:17:32,480 --> 00:17:35,996
-Yet he could never come to terms
+Yet, he could never come to terms
 with a lifetime of underachievement.
 
 265
@@ -1233,7 +1233,7 @@ who considers himself head of the corporation.
 
 268
 00:17:45,440 --> 00:17:48,831
-So when the crew were wiped out
+So, when the crew were wiped out
 by a nuclear accident,
 
 269
@@ -1287,7 +1287,7 @@ Occupation?
 
 280
 00:18:34,240 --> 00:18:35,878
-Er, Bum.
+Er, bum.
 
 281
 00:18:36,080 --> 00:18:38,799
@@ -1331,7 +1331,7 @@ Objection!
 290
 00:19:04,480 --> 00:19:09,236
 - (COMPUTER) Overruled.
-- So you wouldn't describe him as a man with a good social life?
+- So, you wouldn't describe him as a man with a good social life?
 
 291
 00:19:09,440 --> 00:19:14,196
@@ -1774,7 +1774,7 @@ bad people
 389
 00:27:06,856 --> 00:27:08,920
 and bad things will happen to good people.
-It's the way it's going to be.
+It's the way it's gotta be.
 
 390
 00:27:09,080 --> 00:27:11,356
