@@ -1,4 +1,4 @@
-﻿1
+ ﻿1
 00:00:02,240 --> 00:00:05,119
 ("RED DWARF" THEME)
 
@@ -517,7 +517,7 @@ over the side and have a few cans, you know. Chill out.
 
 112
 00:08:14,360 --> 00:08:18,069
-I don't believe anybody who would want to go on a
+I don't believe anybody who'd want to go on a
 fishing holiday where they know there's no fish.
 
 113
@@ -1286,7 +1286,7 @@ Better grab a brolly. There's a bit of a drizzle outside.
 277
 00:18:55,720 --> 00:18:59,509
 - What's the prob, Kryters?
-- Well, I have a limited understanding of medicine, sir.
+- Well, I have a limited understanding of medicine, sir,
 
 278
 00:18:59,680 --> 00:19:03,913
@@ -1445,7 +1445,7 @@ fatuous references to his sexuality.
 
 313
 00:21:29,520 --> 00:21:32,114
-- May I just point out...?
+- If I may just point out...?
 - Yes! We did it!
 
 314
