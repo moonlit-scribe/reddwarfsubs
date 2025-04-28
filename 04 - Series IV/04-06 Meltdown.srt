@@ -431,7 +431,7 @@ down to the planet, a safe distance from us.
 
 94
 00:06:14,108 --> 00:06:15,108
-(LISTER) Ok.
+(LISTER) OK.
 
 95
 00:06:21,360 --> 00:06:24,876
@@ -1595,7 +1595,7 @@ Destroy them! Shoot them!
 
 348
 00:23:19,560 --> 00:23:23,474
-Iron Duke? Iron Duke? This is er, Pawn Sacrifice.
+Iron Duke? Iron Duke? This is, er, Pawn Sacrifice.
 
 349
 00:23:23,640 --> 00:23:26,439
@@ -1651,11 +1651,11 @@ Victory on Waxworld! It's VW Day!
 360
 00:24:02,320 --> 00:24:07,315
 - Yeah, how many of them made it back?
-- There are always casualties in war, gentlemen
+- There are always casualties in war, gentlemen.
 
 361
 00:24:07,480 --> 00:24:11,519
-otherwise it wouldn't be war, just be a rather
+Otherwise, it wouldn't be war, just be a rather
 nasty argument with lots of pushing and shoving.
 
 362
