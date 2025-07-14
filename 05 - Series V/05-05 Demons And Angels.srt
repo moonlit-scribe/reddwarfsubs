@@ -531,11 +531,11 @@ Hey, let's check the food.
 116
 00:08:40,820 --> 00:08:44,973
 I tell you one thing, I've been to a parallel
-universe, seen time running backwards,
+universe, I've seen time running backwards,
 
 117
 00:08:45,140 --> 00:08:48,098
-played pool with planets
+I've played pool with planets
 and I've given birth to twins,
 
 118
@@ -649,7 +649,7 @@ our characters were removed.
 
 141
 00:10:28,220 --> 00:10:31,975
-He was. He had long hair and he didn't
+Well, he was. He had long hair and he didn't
 have a job. What more do you want?
 
 142
@@ -1444,7 +1444,7 @@ ship is in some way contagious.
 
 319
 00:24:18,100 --> 00:24:20,091
-- 55 seconds.
+- 35 seconds.
 - Try the back-up.
 
 320
