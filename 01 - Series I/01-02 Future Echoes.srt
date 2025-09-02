@@ -390,7 +390,7 @@ That idiotic cat.
 
 86
 00:06:31,120 --> 00:06:33,873
-but I like it like this. makes me feel like a man.
+but I like it like this. Makes me feel like a man!
 
 87
 00:06:35,080 --> 00:06:37,959
@@ -467,7 +467,7 @@ Shut up.
 103
 00:07:33,800 --> 00:07:37,350
 - What are you doing?
-- I'm going into stasis, I thought Holly told you?
+- I'm going into stasis. I thought Holly told you?
 
 104
 00:07:37,440 --> 00:07:39,158
@@ -481,7 +481,7 @@ while we went through light speed.
 106
 00:07:41,440 --> 00:07:44,558
 And then I thought, what the hell, why not stay
-till we get back to Earth.
+till we get back to Earth?
 
 107
 00:07:44,720 --> 00:07:46,996
@@ -585,11 +585,11 @@ you had two people coming for a job
 128
 00:08:52,480 --> 00:08:54,915
 and one of them was
-dead, which would you pick?
+dead, which one would you pick?
 
 129
 00:08:55,520 --> 00:08:58,558
-it depends which was better qualified.
+It depends which was better qualified.
 
 130
 00:08:58,720 --> 00:09:02,076
@@ -611,7 +611,7 @@ Big smegging deal. You livvies hate us deadies.
 134
 00:09:13,920 --> 00:09:17,675
 Rimmer, If I'm gonna go back to Earth,
-I'm going to have to go into stasis.
+I'm gonna have to go into stasis.
 
 135
 00:09:17,760 --> 00:09:21,355
@@ -656,7 +656,7 @@ made great advances and that while we've been away.
 
 144
 00:09:49,440 --> 00:09:53,195
-Oh, yes I expect they cured death
+Oh, yes, I expect they cured death
 the instant we left Earth.
 
 145
@@ -746,7 +746,7 @@ Well, go on, then.
 
 164
 00:11:22,360 --> 00:11:24,510
-(SMOOTH VOICE) Welcome to the Starlight Ballroom...
+(SMOOTH VOICE) Welcome to the Starlight Ballroom, hey!
 
 165
 00:11:24,600 --> 00:11:29,037
@@ -806,7 +806,7 @@ Gordon Bennet, that was a close one!
 178
 00:12:11,240 --> 00:12:14,949
 Holly, what's the problem? You're
-supposed to have an IQ of 6,000 aren't ya?
+supposed to have an IQ of 6,000, aren't ya?
 
 179
 00:12:15,200 --> 00:12:18,033
@@ -968,7 +968,7 @@ I'll just have to do without it.
 
 215
 00:14:25,520 --> 00:14:28,797
-- When I come out, you'll be dead.
+- By the time I come out, you'll be dead.
 - Two suits IS dead.
 
 216
@@ -1020,7 +1020,7 @@ I want to stay behind, I wanna be left on.
 
 226
 00:15:10,920 --> 00:15:13,389
-On your own, for the rest of your life?
+What, on your own, for the rest of your life?
 
 227
 00:15:13,480 --> 00:15:15,551
@@ -1363,7 +1363,7 @@ I did warn you to brace yourself.
 
 301
 00:19:28,840 --> 00:19:30,990
-You didn't...you didn't even pause.
+No, you didn't...you didn't even pause.
 
 302
 00:19:31,160 --> 00:19:33,913
@@ -1395,7 +1395,7 @@ We-ell, I wouldn't say it was super-fast.
 308
 00:19:52,640 --> 00:19:56,679
 Not if you count the thrashing around
-and agonised squealing.
+and the agonised squealing.
 
 309
 00:19:56,760 --> 00:20:01,197
@@ -1419,7 +1419,7 @@ I don't wanna know.
 313
 00:20:08,120 --> 00:20:11,590
 - 25. How old did I look?
-- Mid-twenties.
+- Mmmmmmm... Mid-twenties.
 
 314
 00:20:11,680 --> 00:20:15,719
@@ -1441,7 +1441,7 @@ You were wearing a hat, but it was definitely you.
 318
 00:20:23,960 --> 00:20:26,918
 Well, there you go. I won't wear
-a hat then it can't happen. Can it?
+a hat, then it can't happen, can it?
 
 319
 00:20:27,040 --> 00:20:30,078
@@ -1470,7 +1470,7 @@ it shall be going to be happening,
 
 324
 00:20:45,760 --> 00:20:49,594
-it will be was an event that could
+it will be, was an event that could,
 will have been taken place in the future.
 
 325
@@ -1501,7 +1501,7 @@ in a future echo, right?
 
 331
 00:21:09,640 --> 00:21:12,280
-- If I can stop him breaking it..
+- Now if I can stop him breaking it..
 - Can't be done.
 
 332
@@ -1619,8 +1619,8 @@ in the way it used to"!
 
 358
 00:22:43,360 --> 00:22:46,432
-Right. There's always some good
-in every situation.
+You're right. There's always 
+some good in every situation.
 
 359
 00:22:46,520 --> 00:22:51,515
@@ -1759,7 +1759,7 @@ Aaaaaaaaaah! One...
 
 389
 00:25:12,760 --> 00:25:15,752
-I did it! I'm not going to die.
+I did it! I'm not gonna die!
 
 390
 00:25:15,840 --> 00:25:19,390
@@ -1825,8 +1825,8 @@ I've got to tell you about Bexley.
 
 403
 00:26:13,560 --> 00:26:16,678
-- What about your first son?
-- Jim! After Jim Bexley Speed.
+- What were you gonna call your first son?
+- Jim. After Jim Bexley Speed.
 
 404
 00:26:16,840 --> 00:26:20,470
@@ -1951,7 +1951,7 @@ how you're supposed to get two sons,
 
 430
 00:27:45,400 --> 00:27:47,676
-But it's going to be a laugh finding out.
+But it's gonna be a laugh finding out.
 
 431
 00:27:49,080 --> 00:27:51,993
@@ -1964,7 +1964,7 @@ I'd like you to meet your two sons.
 433
 00:27:54,200 --> 00:27:58,512
 This is Jim and this is Bexley.
-Stop crying and say "cheese", boys.
+Stop crying and say "cheese", boys!
 
 434
 00:28:02,160 --> 00:28:06,597
