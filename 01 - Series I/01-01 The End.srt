@@ -347,7 +347,7 @@ clearly, therefore mutiny.
 78
 00:05:14,200 --> 00:05:16,669
 - Finished?
-- However, I'm not vindictive man,
+- However, I'm not a vindictive man,
 
 79
 00:05:16,760 --> 00:05:18,512
@@ -413,11 +413,11 @@ George was an excellent officer
 92
 00:05:59,680 --> 00:06:02,069
 and as good a friend as anyone
-could ever hope to have.
+could ever hope to have,
 
 93
 00:06:02,160 --> 00:06:05,391
-He'll be missed more deeply and
+and he'll be missed more deeply and
 more completely than he could ever know.
 
 94
@@ -449,8 +449,8 @@ There goes McIntyre.
 
 100
 00:06:31,440 --> 00:06:34,478
-#...so long! Goodbye! #
-Bye George.
+- #...so long! Goodbye! #
+- Bye George.
 
 101
 00:06:35,000 --> 00:06:39,392
@@ -1269,7 +1269,7 @@ the cat, we're gonna have a baby cat,
 
 278
 00:18:24,000 --> 00:18:26,879
-and we're going to buy a farm on Fiji,
+and we're gonna buy a farm on Fiji,
 
 279
 00:18:26,960 --> 00:18:29,520
@@ -1283,7 +1283,7 @@ not even you, and I do respect you.
 
 281
 00:18:34,240 --> 00:18:36,231
-- Sir!
+- ... Sir!
 - Oh, Lister,
 
 282
@@ -1552,11 +1552,11 @@ she was going to come with me to Fiji.
 338
 00:22:03,320 --> 00:22:06,073
 She was to wear a white dress
-and ride the horses.
+and ride the horses
 
 339
 00:22:06,160 --> 00:22:10,074
-I was going to take care of everything
+and I was going to take care of everything
 else. It was me plan. I planned it.
 
 340
@@ -1715,7 +1715,7 @@ Look, look, you're not dead, are ya?
 
 373
 00:23:53,920 --> 00:23:57,629
-I mean, you're dead! But not "dead" dead,
+I mean, you're dead, but you're not "dead" dead,
 'cause you're still here, aren't ya?
 
 374
@@ -2075,7 +2075,7 @@ No! No, it's not Cloister, it's me, it's Lister!
 
 453
 00:28:46,200 --> 00:28:48,555
-It's Lister the...stupid?!
+It's Lister the - Stupid?!
 
 454
 00:28:49,720 --> 00:28:54,112
