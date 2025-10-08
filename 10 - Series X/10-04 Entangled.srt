@@ -1091,7 +1091,7 @@ the exploder detonates, killing Mr Lister,
 247
 00:13:34,240 --> 00:13:38,400
 then the ship will automatically shut down
-your hologram projection unit.
+your hologrammatic projection unit.
 
 248
 00:13:38,520 --> 00:13:41,200
