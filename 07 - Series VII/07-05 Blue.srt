@@ -290,7 +290,7 @@ glimmery thing behind it.
 
 63
 00:04:31,720 --> 00:04:34,360
-It's a phasing comet, velocity 25,000 mps.
+It's a phasing comet, velocity 25,000 MPS.
 
 64
 00:04:34,560 --> 00:04:36,676
@@ -342,7 +342,7 @@ We've been through a few things.
 
 74
 00:05:11,280 --> 00:05:16,756
-No, the other one! Look, we can make it, OK?
+- No, the other one! Look, we can make it, OK?
 - Do you know what a comet is made of?!
 
 75
@@ -1151,7 +1151,7 @@ Yaaaaarrrggh!
 
 249
 00:16:39,800 --> 00:16:41,598
-No! Oh my God! Get off!
+No! Oh my God! Get off! Get off!
 
 250
 00:16:45,400 --> 00:16:50,190
@@ -1164,7 +1164,7 @@ Thank God for that! Just a dream.
 
 252
 00:17:00,760 --> 00:17:04,674
-..and another thing she does is,
+...and another thing she does is,
 she keeps her pants in her sock drawer.
 
 253
@@ -1412,7 +1412,7 @@ and she waltzes in here and cures you!
 305
 00:20:47,280 --> 00:20:50,750
 - She was only trying to help.
-- It's not the help I mind, sir
+- It's not the help I mind, sir.
 
 306
 00:20:50,920 --> 00:20:53,150
