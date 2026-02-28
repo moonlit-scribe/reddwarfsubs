@@ -2006,7 +2006,7 @@ You don't want to do this.
 
 459
 00:23:35,240 --> 00:23:37,320
-KRYTEN: Sir, I realize
+KRYTEN: Sir, I realise
 how foolish I've been.
 
 460
@@ -2020,7 +2020,7 @@ and frankly, downright untidy,
 
 462
 00:23:46,680 --> 00:23:51,040
-but now I realize I want to help you
+but now I realise I want to help you
 because I care.
 
 463

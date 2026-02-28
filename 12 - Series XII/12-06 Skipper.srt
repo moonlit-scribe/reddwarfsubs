@@ -117,7 +117,7 @@ quite bright, is lazy, slovenly,
 27
 00:01:58,920 --> 00:02:01,640
 rebellious, unreliable,
-rude and disorganized.
+rude and disorganised.
 
 28
 00:02:01,920 --> 00:02:04,160
@@ -1407,7 +1407,7 @@ I forgot to turn the paper over.
 
 318
 00:15:43,000 --> 00:15:44,840
-I didn't realize there were two sides.
+I didn't realise there were two sides.
 
 319
 00:15:48,760 --> 00:15:50,880
