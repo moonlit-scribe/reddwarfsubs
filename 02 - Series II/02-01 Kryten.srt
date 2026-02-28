@@ -104,7 +104,7 @@ Lister, don't tell me! I could have got that!
 
 25
 00:03:04,280 --> 00:03:07,900
-Bonvolu direkti min al kvinstela hotelo?
+Bonvolu direkti min al kvin-stela hotelo?
 
 26
 00:03:08,000 --> 00:03:09,991
@@ -134,7 +134,7 @@ Lister, will you please shut up?
 
 32
 00:03:26,320 --> 00:03:32,296
-La manĝo estis bonega! Plej korajn gratuloju al la kuiristo?
+La manĝo estis bonega! Plej korajn gratulojn al la kuiristo?
 
 33
 00:03:32,320 --> 00:03:35,392
@@ -270,7 +270,7 @@ Holly, as the Esperantinos would say...
 62
 00:05:08,040 --> 00:05:14,256
 Bonvolu alsendi la pordiston,
-lausajne estas rano en meo bideo
+laŭŝajne estas rano en meo bideo
 
 63
 00:05:14,280 --> 00:05:16,954
