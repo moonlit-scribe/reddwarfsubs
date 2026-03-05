@@ -1329,7 +1329,7 @@ Would you like to purchase Steve, Dave?
 
 303
 00:16:26,960 --> 00:16:29,040
-He's just three hundred dollar-pounds?
+He's just three hundred dollarpounds?
 
 304
 00:16:29,760 --> 00:16:31,760
@@ -1600,7 +1600,7 @@ Water. I need a glass of water.
 
 365
 00:19:22,240 --> 00:19:24,640
-That will be 40 dollar-pounds, Dave.
+That will be 40 dollarpounds, Dave.
 
 366
 00:19:24,920 --> 00:19:25,920
@@ -1613,7 +1613,7 @@ For the glass.
 368
 00:19:27,600 --> 00:19:30,480
 The water is a further
-400 dollar-pounds.
+400 dollarpounds.
 
 369
 00:19:31,480 --> 00:19:33,680
@@ -1655,7 +1655,7 @@ on fire extinguishers.
 377
 00:19:57,120 --> 00:19:59,920
 They're currently
-just 600 dollar-pounds.
+just 600 dollarpounds.
 
 378
 00:20:00,000 --> 00:20:02,960
