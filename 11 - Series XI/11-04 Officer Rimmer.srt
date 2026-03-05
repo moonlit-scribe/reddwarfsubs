@@ -951,7 +951,7 @@ Bon voyage.
 210
 00:12:43,080 --> 00:12:47,520
 This corridor's got the best
-of everything, air con, music.
+of everything, air-con, music.
 
 211
 00:12:49,040 --> 00:12:52,000
