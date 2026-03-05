@@ -984,7 +984,7 @@ ident computer, sir.
 210
 00:14:44,305 --> 00:14:48,960
 Rogue simulants looted the pod from a colonisation
-seeding ship constructed in the 25th Century
+seeding ship constructed in the 25th century
 
 211
 00:14:49,120 --> 00:14:54,480

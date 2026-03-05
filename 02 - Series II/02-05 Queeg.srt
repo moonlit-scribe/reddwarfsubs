@@ -254,7 +254,7 @@ a meteor is about to hit the ship."
 57
 00:04:22,381 --> 00:04:25,533
 - He's computer-senile. That's what's wrong with him.
-- ls there any damage?
+- Is there any damage?
 
 58
 00:04:25,621 --> 00:04:28,534
@@ -1054,7 +1054,7 @@ What about my naps?
 231
 00:16:44,505 --> 00:16:47,972
 I'm a cat, I need to nap.
-If don't nap 9 or 10 times a day.
+If I don't nap 9 or 10 times a day.
 
 232
 00:16:47,996 --> 00:16:51,499
@@ -1184,7 +1184,7 @@ It's just not important.
 
 259
 00:18:22,962 --> 00:18:26,176
-Wel, it is to me. I've been impugned.
+Well, it is to me. I've been impugned.
 I want to clear my name.
 
 260
