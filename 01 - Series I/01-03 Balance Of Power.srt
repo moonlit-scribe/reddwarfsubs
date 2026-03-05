@@ -1199,7 +1199,7 @@ Mmmm!
 
 267
 00:16:17,000 --> 00:16:19,196
-Today's fish is trout a la créme.
+Today's fish is trout à la créme.
 
 268
 00:16:19,920 --> 00:16:21,831
@@ -1208,13 +1208,13 @@ Today's fish is trout a la créme.
 
 269
 00:16:22,000 --> 00:16:25,152
-Today's fish is trout a la créme.
+Today's fish is trout à la créme.
 Enjoy your meal.
 
 270
 00:16:25,240 --> 00:16:27,834
 - Fish,
-Today's fish is trout a la créme.
+Today's fish is trout à la créme.
 
 271
 00:16:27,920 --> 00:16:30,036
@@ -1223,13 +1223,13 @@ Today's fish is trout a la créme.
 
 272
 00:16:30,120 --> 00:16:33,397
-Today's fish is trout a la créme.
+Today's fish is trout à la créme.
 Enjoy your meal.
 
 273
 00:16:33,480 --> 00:16:36,838
 - Fish.
-Today's fish is trout a la créme.
+Today's fish is trout à la créme.
 
 274
 00:16:36,862 --> 00:16:37,896
@@ -1238,7 +1238,7 @@ Enjoy your meal.
 275
 00:16:37,920 --> 00:16:40,912
 - Fish.
-Today's fish is trout a la créme.
+Today's fish is trout à la créme.
 
 276
 00:16:41,000 --> 00:16:43,560
