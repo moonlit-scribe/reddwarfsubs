@@ -1737,7 +1737,7 @@ No, we can't go now, Hol! She could be the father of my child!
 
 381
 00:25:20,301 --> 00:25:23,976
-- If we don't go back now, we won't be abel to get back at all.
+- If we don't go back now, we won't be able to get back at all.
 - Listen...
 
 382

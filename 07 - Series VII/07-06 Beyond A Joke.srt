@@ -718,7 +718,7 @@ Hachachachach! Achachach!
 
 155
 00:12:07,280 --> 00:12:09,635
-- You can't speak Gelf.
+- You can't speak GELF.
 - Neither can the Sim!
 
 156
