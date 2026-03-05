@@ -696,7 +696,7 @@ I got it!
 
 152
 00:14:30,160 --> 00:14:31,992
-11 is Xl in Roman numerals.
+11 is XI in Roman numerals.
 
 153
 00:14:32,160 --> 00:14:35,118
