@@ -89,7 +89,7 @@ Your vocabulary unit's not working either.
 20
 00:02:08,023 --> 00:02:13,066
 Yeth, I know. Thith altho hath been reported to
-the Thkutterth.Thorry for the inconvenienth.
+the Thkutterth. Thorry for the inconvenienth.
 
 21
 00:02:13,090 --> 00:02:16,959
@@ -107,7 +107,7 @@ the Thkutterth.Thorry for the inconvenienth.
 
 24
 00:02:26,880 --> 00:02:30,760
- How's life in hippie heaven, you pregnant
+How's life in hippie heaven, you pregnant
 baboon-bellied space beatnik?
 
 25
@@ -237,7 +237,7 @@ Understand? You stupid, jumped-up filofax.
 
 52
 00:04:10,960 --> 00:04:14,271
- As my father always said, shiny clean boots
+As my father always said, shiny clean boots
 
 53
 00:04:14,360 --> 00:04:17,671
@@ -1173,7 +1173,7 @@ What is going on?
 
 259
 00:16:56,520 --> 00:17:01,196
-Look, I'm a 10th generation Al hologramic computer.
+Look, I'm a 10th generation AI hologramic computer.
 I'm not your mum.
 
 260
