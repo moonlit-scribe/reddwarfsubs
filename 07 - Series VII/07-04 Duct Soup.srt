@@ -884,7 +884,7 @@ and it overloaded.
 192
 00:13:02,440 --> 00:13:05,956
 Give it a few seconds and the
-emergency back-up will kick in.
+emergency backup will kick in.
 
 193
 00:13:06,120 --> 00:13:08,509
@@ -901,13 +901,13 @@ I'll look into it immediately, sir!
 
 196
 00:13:16,640 --> 00:13:18,870
-There goes the back-up!
+There goes the backup!
 Now everything's dead.
 
 197
 00:13:19,080 --> 00:13:22,914
 - How come the doors closed?
-- When the back-up goes down, the doors always lock.
+- When the backup goes down, the doors always lock.
 
 198
 00:13:23,080 --> 00:13:25,196
@@ -934,7 +934,7 @@ No change there, then.
 
 203
 00:13:38,960 --> 00:13:41,429
-We've got to refire the back-up generator.
+We've got to refire the backup generator.
 
 204
 00:13:41,640 --> 00:13:43,548

@@ -1445,7 +1445,7 @@ ship is in some way contagious.
 319
 00:24:18,100 --> 00:24:20,091
 - 35 seconds.
-- Try the back-up.
+- Try the backup.
 
 320
 00:24:20,300 --> 00:24:22,530

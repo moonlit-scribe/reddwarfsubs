@@ -415,7 +415,7 @@ traverse an asteroid belt without deflectors."
 
 91
 00:08:20,600 --> 00:08:24,594
-Your hologram's on battery back-up.
+Your hologram's on battery backup.
 Oxygen for three months.
 
 92

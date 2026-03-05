@@ -481,7 +481,7 @@ He's not in for a single meal, if you ask me.
 
 107
 00:07:59,381 --> 00:08:02,772
-I'm Queeg 500, the Red Dwarf back-up computer.
+I'm Queeg 500, the Red Dwarf backup computer.
 
 108
 00:08:02,861 --> 00:08:05,535
@@ -490,7 +490,7 @@ the Jupiter Mining Corporation fleet
 
 109
 00:08:05,621 --> 00:08:09,535
-are obliged to carry a back-up computer
+are obliged to carry a backup computer
 to replace the primary computer
 
 110

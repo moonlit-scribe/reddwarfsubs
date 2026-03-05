@@ -1128,7 +1128,7 @@ Give me my arm back.
 
 251
 00:15:22,960 --> 00:15:25,429
-I'll have to refresh the graphics from a back-up.
+I'll have to refresh the graphics from a backup.
 
 252
 00:15:25,520 --> 00:15:28,034
