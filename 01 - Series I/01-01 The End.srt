@@ -65,7 +65,7 @@ Right! That's it!
 
 16
 00:01:51,120 --> 00:01:53,157
-"Lister, D., Third Technician.
+"Lister, D, Third Technician.
 
 17
 00:01:53,240 --> 00:01:56,995
