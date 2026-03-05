@@ -80,7 +80,7 @@ Don't panic! I've got another one.
 
 19
 00:02:08,920 --> 00:02:10,760
-You can't eat in the drive room.
+You can't eat in the Drive Room.
 
 20
 00:02:10,880 --> 00:02:13,200
@@ -673,7 +673,7 @@ Kryten, where's Lister? Have you seen him?
 
 152
 00:08:55,920 --> 00:08:58,120
-I think he may be in the drive room, sir.
+I think he may be in the Drive Room, sir.
 
 153
 00:08:58,240 --> 00:09:00,840
@@ -2207,7 +2207,7 @@ it's not going to be in here.
 503
 00:25:26,600 --> 00:25:31,120
 Oh, Protocol 121 -
-no exploding in the drive room, right(?)
+no exploding in the Drive Room, right(?)
 
 504
 00:25:31,240 --> 00:25:33,560
