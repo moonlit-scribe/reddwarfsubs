@@ -621,7 +621,7 @@ Which one was Rimmer?
 
 135
 00:09:36,741 --> 00:09:39,733
-You found the Captain's message right away?
+You found the captain's message right away?
 
 136
 00:09:41,501 --> 00:09:42,758
@@ -710,7 +710,7 @@ You what?!
 
 154
 00:10:45,021 --> 00:10:47,492
-It was all in the Captain's
+It was all in the captain's
 message. It was all in the microdot.
 
 155

@@ -141,7 +141,7 @@ How do we switch it off?
 31
 00:02:33,830 --> 00:02:37,112
 The only person who can override
-the auto-destruct is the Captain.
+the auto-destruct is the captain.
 
 32
 00:02:37,320 --> 00:02:39,357
@@ -160,7 +160,7 @@ I should have updated the system, really.
 35
 00:02:44,360 --> 00:02:47,830
 Is there any way that we can trick the machine
-into thinking that one of us is the Captain?
+into thinking that one of us is the captain?
 
 36
 00:02:48,040 --> 00:02:51,476
@@ -224,7 +224,7 @@ and put them on a storage disk.
 
 49
 00:03:38,320 --> 00:03:44,032
-Then we transfer the Captain's mind from
+Then we transfer the captain's mind from
 his hologram personality disk into your empty brain.
 
 50
@@ -243,13 +243,13 @@ Two minutes to self-destruct and counting.
 
 53
 00:03:54,560 --> 00:03:58,394
-- So, The Captain's mind will be in my body?
+- So, the captain's mind will be in my body?
 - Yes. Then, hopefully,
 
 54
 00:03:58,560 --> 00:04:02,876
 the self-destruct mechanism will think you're
-the Captain, and you can activate the override.
+the captain, and you can activate the override.
 
 55
 00:04:03,720 --> 00:04:07,509
@@ -262,7 +262,7 @@ One minute, 50 seconds and counting.
 
 57
 00:04:10,200 --> 00:04:13,591
-We couldn't find the Captain's disk, what
+We couldn't find the captain's disk, what
 about Brown? Brown was Executive Officer.
 
 58

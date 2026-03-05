@@ -77,7 +77,7 @@ Right! That's it!
 
 19
 00:02:01,480 --> 00:02:03,357
-When the Captain sees this, you're dead.
+When the captain sees this, you're dead.
 
 20
 00:02:03,520 --> 00:02:05,636
@@ -837,7 +837,7 @@ I've just seen the vid.
 
 182
 00:11:12,600 --> 00:11:15,558
-And I want to thank the Captain
+And I want to thank the captain
 for his beautiful eulogy.
 
 183
@@ -1101,7 +1101,7 @@ Turn over and start. Good luck.
 
 242
 00:16:39,880 --> 00:16:41,337
-Where's the Captain's office?
+Where's the captain's office?
 
 243
 00:16:41,361 --> 00:16:44,033
@@ -1111,7 +1111,7 @@ it says "Captain's Office".
 244
 00:16:44,120 --> 00:16:47,272
 - Where it's always said "Captain's Office"
-- So that's the Captain's office!
+- So that's the captain's office!
 
 245
 00:16:47,360 --> 00:16:49,829
@@ -1495,7 +1495,7 @@ doing in the Drive Room?
 
 326
 00:21:24,720 --> 00:21:28,395
-He was explaining to the Captain why
+He was explaining to the captain why
 he hadn't sealed the drive plate properly.
 
 327

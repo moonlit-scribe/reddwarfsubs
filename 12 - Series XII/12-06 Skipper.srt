@@ -99,7 +99,7 @@ crew appraisal files.
 23
 00:01:47,320 --> 00:01:50,360
 You shouldn't be reading those.
-They're for the Captain's eyes only.
+They're for the captain's eyes only.
 
 24
 00:01:50,560 --> 00:01:52,040
@@ -2063,7 +2063,7 @@ Uh, sorry sir, I forgot to mention,
 
 469
 00:23:21,280 --> 00:23:23,000
-the Captain wants to see you
+the captain wants to see you
 in his office.
 
 470
@@ -2127,7 +2127,7 @@ I'm always on duty, Rimmer.
 
 484
 00:24:16,000 --> 00:24:18,120
-When you're the Captain,
+When you're the captain,
 there's no down time.
 
 485
@@ -2285,7 +2285,7 @@ to a stripper, big deal.
 
 520
 00:25:53,680 --> 00:25:56,520
-And you're the Captain of a beaten up,
+And you're the captain of a beaten up,
 old mining ship,
 
 521

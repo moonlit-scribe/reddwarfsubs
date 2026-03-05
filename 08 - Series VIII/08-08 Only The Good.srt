@@ -738,7 +738,7 @@ in five minutes. We're on probation!
 
 165
 00:12:43,880 --> 00:12:46,190
-The Captain's gonna kill us if we don't.
+the captain's gonna kill us if we don't.
 
 166
 00:12:46,360 --> 00:12:51,150

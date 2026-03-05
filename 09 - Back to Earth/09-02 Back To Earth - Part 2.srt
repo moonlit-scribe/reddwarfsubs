@@ -991,7 +991,7 @@ all banana privileges.
 219
 00:14:08,600 --> 00:14:12,514
 No, sir, the crew's files are
-for the eyes of the Captain only.
+for the eyes of the captain only.
 
 220
 00:14:12,640 --> 00:14:15,393
