@@ -2622,7 +2622,7 @@ Then you'd be on file, and you're not.
 
 599
 00:27:39,840 --> 00:27:42,040
-Did you check the medibay waiting list?
+Did you check the medi-bay waiting list?
 Isn't there a file open?
 
 600

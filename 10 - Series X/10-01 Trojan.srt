@@ -1910,7 +1910,7 @@ Navigation officer, plot a course.
 425
 00:22:31,760 --> 00:22:35,880
 I'll teleport ahead to the space station
-and have medidroids on standby.
+and have medi-droids on standby.
 
 426
 00:22:36,000 --> 00:22:37,280

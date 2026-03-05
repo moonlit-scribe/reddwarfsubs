@@ -732,7 +732,7 @@ You get a stretcher.
 
 160
 00:10:41,480 --> 00:10:43,915
-Rimmer, let the medicomp take my temperature.
+Rimmer, let the medi-comp take my temperature.
 
 161
 00:10:44,000 --> 00:10:46,071
@@ -1731,7 +1731,7 @@ How can you make a spacesuit look like eveningwear?
 
 374
 00:24:12,200 --> 00:24:15,955
-- Who smashed up the medicomp?
+- Who smashed up the medi-comp?
 - He's stalling, King. Let's go.
 
 375

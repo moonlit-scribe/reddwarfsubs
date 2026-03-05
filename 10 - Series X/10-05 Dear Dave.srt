@@ -496,7 +496,7 @@ Very well, sir.
 113
 00:05:40,360 --> 00:05:42,280
 Perhaps you could get a note
-from the medicomputer
+from the medi-computer
 
 114
 00:05:42,400 --> 00:05:45,040
@@ -1007,7 +1007,7 @@ KRYTEN: I'm afraid it's not good, sir.
 
 229
 00:10:58,560 --> 00:11:01,520
-The medicomp said no? It's never liked me.
+The medi-comp said no? It's never liked me.
 
 230
 00:11:01,640 --> 00:11:05,400
@@ -1961,7 +1961,7 @@ Ohh!
 
 443
 00:20:09,000 --> 00:20:10,880
-How did it go with the medicomputer?
+How did it go with the medi-computer?
 
 444
 00:20:11,000 --> 00:20:12,280

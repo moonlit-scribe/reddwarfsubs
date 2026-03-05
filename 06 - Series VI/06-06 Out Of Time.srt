@@ -1258,7 +1258,7 @@ If I'm dead, how can I come on-board?
 
 268
 00:19:07,920 --> 00:19:10,992
-Kryten's turned off all the monitors, so I'm rigging it up to the mediscan.
+Kryten's turned off all the monitors, so I'm rigging it up to the medi-scan.
 
 269
 00:19:11,160 --> 00:19:13,834

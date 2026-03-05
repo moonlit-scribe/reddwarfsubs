@@ -5,7 +5,7 @@ Stop whatever you're doing, bud!
 2
 00:00:47,360 --> 00:00:49,280
 We're having a crazy golf
-championship in the medilab.
+championship in the medi-lab.
 
 3
 00:00:49,400 --> 00:00:50,920
@@ -1756,7 +1756,7 @@ and complications could set in.
 
 402
 00:19:59,800 --> 00:20:04,080
-We get him down the medilab, we fix him
+We get him down the medi-lab, we fix him
 up, we beam him back to AD 23 -
 
 403
@@ -1765,7 +1765,7 @@ what's the problem?
 
 404
 00:20:05,440 --> 00:20:06,800
-We can't trust the medicomputer, sir.
+We can't trust the medi-computer, sir.
 
 405
 00:20:06,920 --> 00:20:09,960
@@ -1801,7 +1801,7 @@ You what?!
 
 412
 00:20:24,080 --> 00:20:27,160
-Well, not trusting the medicomputer,
+Well, not trusting the medi-computer,
 sir, what choice do I have?
 
 413
