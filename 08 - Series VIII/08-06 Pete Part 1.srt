@@ -236,7 +236,7 @@ Here, guys. Way to go!
 54
 00:04:58,840 --> 00:05:01,263
 Yeah, the Skutter's managed to smuggle
-something out of the medi lab for us.
+something out of the medi-lab for us.
 
 55
 00:05:01,287 --> 00:05:03,710
@@ -322,7 +322,7 @@ I'm gonna have it crushed.
 73
 00:07:56,680 --> 00:08:01,675
 It was me, sir, when the doc's back was turned.
-I went to up to the medi lab for a sick note,
+I went to up to the medi-lab for a sick note,
 
 74
 00:08:01,880 --> 00:08:06,238
@@ -1070,7 +1070,7 @@ Thank you, sir. Thank you.
 
 240
 00:21:27,000 --> 00:21:30,789
-You haven't been down to the medi bay
+You haven't been down to the medi-bay
 to get this virus off, have you?
 
 241
