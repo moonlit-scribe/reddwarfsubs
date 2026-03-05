@@ -125,7 +125,7 @@ I say "check". Where's the fun?
 
 29
 00:02:34,640 --> 00:02:38,918
-All right. we'll put you in command
+All right. We'll put you in command
 for a few seconds, Cap-i-tain.
 
 30
@@ -836,7 +836,7 @@ God, she'd a chip on her shoulder, Lister.
 
 187
 00:11:50,240 --> 00:11:52,959
-- Yeah, Well, I want to go on a date with her.
+- Yeah, well, I want to go on a date with her.
 - Tough. She's dead.
 
 188
@@ -857,7 +857,7 @@ God, she'd a chip on her shoulder, Lister.
 191
 00:12:00,000 --> 00:12:02,196
 - Look, I know you're worried I won't turn you back on...
-- No
+- No.
 
 192
 00:12:02,280 --> 00:12:05,238
@@ -1182,7 +1182,7 @@ I haven't got time for this. Where's Lister?
 
 263
 00:15:59,920 --> 00:16:02,753
-That information is security protected,
+That information is security protected.
 
 264
 00:16:03,800 --> 00:16:05,837
@@ -1199,7 +1199,7 @@ Mmmm!
 
 267
 00:16:17,000 --> 00:16:19,196
-Today's fish is trout à la créme.
+Today's fish is trout à la crème.
 
 268
 00:16:19,920 --> 00:16:21,831
@@ -1208,13 +1208,13 @@ Today's fish is trout à la créme.
 
 269
 00:16:22,000 --> 00:16:25,152
-Today's fish is trout à la créme.
+Today's fish is trout à la crème.
 Enjoy your meal.
 
 270
 00:16:25,240 --> 00:16:27,834
 - Fish,
-Today's fish is trout à la créme.
+Today's fish is trout à la crème.
 
 271
 00:16:27,920 --> 00:16:30,036
@@ -1223,13 +1223,13 @@ Today's fish is trout à la créme.
 
 272
 00:16:30,120 --> 00:16:33,397
-Today's fish is trout à la créme.
+Today's fish is trout à la crème.
 Enjoy your meal.
 
 273
 00:16:33,480 --> 00:16:36,838
 - Fish.
-Today's fish is trout à la créme.
+Today's fish is trout à la crème.
 
 274
 00:16:36,862 --> 00:16:37,896
@@ -1238,7 +1238,7 @@ Enjoy your meal.
 275
 00:16:37,920 --> 00:16:40,912
 - Fish.
-Today's fish is trout à la créme.
+Today's fish is trout à la crème.
 
 276
 00:16:41,000 --> 00:16:43,560
@@ -1357,7 +1357,7 @@ Oooooh!
 300
 00:18:10,440 --> 00:18:14,717
 - Ah!
-- There, done it. just in time.
+- There, done it. Just in time.
 
 301
 00:18:14,880 --> 00:18:18,874
