@@ -1549,7 +1549,7 @@ According to this wall console,
 
 351
 00:17:21,720 --> 00:17:23,640
-a cadmium two radiation leak,
+a cadmium-2 radiation leak,
 
 352
 00:17:24,080 --> 00:17:25,720

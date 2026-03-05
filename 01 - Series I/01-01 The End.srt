@@ -1454,7 +1454,7 @@ inefficiently repaired.
 317
 00:20:54,600 --> 00:20:58,753
 It blew, and the entire crew was
-subjected to a lethal dose of Cadmium-2
+subjected to a lethal dose of cadmium-2
 
 318
 00:20:58,840 --> 00:21:00,478
