@@ -947,7 +947,7 @@ Or, as you English, say,
 
 219
 00:12:16,120 --> 00:12:17,920
-'Would you like a nice cup of cha?"
+"Would you like a nice cup of cha?"
 
 220
 00:12:19,000 --> 00:12:20,160
@@ -1379,7 +1379,7 @@ in Lederhosen playing,
 
 318
 00:17:00,280 --> 00:17:01,640
-"Tomorrow belongs to me.'
+"Tomorrow belongs to me."
 
 319
 00:17:02,880 --> 00:17:05,320
@@ -1615,7 +1615,7 @@ Ah. (CLICKING)
 
 372
 00:19:08,320 --> 00:19:09,520
-"A Hitler.'
+"A Hitler."
 
 373
 00:19:10,080 --> 00:19:11,640
@@ -1939,7 +1939,7 @@ left this behind.
 
 447
 00:22:57,760 --> 00:22:59,000
-"A Hitler.'
+"A Hitler."
 
 448
 00:23:00,240 --> 00:23:01,480
