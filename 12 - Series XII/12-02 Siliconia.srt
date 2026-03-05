@@ -186,7 +186,7 @@ is casting a shadow.
 43
 00:02:54,520 --> 00:02:57,360
 I just wanted to let you know about
-Mr. Lister's guitar, sir.
+Mr Lister's guitar, sir.
 
 44
 00:02:58,240 --> 00:02:59,240
@@ -221,7 +221,7 @@ and my 4:00 to 5:00, just tell me, okay?
 
 51
 00:03:13,240 --> 00:03:15,680
-Mr. Lister's guitar, sir,
+Mr Lister's guitar, sir,
 do you remember it?
 
 52
@@ -282,7 +282,7 @@ You found it?
 64
 00:03:47,000 --> 00:03:49,120
 I can just picture
-Mr. Lister's face, sir.
+Mr Lister's face, sir.
 
 65
 00:03:49,320 --> 00:03:51,680
@@ -352,7 +352,7 @@ Understood, sir.
 
 80
 00:04:28,720 --> 00:04:29,920
-(BEEP) Mr. Lister, sir,
+(BEEP) Mr Lister, sir,
 
 81
 00:04:30,200 --> 00:04:31,320
@@ -1216,7 +1216,7 @@ okay, sometimes, when I'd be vaccing,
 
 278
 00:14:55,440 --> 00:14:59,440
-Mr. Lister would pick up his feet
+Mr Lister would pick up his feet
 and I'd have to vac all around them.
 
 279
@@ -1879,7 +1879,7 @@ I can feel it fading away.
 
 428
 00:21:51,520 --> 00:21:54,360
-Hang on, Mr. Lister. Try and hang on.
+Hang on, Mr Lister. Try and hang on.
 
 429
 00:22:02,360 --> 00:22:04,920
@@ -1948,7 +1948,7 @@ Prepare your cleaning instruments.
 
 445
 00:22:58,640 --> 00:22:59,840
-Oh, Mr. Lister, sir,
+Oh, Mr Lister, sir,
 
 446
 00:23:00,520 --> 00:23:01,920
@@ -1960,7 +1960,7 @@ what on earth are we going to do?
 
 448
 00:23:03,880 --> 00:23:05,040
-Mr. Lister?
+Mr Lister?
 
 449
 00:23:05,120 --> 00:23:06,720
@@ -2136,7 +2136,7 @@ You sure you won't come with us, Kryten?
 
 490
 00:25:44,480 --> 00:25:47,720
-Oh, my place is here with Mr. Lister
+Oh, my place is here with Mr Lister
 and his large collection of
 
 491

@@ -1399,7 +1399,7 @@ your body, so I can mail it to your head.
 
 305
 00:22:31,661 --> 00:22:36,417
-It's all right, Mr. David, sir. He's bluffing.
+It's all right, Mr David, sir. He's bluffing.
 He's programmed not to harm humans.
 
 306

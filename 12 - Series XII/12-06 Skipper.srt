@@ -235,7 +235,7 @@ Quite bright.
 
 53
 00:03:21,760 --> 00:03:25,000
-I'm trying to get Mr. Lister
+I'm trying to get Mr Lister
 to adopt a healthier lifestyle.
 
 54
@@ -563,7 +563,7 @@ until we get to the bottom of this.
 
 127
 00:06:39,720 --> 00:06:41,200
-Can Mr. Lister and Mr. Cat
+Can Mr Lister and Mr Cat
 
 128
 00:06:41,280 --> 00:06:43,040
@@ -1162,7 +1162,7 @@ What about you Kryten?
 262
 00:12:52,320 --> 00:12:54,480
 I need to stay here
-and look after Mr. Lister.
+and look after Mr Lister.
 
 263
 00:12:54,960 --> 00:12:58,800
@@ -1724,7 +1724,7 @@ Evening, chaps.
 
 390
 00:19:16,080 --> 00:19:17,600
-We have a new Mr. Rimmer, sir,
+We have a new Mr Rimmer, sir,
 
 391
 00:19:17,920 --> 00:19:20,280
@@ -1797,12 +1797,12 @@ I'm really loving what I see here.
 
 406
 00:20:05,840 --> 00:20:06,840
-Mr. Rimmer, sir,
+Mr Rimmer, sir,
 
 407
 00:20:07,000 --> 00:20:10,600
 will you be joining myself,
-Mr. Lister and Mr. Rat for dinner?
+Mr Lister and Mr Rat for dinner?
 
 408
 00:20:10,960 --> 00:20:11,960
@@ -1810,7 +1810,7 @@ Of course I...
 
 409
 00:20:13,600 --> 00:20:14,600
-Mr. who?
+Mr who?
 
 410
 00:20:27,640 --> 00:20:29,640
@@ -2072,7 +2072,7 @@ I'm passing by your quarters,
 
 471
 00:23:24,520 --> 00:23:26,720
-so, I'll let Mrs. Rimmer know
+so, I'll let Mrs Rimmer know
 you'll be a couple of minutes late.
 
 472

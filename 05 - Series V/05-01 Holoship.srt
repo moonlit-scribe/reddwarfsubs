@@ -271,7 +271,7 @@ some kind of energy emission.
 59
 00:04:11,420 --> 00:04:13,855
 They've taken Mr Rimmer!
-Sir, they've taken Mr. Rimmer!
+Sir, they've taken Mr Rimmer!
 
 60
 00:04:14,060 --> 00:04:18,054
@@ -427,7 +427,7 @@ But what about love? Surely people still fall in love?
 
 93
 00:06:21,740 --> 00:06:23,970
-We have developed beyond love, Mr. Rimmer.
+We have developed beyond love, Mr Rimmer.
 
 94
 00:06:24,140 --> 00:06:26,416
