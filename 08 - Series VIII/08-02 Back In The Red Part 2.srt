@@ -4,7 +4,7 @@
 
 2
 00:00:55,600 --> 00:00:59,355
-This is the daily report of Captain F. Hollister of the mining ship Red Dwarf.
+This is the daily report of Captain F Hollister of the mining ship Red Dwarf.
 
 3
 00:00:59,520 --> 00:01:03,514
