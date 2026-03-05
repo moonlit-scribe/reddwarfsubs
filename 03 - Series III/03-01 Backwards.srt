@@ -709,7 +709,7 @@ Where are we?
 157
 00:12:24,040 --> 00:12:28,159
 I don't believe this.
-According to the NaviComp, this is Earth.
+According to the navicomp, this is Earth.
 
 158
 00:12:28,920 --> 00:12:31,799

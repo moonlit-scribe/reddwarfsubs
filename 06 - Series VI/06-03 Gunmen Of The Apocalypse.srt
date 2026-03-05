@@ -526,7 +526,7 @@ I have no alternative.
 115
 00:09:08,760 --> 00:09:11,878
 - How long have we been out?
-- According to the NaviComp, three weeks!
+- According to the navicomp, three weeks!
 
 116
 00:09:12,080 --> 00:09:16,358
@@ -625,7 +625,7 @@ Transmit the Armageddon Virus.
 136
 00:10:32,800 --> 00:10:35,519
 - What is it?
-- The Navicomp. Something's wrong!
+- The navicomp. Something's wrong!
 
 137
 00:10:36,920 --> 00:10:39,594
@@ -638,7 +638,7 @@ Navicomp's been infected with a virus.
 
 139
 00:10:45,680 --> 00:10:48,479
-The Navicomp's frozen us out.
+The navicomp's frozen us out.
 We're locked on this course!
 
 140

@@ -1568,7 +1568,7 @@ and ended up on this moon somehow!
 357
 00:18:39,480 --> 00:18:43,920
 Let's punch these numbers into the
-Navicomp and see where it takes us.
+navicomp and see where it takes us.
 
 358
 00:18:45,000 --> 00:18:46,760

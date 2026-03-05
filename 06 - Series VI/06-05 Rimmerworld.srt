@@ -5,7 +5,7 @@
 2
 00:00:44,920 --> 00:00:49,840
 Well, that's finished the test, sir.
-We just have to while the Navicomp processes the results.
+We just have to while the navicomp processes the results.
 
 3
 00:00:50,000 --> 00:00:54,160
