@@ -279,7 +279,7 @@ and I see that you've filed
 64
 00:04:33,160 --> 00:04:38,553
 - Yes, sir!
-- That's 123 counts of "insulting a superior technician"
+- That's 123 counts of "insulting a superior technician",
 
 65
 00:04:38,640 --> 00:04:41,519
@@ -1110,8 +1110,8 @@ it says "Captain's Office".
 
 244
 00:16:44,120 --> 00:16:47,272
-- Where it's always said "Captain's Office"
-- So that's the captain's office!
+- Where it's always said "Captain's Office".
+- So, that's the captain's office!
 
 245
 00:16:47,360 --> 00:16:49,829

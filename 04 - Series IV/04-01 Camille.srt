@@ -976,7 +976,7 @@ No one's ever said I was charming before.
 
 212
 00:12:46,520 --> 00:12:51,754
-They've said, "Rimmer, you're a total git,"
+They've said, "Rimmer, you're a total git",
 but never charming, no.
 
 213
