@@ -60,7 +60,7 @@ Steak? What is it, pork?
 
 14
 00:01:17,560 --> 00:01:20,280
-I found a deep-freeze down on B Deck,
+I found a deep-freeze down on B deck,
 next to Kryten's quarters.
 
 15
@@ -1868,7 +1868,7 @@ in the freezer.
 
 427
 00:21:01,240 --> 00:21:03,280
-Next to my quarters. On B Deck.
+Next to my quarters. On B deck.
 
 428
 00:21:14,080 --> 00:21:15,480

@@ -1106,7 +1106,7 @@ I'll go and prepare your quarters.
 
 240
 00:14:47,400 --> 00:14:50,631
-The penthouse suite on A Deck should suffice.
+The penthouse suite on A deck should suffice.
 
 241
 00:14:54,080 --> 00:14:58,153
@@ -1209,7 +1209,7 @@ Ah, Listy. I see you've met our ravishing guest.
 262
 00:16:10,080 --> 00:16:13,550
 - Camille, have you seen Kryten?
-- He went up to the penthouse suite on A Deck.
+- He went up to the penthouse suite on A deck.
 
 263
 00:16:13,760 --> 00:16:15,751
@@ -1280,7 +1280,7 @@ It's uncanny how much we've got in common.
 
 277
 00:17:03,680 --> 00:17:07,071
-Where is he, A Deck? Ciao for now.
+Where is he, A deck? Ciao for now.
 
 278
 00:17:10,560 --> 00:17:12,915
@@ -1560,7 +1560,7 @@ you would join me for dinner tonight.
 337
 00:21:09,360 --> 00:21:14,196
 - You mean that?
-- Parrot's Bar on G-Deck. I'll meet you there at eight.
+- Parrot's Bar on G deck. I'll meet you there at eight.
 
 338
 00:21:15,320 --> 00:21:17,516

@@ -33,7 +33,7 @@ I'm seconds away, sir.
 
 9
 00:01:02,680 --> 00:01:04,880
-Kryten. I'm on B Deck,
+Kryten. I'm on B deck,
 and it doesn't appear
 
 10
@@ -268,7 +268,7 @@ Sir, you don't understand.
 
 61
 00:03:39,640 --> 00:03:43,440
-I fixed the tracker on D Deck,
+I fixed the tracker on D deck,
 and shine my head with wood polish
 
 62
@@ -331,7 +331,7 @@ as I'll most likely be unavailable
 
 75
 00:04:15,480 --> 00:04:17,040
-to mop B Deck until tomorrow.
+to mop B deck until tomorrow.
 
 76
 00:04:17,520 --> 00:04:19,680
@@ -2205,7 +2205,7 @@ Oh, delicious, thank you, sir.
 
 506
 00:26:19,200 --> 00:26:21,360
-- B Deck, the air-lock.
+- B deck, the air-lock.
 - Which one?
 
 507

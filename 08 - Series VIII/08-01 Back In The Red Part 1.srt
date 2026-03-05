@@ -154,7 +154,7 @@ The wallet that time forgot!
 36
 00:03:23,840 --> 00:03:27,231
 Not that there was any point.
-The barman on B Deck wouldn't serve me.
+The barman on B deck wouldn't serve me.
 
 37
 00:03:27,400 --> 00:03:30,392
@@ -989,7 +989,7 @@ Who the hell told you that?
 
 220
 00:16:40,200 --> 00:16:42,191
-The coffee machine on G Deck.
+The coffee machine on G deck.
 
 221
 00:16:42,360 --> 00:16:46,831
