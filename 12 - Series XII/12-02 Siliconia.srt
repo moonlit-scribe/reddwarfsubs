@@ -2054,7 +2054,7 @@ Oh, It's a fix!
 
 470
 00:24:28,560 --> 00:24:29,840
-WIND: To an air-lock.
+WIND: To an airlock.
 
 471
 00:24:30,120 --> 00:24:32,240
@@ -2205,7 +2205,7 @@ Oh, delicious, thank you, sir.
 
 506
 00:26:19,200 --> 00:26:21,360
-- B deck, the air-lock.
+- B deck, the airlock.
 - Which one?
 
 507
