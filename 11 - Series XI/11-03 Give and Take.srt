@@ -584,7 +584,7 @@ How can I be of service?
 134
 00:07:02,720 --> 00:07:08,000
 I am Standing Acting Senior
-Commanding Officer Arnold J. Rimmer,
+Commanding Officer Arnold J Rimmer,
 
 135
 00:07:08,080 --> 00:07:10,120
@@ -623,7 +623,7 @@ You didn't have to big me up.
 
 143
 00:07:28,280 --> 00:07:29,520
-DROID: Arnold J. Rimmer?
+DROID: Arnold J Rimmer?
 
 144
 00:07:29,960 --> 00:07:31,360
@@ -674,7 +674,7 @@ Follow me.
 155
 00:08:02,040 --> 00:08:06,120
 Well, according to these notes,
-the guy's name was Romero G. Gonzalez,
+the guy's name was Romero G Gonzalez,
 
 156
 00:08:06,200 --> 00:08:08,400

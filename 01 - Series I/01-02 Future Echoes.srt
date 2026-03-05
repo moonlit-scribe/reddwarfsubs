@@ -1220,11 +1220,11 @@ Difficult, I know.
 
 270
 00:17:32,000 --> 00:17:33,991
-We're travelling faster than L.S. Right?
+We're travelling faster than LS. Right?
 
 271
 00:17:34,080 --> 00:17:36,071
-- What's LS.?
+- What's LS?
 - Light Speed.
 
 272
