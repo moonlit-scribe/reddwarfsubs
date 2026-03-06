@@ -650,7 +650,7 @@ Emergency. There's an emergency going on.
 143
 00:09:56,920 --> 00:10:00,276
 Will Arnold Rimmer please hurry
-to White Corridor 159...7
+to White Corridor 159...?
 
 144
 00:10:00,360 --> 00:10:02,237
