@@ -805,7 +805,7 @@ exchanging supplies and information.
 
 175
 00:12:37,800 --> 00:12:42,192
-We could update your hydrogen RAM-drive
+We could update your hydrogen RAM drive
 to a tachyon-powered engine core.
 
 176
@@ -1161,7 +1161,7 @@ to compare you with her Mr Lister.
 252
 00:18:56,040 --> 00:18:59,271
 Apparently, he's really quite something.
-Initially, a soft-light hologram,
+Initially, a soft light hologram,
 
 253
 00:18:59,440 --> 00:19:03,798

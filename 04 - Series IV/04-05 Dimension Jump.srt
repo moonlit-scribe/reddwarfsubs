@@ -1322,7 +1322,7 @@ Sorry, old chum, no option.
 285
 00:19:26,640 --> 00:19:30,315
 Arnie, Kryten's taken a bit of a whack. I want you
-to reroute his circuitry and bring him back on-line.
+to reroute his circuitry and bring him back online.
 
 286
 00:19:30,520 --> 00:19:33,638

@@ -791,7 +791,7 @@ of a neutron tank in Dimension 165.
 
 175
 00:14:52,040 --> 00:14:56,238
-- I'm a hard-light hologram just like you.
+- I'm a hard light hologram just like you.
 - Ace is dead?
 
 176

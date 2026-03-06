@@ -1701,7 +1701,7 @@ OK, big fella. It's dangling time.
 
 370
 00:24:49,421 --> 00:24:54,495
-- Welcome back on-line.
+- Welcome back online.
 - What are you doing?
 
 371

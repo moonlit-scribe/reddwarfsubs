@@ -1606,7 +1606,7 @@ Well, I've got an idea.
 
 369
 00:17:57,040 --> 00:17:58,640
-How's your lie-mode these days?
+How's your lie mode these days?
 
 370
 00:17:58,880 --> 00:18:01,080
