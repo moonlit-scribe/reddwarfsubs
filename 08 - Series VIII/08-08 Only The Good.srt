@@ -63,7 +63,7 @@ Let me tuck you in, sir.
 
 16
 00:02:16,480 --> 00:02:21,839
-What's this 'Space Corps Free Pardon'
+What's this "Space Corps Free Pardon"
 exonerating you of all crimes doing in here?
 
 17
@@ -621,7 +621,7 @@ that'd useful, I'll be back.
 140
 00:10:57,880 --> 00:11:00,759
 - See you in about 25 years, then?
-- Huhuhuh.. (!)
+- Huhuhuh... (!)
 
 141
 00:11:03,640 --> 00:11:08,589
@@ -738,7 +738,7 @@ in five minutes. We're on probation!
 
 165
 00:12:43,880 --> 00:12:46,190
-The Captain's gonna kill us if we don't.
+the captain's gonna kill us if we don't.
 
 166
 00:12:46,360 --> 00:12:51,150
@@ -875,7 +875,7 @@ Told him not to go back for seconds, sir.
 
 197
 00:15:55,640 --> 00:15:59,076
-Call the medi bay. We need two stomach pumps.
+Call the medi-bay. We need two stomach pumps.
 
 198
 00:15:59,840 --> 00:16:01,831
@@ -1199,7 +1199,7 @@ Thank you, um...
 
 270
 00:22:55,120 --> 00:22:57,157
-...Private Nobody.
+... Private Nobody.
 
 271
 00:22:57,320 --> 00:23:00,119
@@ -1305,7 +1305,7 @@ No, it was nearer Antwerp. I Belgian kissed you.
 
 295
 00:24:50,600 --> 00:24:52,591
-l...
+I...
 
 296
 00:24:52,760 --> 00:24:54,751

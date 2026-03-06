@@ -4,15 +4,15 @@
 
 2
 00:00:41,160 --> 00:00:43,520
-Oh, Inga.
+Oh, Inge.
 
 3
 00:00:44,760 --> 00:00:46,440
-Inga.
+Inge.
 
 4
 00:00:47,080 --> 00:00:48,520
-Inga.
+Inge.
 
 5
 00:00:49,360 --> 00:00:50,680
@@ -21,7 +21,7 @@ Bud, wake up.
 6
 00:00:51,640 --> 00:00:54,000
 - Huh?
-- Who's Inga?
+- Who's Inge?
 
 7
 00:00:54,080 --> 00:00:58,320
@@ -285,7 +285,7 @@ in this case, save the Nautilus.
 
 64
 00:04:43,800 --> 00:04:46,920
-Okay, okay,
+OK, OK,
 we've got pictures coming through.
 
 65
@@ -305,7 +305,7 @@ something wrong with our video feed.
 68
 00:04:55,560 --> 00:04:59,360
 From our end you look like
-a hideous 19th-century circus freak.
+a hideous 19th century circus freak.
 
 69
 00:05:00,000 --> 00:05:03,520
@@ -587,7 +587,7 @@ thoroughbred scum, aren't you, Rimmer?
 
 130
 00:08:03,880 --> 00:08:07,120
- That's Officer Rimmer to you,
+That's Officer Rimmer to you,
 Private Nothing.
 
 131
@@ -640,11 +640,11 @@ no more than an hour,
 141
 00:08:53,360 --> 00:08:57,040
 and then I'll outline my plans
-to open a new Officers Club on D deck.
+to open a new Officers' Club on D deck.
 
 142
 00:08:57,120 --> 00:08:58,600
-A new Officers Club, sir?
+A new Officers' Club, sir?
 
 143
 00:08:58,880 --> 00:09:00,320
@@ -716,7 +716,7 @@ Not important.
 
 158
 00:09:45,880 --> 00:09:48,120
-Zero G Sports, where is it?
+Zero-Gee Sports, where is it?
 
 159
 00:09:48,200 --> 00:09:51,120
@@ -725,7 +725,7 @@ where's it gone?
 
 160
 00:09:51,200 --> 00:09:54,160
-Zero G Sports
+Zero-Gee Sports
 is an officer-only channel.
 
 161
@@ -803,7 +803,7 @@ What the smeg's this?
 177
 00:10:44,320 --> 00:10:47,320
 Why is the old service lift
-been turned into the grunts Lift?
+been turned into the grunts lift?
 
 178
 00:10:47,680 --> 00:10:51,080
@@ -890,7 +890,7 @@ Landing bay.
 
 197
 00:11:55,440 --> 00:11:58,000
-Okay, keep your hair on.
+OK, keep your hair on.
 I'm not deaf. am I?
 
 198
@@ -914,7 +914,7 @@ Ah, enchanting.
 
 202
 00:12:13,720 --> 00:12:17,400
-Oh, how hot was that Lift?
+Oh, how hot was that lift?
 My diodes are almost cooked.
 
 203
@@ -951,7 +951,7 @@ Bon voyage.
 210
 00:12:43,080 --> 00:12:47,520
 This corridor's got the best
-of everything, air con, music.
+of everything, air-con, music.
 
 211
 00:12:49,040 --> 00:12:52,000
@@ -1263,7 +1263,7 @@ You flogged your genome?
 280
 00:16:25,440 --> 00:16:28,720
 Yeah, I was a kid and my mate, Dodgy,
-offered me $£100
+offered me 100 dollarpounds
 
 281
 00:16:28,800 --> 00:16:31,040
@@ -1286,7 +1286,7 @@ every detail of your genetic make-up
 
 285
 00:16:42,160 --> 00:16:46,040
-for $£100
+for 100 dollarpounds
 and half a packet of fags?
 
 286
@@ -1476,7 +1476,7 @@ so as Flight Lieutenant, I am over them,
 
 325
 00:19:13,080 --> 00:19:16,600
-and then we can have Officers Club
+and then we can have Officers' Club
 crammed full of Rimmers.
 
 326
@@ -1806,7 +1806,7 @@ Get me out of here, pronto.
 
 400
 00:23:51,600 --> 00:23:53,200
-GRUNT LIFT: I'm busy, okay?
+GRUNT LIFT: I'm busy, OK?
 
 401
 00:23:53,280 --> 00:23:54,320
@@ -1858,7 +1858,7 @@ Officer's quarters now.
 
 412
 00:24:17,560 --> 00:24:20,120
-GRUNT LIFT: Okay, keep your hair on.
+GRUNT LIFT: OK, keep your hair on.
 I'm not deaf. am I?
 
 413
@@ -1926,7 +1926,7 @@ But I worked so hard for it.
 
 427
 00:25:05,760 --> 00:25:09,720
-Okay, okay, I resign. Just let me in.
+OK, OK, I resign. Just let me in.
 
 428
 00:25:10,720 --> 00:25:11,720

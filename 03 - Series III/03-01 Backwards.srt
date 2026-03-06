@@ -100,12 +100,12 @@ Holly, clipboard and pen, please.
 
 23
 00:02:32,680 --> 00:02:35,245
-it'll a whole new lease of life
-for both us, we'll be independent,
+it'll be a whole new lease of life
+for both of us. We'll be independent.
 
 24
 00:02:35,269 --> 00:02:37,834
-but we've got to
+But we've got to
 do it by the book.
 
 25
@@ -145,7 +145,7 @@ for me, please?
 
 33
 00:03:01,600 --> 00:03:05,389
-- 'Starbug 1'?
+- "Starbug 1"?
 - Right, if you'd like to show me to your vehicle, please.
 
 34
@@ -709,7 +709,7 @@ Where are we?
 157
 00:12:24,040 --> 00:12:28,159
 I don't believe this.
-According to the NaviComp, this is Earth.
+According to the navicomp, this is Earth.
 
 158
 00:12:28,920 --> 00:12:31,799
@@ -931,7 +931,7 @@ Bulgarian. Do you speak English?
 
 207
 00:15:48,640 --> 00:15:53,191
-We're lookin' for our friend. Erm...friendski.
+We're lookin' for our friend. Erm... friendski.
 
 208
 00:15:53,360 --> 00:15:56,318
@@ -943,7 +943,7 @@ There's an addresski hereski.
 
 210
 00:15:58,640 --> 00:16:01,359
-Can you, erm...drop us offski?
+Can you, erm... drop us offski?
 
 211
 00:16:01,940 --> 00:16:04,540
@@ -951,8 +951,8 @@ Can you, erm...drop us offski?
 
 212
 00:16:05,080 --> 00:16:09,233
-- Rock'n'roll.
--Thankski verski muchski, budski.
+- Rock and roll.
+- Thankski verski muchski, budski.
 
 213
 00:16:22,400 --> 00:16:26,678
@@ -1247,7 +1247,7 @@ Take war. War is a wonderful thing here.
 278
 00:20:44,880 --> 00:20:48,350
 In 50 years' time, the Second
-World War will start...backwards.
+World War will start... backwards.
 
 279
 00:20:48,560 --> 00:20:51,712
@@ -1460,7 +1460,7 @@ It's a bar room tidy. Unrumble!
 
 324
 00:24:22,360 --> 00:24:25,955
-- Where are you going, you coward.
+- Where are you going, you coward?
 - I've just worked out what happens to me back.
 
 325
@@ -1513,7 +1513,7 @@ It really could. Where's the Cat?
 336
 00:25:51,760 --> 00:25:56,072
 He won't be long.
-He's...you know...in the bushes.
+He's... you know... in the bushes.
 
 337
 00:26:00,760 --> 00:26:02,910

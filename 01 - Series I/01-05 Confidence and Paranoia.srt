@@ -78,7 +78,7 @@ moment, right here and now. Let's seize it together.
 
 18
 00:02:05,200 --> 00:02:08,955
-(MAN) I know, Carol
+(MAN) I know, Carol.
 Dr Graham told me everything.
 
 19
@@ -122,7 +122,7 @@ been written anywhere by anyone ever.
 27
 00:02:43,360 --> 00:02:47,877
 - I don't care!
- "Football - It's A Funny Old Game" by Kevin Keegan.
+-"Football - It's A Funny Old Game" by Kevin Keegan.
 
 28
 00:02:47,960 --> 00:02:50,031
@@ -524,11 +524,11 @@ What? Yes, Mum, I'm just packing my satchel.
 
 112
 00:07:35,040 --> 00:07:37,077
-well, you are really ill.
+Well, you are really ill.
 
 113
 00:07:37,160 --> 00:07:39,436
-No, I mean REALLY ill
+No, I mean REALLY ill!
 
 114
 00:07:41,160 --> 00:07:46,280
@@ -627,7 +627,7 @@ There's an emergency going on.
 
 137
 00:09:08,160 --> 00:09:10,151
-it's still going on.
+It's still going on.
 
 138
 00:09:11,480 --> 00:09:13,471
@@ -636,7 +636,7 @@ It's still an emergency.
 139
 00:09:13,560 --> 00:09:16,951
 Will Arnold Rimmer please hurry
-to White Corridor 159
+to White Corridor 159.
 
 140
 00:09:17,040 --> 00:09:19,031
@@ -649,7 +649,7 @@ Food!
 142
 00:09:21,360 --> 00:09:24,159
 (MACHINE) Today's speciality
-is chicken Marengo.
+is Chicken Marengo.
 
 143
 00:09:25,880 --> 00:09:30,397
@@ -732,7 +732,7 @@ You get a stretcher.
 
 160
 00:10:41,480 --> 00:10:43,915
-Rimmer, let the medicomp take my temperature.
+Rimmer, let the medi-comp take my temperature.
 
 161
 00:10:44,000 --> 00:10:46,071
@@ -778,7 +778,7 @@ I just wanted to have a look around.
 170
 00:11:10,570 --> 00:11:15,110
 You just wanted to go into Kochanski's quarters
-and wallow in self pity and look what's it got you.
+and wallow in self-pity and look what's it got you.
 
 171
 00:11:15,200 --> 00:11:17,760
@@ -829,7 +829,7 @@ of the Mayor of Warsaw in 1546
 
 181
 00:11:42,160 --> 00:11:46,677
-and that incident in 12th-century
+and that incident in 12th century
 Burgundy when it rained herring.
 
 182
@@ -854,7 +854,7 @@ who goes, "Hey, you're great.
 
 186
 00:11:56,232 --> 00:11:57,834
-you're dead sexy!
+"You're dead sexy!
 Everybody loves you!"
 
 187
@@ -880,7 +880,7 @@ he'd go on a business trip to Hawaii or something
 191
 00:12:15,480 --> 00:12:19,474
 I'd be left with my paranoia, saying, "You
-must be joking, She's gonna laugh in our face."
+must be joking, she's gonna laugh in our face."
 
 192
 00:12:19,560 --> 00:12:23,633
@@ -899,7 +899,7 @@ and drivel on like a complete loony.
 
 195
 00:12:32,320 --> 00:12:37,952
-OK, you now how it works.
+OK, you know how it works.
 Now, release the mechanism very, very, very gently.
 
 196
@@ -946,7 +946,7 @@ Holly, what's going on?
 206
 00:13:49,600 --> 00:13:52,956
 Um, Hercule Poirot's
-Just stepped off the steaming train.
+just stepped off the steaming train.
 
 207
 00:13:53,040 --> 00:13:55,919
@@ -974,7 +974,7 @@ If you've got a complaint, just come straight out with it. Don't hide behind inn
 212
 00:14:12,640 --> 00:14:16,952
 The only comparable incident on record
-is in 12th-century Burgundy when it rained herring.
+is in 12th century Burgundy when it rained herring.
 
 213
 00:14:17,040 --> 00:14:18,917
@@ -1000,7 +1000,7 @@ Hey, you're awake!
 218
 00:14:46,400 --> 00:14:50,075
 - Oh, thanks, you shouldn't have bothered.
-- Ahaha!, 'cause I'm that kinda guy!
+- Ahaha! 'Cause I'm that kinda guy!
 
 219
 00:14:50,160 --> 00:14:53,551
@@ -1046,7 +1046,8 @@ moggy and out of that bed!
 
 228
 00:15:25,720 --> 00:15:29,998
-Well, if you're gonna speak to me like that. I'm gonna take my presents back!
+Well, if you're gonna speak to me like that,
+I'm gonna take my presents back!
 
 229
 00:15:30,080 --> 00:15:32,356
@@ -1070,7 +1071,7 @@ Well, if you're gonna speak to me like that. I'm gonna take my presents back!
 
 233
 00:15:45,680 --> 00:15:49,071
-- What do you mean 'solid'?
+- What do you mean "solid"?
 - I mean, they were real, alive, solid.
 
 234
@@ -1080,7 +1081,7 @@ Well, if you're gonna speak to me like that. I'm gonna take my presents back!
 
 235
 00:15:50,800 --> 00:15:54,998
-- What do you mean "They were solid"?!
+- What do you mean "they were solid"?!
 - OK, I'll put it another way.
 
 236
@@ -1173,7 +1174,7 @@ like the manager of the London Jets
 
 255
 00:17:04,318 --> 00:17:07,278
-But you sound like Bing
+but you sound like Bing
 Baxter, the American quiz show host.
 
 256
@@ -1305,7 +1306,7 @@ so much... better than you.
 283
 00:18:40,200 --> 00:18:42,987
 Hey! No one is better than
-Mr. Magnificent, and no one
+Mr Magnificent, and no one
 
 284
 00:18:43,011 --> 00:18:45,798
@@ -1341,15 +1342,15 @@ Estimated duration. 18 hours.
 
 291
 00:19:07,880 --> 00:19:11,510
-(OFF-KEY) # ..our love I tried to kindle
+(OFF-KEY) # ... our love I tried to kindle
 
 292
 00:19:11,600 --> 00:19:16,197
-# like firelight, it...dwindled
+# like firelight, it... dwindled
 
 293
 00:19:16,280 --> 00:19:24,279
-# Now I wonder when this...wind'll
+# Now I wonder when this... wind'll
 ever stop #
 
 294
@@ -1472,7 +1473,7 @@ Anything!
 
 319
 00:20:52,280 --> 00:20:56,911
-- ..anything. He can't do anything.
+- Anything. He can't do anything.
 - Oh, I know, I know. I'll bet five.
 
 320
@@ -1730,7 +1731,7 @@ How can you make a spacesuit look like eveningwear?
 
 374
 00:24:12,200 --> 00:24:15,955
-- Who smashed up the medicomp?
+- Who smashed up the medi-comp?
 - He's stalling, King. Let's go.
 
 375
@@ -1802,7 +1803,7 @@ Nothing.
 390
 00:25:06,080 --> 00:25:08,064
 It's space jargon.
-It means 'find him'.
+It means "find him".
 
 391
 00:25:08,088 --> 00:25:10,756
@@ -2074,7 +2075,7 @@ Well, now you've got it in stereo, baby.
 450
 00:28:41,840 --> 00:28:46,437
 - Welcome aboard, Rimmsie.
-- Nice to be here, Mr. Rimmer, you son of a gun.
+- Nice to be here, Mr Rimmer, you son of a gun.
 
 451
 00:28:50,520 --> 00:28:52,318

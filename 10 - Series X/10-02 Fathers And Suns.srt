@@ -154,7 +154,7 @@ That's my day. Cheers.
 
 37
 00:02:05,520 --> 00:02:08,080
-Er...what's this?
+Er... what's this?
 
 38
 00:02:08,200 --> 00:02:09,600
@@ -347,7 +347,7 @@ That's right.
 
 82
 00:03:55,000 --> 00:03:56,520
-That's...that's not right, that, is it?
+That's... that's not right, that, is it?
 
 83
 00:04:00,080 --> 00:04:01,640
@@ -488,7 +488,7 @@ Ooh, tough question.
 113
 00:05:18,680 --> 00:05:22,760
 If I had to sum him up in one word,
-it would be...ohh...
+it would be... ohh...
 
 114
 00:05:22,880 --> 00:05:24,200
@@ -501,7 +501,7 @@ And he's smart.
 116
 00:05:26,600 --> 00:05:29,760
 I mean, OK, not book-smart, but that's
-only cos he hasn't read any books.
+only 'cause he hasn't read any books.
 
 117
 00:05:29,880 --> 00:05:31,720
@@ -769,7 +769,7 @@ What's that one down there at the bottom?
 
 179
 00:07:58,440 --> 00:08:00,920
-That's...a 36D, sir.
+That's... a 36D, sir.
 
 180
 00:08:01,040 --> 00:08:02,600
@@ -967,7 +967,7 @@ you'd ask me that question, Arnold,
 223
 00:09:31,120 --> 00:09:32,920
 and I've repaired all the faults
-on B Deck already.
+on B deck already.
 
 224
 00:09:33,040 --> 00:09:35,560
@@ -1125,7 +1125,7 @@ I've never been a proper dad to you.
 
 259
 00:11:23,600 --> 00:11:27,160
-Never watched you play zero-gee,
+Never watched you play Zero-Gee,
 
 260
 00:11:27,280 --> 00:11:30,360
@@ -1526,11 +1526,11 @@ than Rapunzel's pubic hair.
 349
 00:15:55,600 --> 00:15:59,600
 Sir, come quickly!
-B Deck is in total disarray!
+B deck is in total disarray!
 
 350
 00:16:01,040 --> 00:16:04,080
-B Deck, the floor Pree repaired?
+B deck, the floor Pree repaired?
 Pree, what's happened?
 
 351
@@ -1682,7 +1682,7 @@ Dunno. D'you know who might know?
 
 384
 00:17:27,800 --> 00:17:29,440
-That Asian fast-food machine on B Deck.
+That Asian fast-food machine on B deck.
 
 385
 00:17:29,560 --> 00:17:33,120
@@ -1979,7 +1979,7 @@ he - my dad - resigned.
 453
 00:20:19,840 --> 00:20:22,880
 Although he resigned and he is me,
-I don't wanna resign cos I'm not him,
+I don't wanna resign 'cause I'm not him,
 
 454
 00:20:23,000 --> 00:20:24,360
@@ -2165,7 +2165,7 @@ Oh, you know who might know?
 
 496
 00:22:29,880 --> 00:22:32,400
-Dispenser 55, down on G Deck.
+Dispenser 55, down on G deck.
 
 497
 00:22:32,520 --> 00:22:34,240
@@ -2508,7 +2508,7 @@ she controls all the ship's functions...
 573
 00:26:35,080 --> 00:26:36,440
 - (HISSING)
-- ...SO in many ways,
+- ... SO in many ways,
 
 574
 00:26:36,560 --> 00:26:38,760
@@ -2622,7 +2622,7 @@ Then you'd be on file, and you're not.
 
 599
 00:27:39,840 --> 00:27:42,040
-Did you check the medibay waiting list?
+Did you check the medi-bay waiting list?
 Isn't there a file open?
 
 600
@@ -2724,7 +2724,7 @@ Go on, get 'em out of there. Get...
 
 622
 00:28:45,960 --> 00:28:47,800
-Zero-gee Total Football?
+Zero-Gee Total Football?
 
 623
 00:28:47,920 --> 00:28:50,400

@@ -177,7 +177,7 @@ same old slog through deep space. No Variety.
 38
 00:03:06,440 --> 00:03:10,229
 by that pan-dimensional liquid beast
-from the Mogidon Cluster.
+from the Mogadon Cluster.
 
 39
 00:03:10,400 --> 00:03:12,516
@@ -290,7 +290,7 @@ Look! Mr Lister is a droid!
 62
 00:04:39,600 --> 00:04:44,913
 He's entirely mechanical.
-A 3000 Series. Made in Taiwan.
+A 3000 series. Made in Taiwan.
 
 63
 00:04:45,080 --> 00:04:48,755
@@ -351,7 +351,7 @@ exact duplicates rather disturbing, sir.
 
 75
 00:05:28,000 --> 00:05:30,719
-The 3000 Series was notoriously unpopular.
+The 3000 series was notoriously unpopular.
 
 76
 00:05:30,880 --> 00:05:35,351
@@ -443,7 +443,7 @@ You're a droid.
 94
 00:06:42,000 --> 00:06:45,311
 - I'm a what?
-- You're a mechanical, 3000 Series.
+- You're a mechanical, 3000 series.
 
 95
 00:06:45,480 --> 00:06:49,439
@@ -1150,7 +1150,7 @@ and a big jug of chilled margarita.
 
 245
 00:17:26,960 --> 00:17:30,191
-How can we have margeritas? I thought we were out of tequila?
+How can we have margaritas? I thought we were out of tequila?
 
 246
 00:17:30,360 --> 00:17:34,957
@@ -1249,7 +1249,7 @@ nothing you can do about it. It's fate.
 266
 00:18:58,920 --> 00:19:03,949
 I just don't get it. Am I dead or am I alive?
-If I'm dead, how can I come on-board?
+If I'm dead, how can I come on board?
 
 267
 00:19:04,160 --> 00:19:07,755
@@ -1258,7 +1258,7 @@ If I'm dead, how can I come on-board?
 
 268
 00:19:07,920 --> 00:19:10,992
-Kryten's turned off all the monitors, so I'm rigging it up to the mediscan.
+Kryten's turned off all the monitors, so I'm rigging it up to the medi-scan.
 
 269
 00:19:11,160 --> 00:19:13,834
@@ -1555,7 +1555,7 @@ to be in the possession of people judged to be a bit dodgy.
 
 332
 00:23:37,040 --> 00:23:39,395
-Hermann Goering is "a bit dodgy"?!
+Hermann Göring is "a bit dodgy"?!
 
 333
 00:23:39,600 --> 00:23:45,152

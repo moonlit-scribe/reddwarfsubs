@@ -4,7 +4,7 @@
 
 2
 00:00:55,600 --> 00:00:59,355
-This is the daily report of Captain F. Hollister of the mining ship Red Dwarf.
+This is the daily report of Captain F Hollister of the mining ship Red Dwarf.
 
 3
 00:00:59,520 --> 00:01:03,514
@@ -177,7 +177,7 @@ we've run out of this stuff,
 
 41
 00:03:52,920 --> 00:03:55,673
-but I found some unopened medi crates in storage, sir.
+but I found some unopened medi-crates in storage, sir.
 
 42
 00:03:55,840 --> 00:04:00,118
@@ -548,7 +548,7 @@ So that information I gave them on the drive plates worked, then? Yes!
 
 124
 00:10:47,600 --> 00:10:53,551
-The captain's face! He couldn't have been happier if I'd
+the captain's face! He couldn't have been happier if I'd
 given him two girls wrestling in a giant vat of baked beans,
 
 125

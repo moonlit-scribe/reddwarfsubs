@@ -33,7 +33,7 @@ I'm seconds away, sir.
 
 9
 00:01:02,680 --> 00:01:04,880
-Kryten. I'm on B Deck,
+Kryten. I'm on B deck,
 and it doesn't appear
 
 10
@@ -186,7 +186,7 @@ is casting a shadow.
 43
 00:02:54,520 --> 00:02:57,360
 I just wanted to let you know about
-Mr. Lister's guitar, sir.
+Mr Lister's guitar, sir.
 
 44
 00:02:58,240 --> 00:02:59,240
@@ -217,11 +217,11 @@ Well, if I move my 1:30 to 4:00,
 
 50
 00:03:10,760 --> 00:03:12,880
-and my 4:00 to 5:00, just tell me, okay?
+and my 4:00 to 5:00, just tell me, OK?
 
 51
 00:03:13,240 --> 00:03:15,680
-Mr. Lister's guitar, sir,
+Mr Lister's guitar, sir,
 do you remember it?
 
 52
@@ -268,7 +268,7 @@ Sir, you don't understand.
 
 61
 00:03:39,640 --> 00:03:43,440
-I fixed the tracker on D Deck,
+I fixed the tracker on D deck,
 and shine my head with wood polish
 
 62
@@ -282,7 +282,7 @@ You found it?
 64
 00:03:47,000 --> 00:03:49,120
 I can just picture
-Mr. Lister's face, sir.
+Mr Lister's face, sir.
 
 65
 00:03:49,320 --> 00:03:51,680
@@ -295,7 +295,7 @@ The Om Song.
 
 67
 00:03:54,000 --> 00:03:57,080
-'Baby Don't Be Ovulating Tonight.'
+"Baby Don't Be Ovulating Tonight."
 All the classics.
 
 68
@@ -331,7 +331,7 @@ as I'll most likely be unavailable
 
 75
 00:04:15,480 --> 00:04:17,040
-to mop B Deck until tomorrow.
+to mop B deck until tomorrow.
 
 76
 00:04:17,520 --> 00:04:19,680
@@ -352,7 +352,7 @@ Understood, sir.
 
 80
 00:04:28,720 --> 00:04:29,920
-(BEEP) Mr. Lister, sir,
+(BEEP) Mr Lister, sir,
 
 81
 00:04:30,200 --> 00:04:31,320
@@ -795,7 +795,7 @@ I shall recalibrate them.
 
 181
 00:09:37,520 --> 00:09:40,880
-When you say, 'recalibrate' what exactly
+When you say, "recalibrate" what exactly
 does that entail?
 
 182
@@ -984,7 +984,7 @@ two thousand flouncy pirate shirts.
 
 224
 00:12:14,560 --> 00:12:16,400
-I ain't no mech, okay?
+I ain't no mech, OK?
 
 225
 00:12:16,760 --> 00:12:18,480
@@ -1069,7 +1069,7 @@ to repeat back to me. Are you ready?
 
 244
 00:13:19,000 --> 00:13:20,240
-'It's not my fault.'
+"It's not my fault."
 
 245
 00:13:20,920 --> 00:13:22,240
@@ -1212,11 +1212,11 @@ Well,
 
 277
 00:14:52,560 --> 00:14:55,360
-okay, sometimes, when I'd be vaccing,
+OK, sometimes, when I'd be vaccing,
 
 278
 00:14:55,440 --> 00:14:59,440
-Mr. Lister would pick up his feet
+Mr Lister would pick up his feet
 and I'd have to vac all around them.
 
 279
@@ -1576,7 +1576,7 @@ We're not the same as them.
 
 359
 00:18:52,640 --> 00:18:54,560
-They're Series 4000 Mark-IIIs.
+They're series 4000 Mark-IIIs.
 
 360
 00:18:55,040 --> 00:18:56,040
@@ -1879,7 +1879,7 @@ I can feel it fading away.
 
 428
 00:21:51,520 --> 00:21:54,360
-Hang on, Mr. Lister. Try and hang on.
+Hang on, Mr Lister. Try and hang on.
 
 429
 00:22:02,360 --> 00:22:04,920
@@ -1948,7 +1948,7 @@ Prepare your cleaning instruments.
 
 445
 00:22:58,640 --> 00:22:59,840
-Oh, Mr. Lister, sir,
+Oh, Mr Lister, sir,
 
 446
 00:23:00,520 --> 00:23:01,920
@@ -1960,7 +1960,7 @@ what on earth are we going to do?
 
 448
 00:23:03,880 --> 00:23:05,040
-Mr. Lister?
+Mr Lister?
 
 449
 00:23:05,120 --> 00:23:06,720
@@ -2054,7 +2054,7 @@ Oh, It's a fix!
 
 470
 00:24:28,560 --> 00:24:29,840
-WIND: To an air-lock.
+WIND: To an airlock.
 
 471
 00:24:30,120 --> 00:24:32,240
@@ -2136,7 +2136,7 @@ You sure you won't come with us, Kryten?
 
 490
 00:25:44,480 --> 00:25:47,720
-Oh, my place is here with Mr. Lister
+Oh, my place is here with Mr Lister
 and his large collection of
 
 491
@@ -2205,7 +2205,7 @@ Oh, delicious, thank you, sir.
 
 506
 00:26:19,200 --> 00:26:21,360
-- B Deck, the air-lock.
+- B deck, the airlock.
 - Which one?
 
 507

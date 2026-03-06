@@ -294,7 +294,7 @@ the role-play games.
 65
 00:05:17,078 --> 00:05:21,837
 What about the sporting simulations
-like Zero-G Kickboxing and Wimbledon?
+like Zero-Gee Kickboxing and Wimbledon?
 
 66
 00:05:22,240 --> 00:05:25,949
@@ -526,7 +526,7 @@ I have no alternative.
 115
 00:09:08,760 --> 00:09:11,878
 - How long have we been out?
-- According to the NaviComp, three weeks!
+- According to the navicomp, three weeks!
 
 116
 00:09:12,080 --> 00:09:16,358
@@ -559,7 +559,7 @@ You have two Earth minutes before we attack.
 122
 00:09:35,240 --> 00:09:39,438
 - Let's get out of here.
-- Wait, I know this game, it's called 'cat and mouse'.
+- Wait, I know this game, it's called "cat and mouse".
 
 123
 00:09:39,600 --> 00:09:42,911
@@ -625,7 +625,7 @@ Transmit the Armageddon Virus.
 136
 00:10:32,800 --> 00:10:35,519
 - What is it?
-- The Navicomp. Something's wrong!
+- The navicomp. Something's wrong!
 
 137
 00:10:36,920 --> 00:10:39,594
@@ -638,7 +638,7 @@ Navicomp's been infected with a virus.
 
 139
 00:10:45,680 --> 00:10:48,479
-The Navicomp's frozen us out.
+The navicomp's frozen us out.
 We're locked on this course!
 
 140
@@ -1031,7 +1031,7 @@ Leave this to me. This sounds like one for...
 
 225
 00:17:38,240 --> 00:17:40,311
-(MEXICAN ACCENT) ..the Riviera Kid.
+(MEXICAN ACCENT) ... the Riviera Kid.
 
 226
 00:17:40,480 --> 00:17:42,676

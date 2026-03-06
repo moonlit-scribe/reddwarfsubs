@@ -14,18 +14,18 @@ All personnel in position.
 
 4
 00:00:42,080 --> 00:00:44,594
--Everyone returned from the restroom?
--ALL: Check.
+- Everyone returned from the restroom?
+- ALL: Check.
 
 5
 00:00:44,680 --> 00:00:47,194
--All little tables folded away?
--ALL: Check.
+- All little tables folded away?
+- ALL: Check.
 
 6
 00:00:47,280 --> 00:00:49,157
--CAT: Seat belts on?
--ALL: Check.
+- CAT: Seat belts on?
+- ALL: Check.
 
 7
 00:00:49,240 --> 00:00:51,629
@@ -69,13 +69,13 @@ Handbrake engaging. Ignition off.
 
 16
 00:01:15,280 --> 00:01:18,318
--Wow, we made a good landing.
--Well done, everyone.
+- Wow, we made a good landing.
+- Well done, everyone.
 
 17
 00:01:18,400 --> 00:01:20,914
--Okay, doors to manual.
--Check.
+- OK, doors to manual.
+- Check.
 
 18
 00:01:21,000 --> 00:01:23,640
@@ -87,8 +87,8 @@ What sort of God forsaken place is this?
 
 20
 00:01:33,600 --> 00:01:37,150
--This is worse than Rimmer World.
--Get out of town, this is brilliant.
+- This is worse than Rimmer World.
+- Get out of town, this is brilliant.
 
 21
 00:01:37,240 --> 00:01:40,358
@@ -125,8 +125,8 @@ and I want you to say, "Ah".
 
 28
 00:02:00,800 --> 00:02:03,110
--Hi, it's me. Where are you?
--CRAIG: I'm in the Rovers, kid. Why?
+- Hi, it's me. Where are you?
+- CRAIG: I'm in the Rovers, kid. Why?
 
 29
 00:02:03,200 --> 00:02:04,998
@@ -153,8 +153,8 @@ through its voice unit.
 
 34
 00:02:23,840 --> 00:02:27,720
--What kind of place is this?
--Let's ask in the shop.
+- What kind of place is this?
+- Let's ask in the shop.
 
 35
 00:02:27,800 --> 00:02:31,430
@@ -217,23 +217,23 @@ past that, weren't we, lads?
 
 48
 00:03:12,440 --> 00:03:15,910
--Aye, we were, weren't we?
+- Aye, we were, weren't we?
 -(SIGHS) What a load of numpties.
 
 49
 00:03:16,000 --> 00:03:19,197
--Get your keks on, lads, we're sorted.
--Quality.
+- Get your keks on, lads, we're sorted.
+- Quality.
 
 50
 00:03:19,280 --> 00:03:22,318
--Mint.
--Ta very much, chuck, pal, love, sir.
+- Mint.
+- Ta very much, chuck, pal, love, sir.
 
 51
 00:03:22,400 --> 00:03:24,277
--See ya.
--Ta-ra, pet.
+- See ya.
+- Ta-ra, pet.
 
 52
 00:03:25,320 --> 00:03:28,915
@@ -251,8 +251,8 @@ All your mates from Red Dwarf.
 
 55
 00:03:38,640 --> 00:03:40,677
--They're outside.
--Serious?
+- They're outside.
+- Serious?
 
 56
 00:03:41,040 --> 00:03:44,715
@@ -278,8 +278,8 @@ But I'm serious. I know what I saw.
 
 61
 00:03:55,320 --> 00:03:58,950
--Even you were there.
--I was there? How many have you had?
+- Even you were there.
+- I was there? How many have you had?
 
 62
 00:04:00,160 --> 00:04:02,549
@@ -327,8 +327,8 @@ They're called flashbacks, flashbacks.
 
 72
 00:04:36,200 --> 00:04:39,158
--I know you don't exist.
--Okay, no need to rub it in.
+- I know you don't exist.
+- OK, no need to rub it in.
 
 73
 00:04:39,240 --> 00:04:41,311
@@ -342,8 +342,8 @@ and be out of here.
 
 75
 00:04:43,880 --> 00:04:45,951
--Starbug?
--I just told you.
+- Starbug?
+- I just told you.
 
 76
 00:04:46,040 --> 00:04:47,758
@@ -351,7 +351,7 @@ They landed outside the Kabin.
 
 77
 00:04:47,840 --> 00:04:50,480
-That is okay, isn't it?
+That is OK, isn't it?
 We're not going to get a ticket, are we?
 
 78
@@ -385,8 +385,8 @@ you've got left.
 
 84
 00:05:06,480 --> 00:05:08,551
--How many?
--Er, one.
+- How many?
+- Er, one.
 
 85
 00:05:10,480 --> 00:05:15,680
@@ -399,8 +399,8 @@ All we need from you is an address, bud.
 
 87
 00:05:20,600 --> 00:05:25,197
--We've got to speak to our creator.
--And I've got to get back to the Priory.
+- We've got to speak to our creator.
+- And I've got to get back to the Priory.
 
 88
 00:05:26,560 --> 00:05:29,871
@@ -514,8 +514,8 @@ anything, anything to stay alive.
 
 112
 00:08:22,000 --> 00:08:24,230
--What about a show about cats?
--That'd never work.
+- What about a show about cats?
+- That'd never work.
 
 113
 00:08:24,320 --> 00:08:27,915
@@ -616,8 +616,8 @@ time to die.
 
 136
 00:10:49,800 --> 00:10:51,871
--Come here.
--You'd kill me?
+- Come here.
+- You'd kill me?
 
 137
 00:10:51,960 --> 00:10:55,157
@@ -743,8 +743,8 @@ Now I want more life, smegger!
 
 163
 00:12:33,000 --> 00:12:35,879
--I've killed him.
--Well, we shouldn't exist.
+- I've killed him.
+- Well, we shouldn't exist.
 
 164
 00:12:36,720 --> 00:12:41,590
@@ -753,8 +753,8 @@ a sitcom in a biscuit factory.
 
 165
 00:12:41,680 --> 00:12:44,752
--Is that really too much to ask?
--I killed him.
+- Is that really too much to ask?
+- I killed him.
 
 166
 00:12:44,840 --> 00:12:47,116
@@ -796,13 +796,13 @@ In fact, I don't think I feel too well.
 
 174
 00:13:10,680 --> 00:13:12,432
--Me neither.
--I think I'm going to...
+- Me neither.
+- I think I'm going to...
 
 175
 00:13:12,520 --> 00:13:15,433
--Check the end, see what happens.
--Oh, yeah.
+- Check the end, see what happens.
+- Oh, yeah.
 
 176
 00:13:26,360 --> 00:13:27,634
@@ -841,8 +841,8 @@ we can do whatever we want.
 
 184
 00:14:05,560 --> 00:14:09,190
--I could command my own ship.
--I could get Kochanski back.
+- I could command my own ship.
+- I could get Kochanski back.
 
 185
 00:14:09,280 --> 00:14:11,430
@@ -864,7 +864,7 @@ LISTER: I control everything.
 189
 00:14:18,720 --> 00:14:22,395
 So the rest of our loaves can be one
-giant hedonistic wash fulfilment.
+giant hedonistic wash filfulment.
 
 190
 00:14:22,480 --> 00:14:24,118
@@ -967,12 +967,12 @@ Maybe it's something else.
 213
 00:15:30,840 --> 00:15:34,799
 What is it with these damn things?
-why do I keep making them?
+Why do I keep making them?
 
 214
 00:15:34,880 --> 00:15:37,998
--Useless.
--What actually is it, sir?
+- Useless.
+- What actually is it, sir?
 
 215
 00:15:38,440 --> 00:15:40,716
@@ -984,7 +984,7 @@ It looks like a squid.
 
 217
 00:15:52,800 --> 00:15:54,757
-why would I be making squids?
+Why would I be making squids?
 
 218
 00:15:54,840 --> 00:15:57,400
@@ -1003,12 +1003,12 @@ Despair Squid?
 
 221
 00:16:03,560 --> 00:16:07,758
-On that Ocean planet?
+On that ocean planet?
 That thing that attacked us years ago.
 
 222
 00:16:07,840 --> 00:16:09,877
-whoa, whoa, hang on a minute.
+Whoa, whoa, hang on a minute.
 
 223
 00:16:09,960 --> 00:16:13,396
@@ -1031,7 +1031,7 @@ In here I'm somebody.
 
 227
 00:16:23,120 --> 00:16:27,637
--It's made me want to live again.
+- It's made me want to live again.
 - (SHUSHING) Footsteps. Do you hear them?
 
 228
@@ -1054,8 +1054,8 @@ It'll feel real.
 
 232
 00:16:45,120 --> 00:16:48,238
--Not in your heart.
--I've got no option, Krytie.
+- Not in your heart.
+- I've got no option, Krytie.
 
 233
 00:16:48,880 --> 00:16:52,555
@@ -1095,8 +1095,8 @@ love me until the moment I die.
 
 241
 00:17:24,320 --> 00:17:26,755
--She's not real.
--Nobody's perfect.
+- She's not real.
+- Nobody's perfect.
 
 242
 00:17:28,400 --> 00:17:32,758
@@ -1220,8 +1220,8 @@ sometimes I can be quite brave.
 
 269
 00:20:26,640 --> 00:20:30,315
--You'll never get me.
--Yeah. I will.
+- You'll never get me.
+- Yeah. I will.
 
 270
 00:20:59,760 --> 00:21:01,194
@@ -1304,12 +1304,12 @@ I kinda brought her.
 
 287
 00:21:53,360 --> 00:21:55,829
-Years ago. From that Ocean planet.
+Years ago. From that ocean planet.
 
 288
 00:21:56,120 --> 00:22:00,796
 (SINGS) I'm going to eat you,
-little fishy, 'cos I like little fish.
+little fishy, 'cause I like little fish.
 
 289
 00:22:02,960 --> 00:22:07,397
@@ -1383,8 +1383,8 @@ you know what they'd probably do?
 
 304
 00:22:52,000 --> 00:22:53,559
--Laugh.
--Yeah.
+- Laugh.
+- Yeah.
 
 305
 00:22:53,640 --> 00:22:54,994

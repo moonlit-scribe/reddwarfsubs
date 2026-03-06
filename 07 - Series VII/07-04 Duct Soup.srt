@@ -326,7 +326,7 @@ corrupted file in your database!
 
 73
 00:05:48,720 --> 00:05:51,109
-...when someone's
+... when someone's
 doing the Heimlich manoeuvre on you.
 
 74
@@ -556,7 +556,7 @@ The thermostat!
 
 122
 00:08:22,080 --> 00:08:24,993
-I swear I set the correct programme! Oh!
+I swear I set the correct program! Oh!
 
 123
 00:08:25,160 --> 00:08:28,949
@@ -837,7 +837,7 @@ Right.
 
 182
 00:12:31,040 --> 00:12:33,509
-Right, I'll.. I'll go.
+Right, I'll... I'll go.
 
 183
 00:12:33,680 --> 00:12:35,079
@@ -884,7 +884,7 @@ and it overloaded.
 192
 00:13:02,440 --> 00:13:05,956
 Give it a few seconds and the
-emergency back-up will kick in.
+emergency backup will kick in.
 
 193
 00:13:06,120 --> 00:13:08,509
@@ -901,13 +901,13 @@ I'll look into it immediately, sir!
 
 196
 00:13:16,640 --> 00:13:18,870
-There goes the back-up!
+There goes the backup!
 Now everything's dead.
 
 197
 00:13:19,080 --> 00:13:22,914
 - How come the doors closed?
-- When the back-up goes down, the doors always lock.
+- When the backup goes down, the doors always lock.
 
 198
 00:13:23,080 --> 00:13:25,196
@@ -934,7 +934,7 @@ No change there, then.
 
 203
 00:13:38,960 --> 00:13:41,429
-We've got to refire the back-up generator.
+We've got to refire the backup generator.
 
 204
 00:13:41,640 --> 00:13:43,548
@@ -1785,7 +1785,7 @@ This should help, sir, take away the rising panic.
 386
 00:25:03,240 --> 00:25:06,198
 - What is it?
-- There was a first-aid box in the supply store.
+- There was a first aid box in the supply store.
 
 387
 00:25:06,360 --> 00:25:09,000
@@ -2036,7 +2036,7 @@ Coincidence? Get outta here!
 439
 00:28:34,240 --> 00:28:37,596
 According to my reckoning,
-we should be halfway across B-deck by now.
+we should be halfway across B deck by now.
 
 440
 00:28:37,760 --> 00:28:42,197
@@ -2129,7 +2129,7 @@ baths, and Mr Lister would scrub your back,
 458
 00:29:44,240 --> 00:29:48,837
 and before we know what's going on, he's wearing
-clogs and you're having Gelfs round to dinner.
+clogs and you're having GELFs round to dinner.
 
 459
 00:29:49,040 --> 00:29:52,920

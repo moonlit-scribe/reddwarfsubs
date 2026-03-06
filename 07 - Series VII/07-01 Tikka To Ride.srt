@@ -20,12 +20,12 @@ Hello? Yes!
 
 6
 00:00:44,120 --> 00:00:47,750
-OK. Here we go. Ship's log...um...one.
+OK. Here we go. Ship's log... um... one.
 
 7
 00:00:48,360 --> 00:00:52,593
 I've decided to keep a journal of life
-on-board ship and send it off in a probe.
+on board ship and send it off in a probe.
 
 8
 00:00:52,760 --> 00:00:56,196
@@ -35,7 +35,7 @@ I feel a new maturity about myself.
 9
 00:00:56,360 --> 00:01:00,593
 In fact, I can't even remember the last time
-I tried to urinate on Rimmer from the top of D-deck...
+I tried to urinate on Rimmer from the top of D deck...
 
 10
 00:01:00,760 --> 00:01:04,435
@@ -90,7 +90,7 @@ Is that what you were going to say?
 
 21
 00:01:44,560 --> 00:01:48,474
-S...speak, Kryten.
+S... speak, Kryten.
 How can we change what's happening?
 
 22
@@ -313,7 +313,7 @@ in howling like a hungry prairie dog.
 69
 00:05:25,400 --> 00:05:29,030
 - No Lager?!
-- All the supplies on B-deck were destroyed, sir.
+- All the supplies on B deck were destroyed, sir.
 
 70
 00:05:29,200 --> 00:05:32,192
@@ -658,7 +658,7 @@ Oh, OK. OK.
 142
 00:10:15,200 --> 00:10:17,874
 (KRYTEN) Since that completes
-the B-deck inspection, sirs,
+the B deck inspection, sirs,
 
 143
 00:10:18,080 --> 00:10:22,551
@@ -815,13 +815,13 @@ with three fried eggs on the sid, coated in cheese!
 
 177
 00:13:28,840 --> 00:13:32,754
-So, um...Kryten,
+So, um... Kryten,
 now that you've had time to think,
 
 178
 00:13:32,920 --> 00:13:35,275
 what about that curry
-hunt to the 22nd Century?
+hunt to the 22nd century?
 
 179
 00:13:35,440 --> 00:13:40,150
@@ -1034,7 +1034,7 @@ Well, actually, that could work.
 
 224
 00:17:12,320 --> 00:17:16,598
-We didn't do 20th-century history
+We didn't do 20th century history
 at my school. It didn't seem interesting to me.
 
 225
@@ -1230,7 +1230,7 @@ chairman of the Anti-Smoking League.
 
 268
 00:20:56,000 --> 00:20:58,116
- I bet I'm right about the gherkin, though.
+I bet I'm right about the gherkin, though.
 
 269
 00:20:58,320 --> 00:21:02,757
@@ -1307,7 +1307,7 @@ get a major nuclear explosion all over this suit?
 284
 00:21:58,400 --> 00:22:02,280
 'Cause I'm telling you guys,
-that stuff does not dry-clean!
+that stuff does not dry clean!
 
 285
 00:22:02,440 --> 00:22:05,717

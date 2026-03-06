@@ -5,7 +5,7 @@ Stop whatever you're doing, bud!
 2
 00:00:47,360 --> 00:00:49,280
 We're having a crazy golf
-championship in the medilab.
+championship in the medi-lab.
 
 3
 00:00:49,400 --> 00:00:50,920
@@ -22,7 +22,7 @@ when you see the course. It's amazing!
 
 6
 00:00:55,200 --> 00:00:57,560
- Best hole's the fourth,
+Best hole's the fourth,
 on the autopsy table.
 
 7
@@ -60,7 +60,7 @@ Steak? What is it, pork?
 
 14
 00:01:17,560 --> 00:01:20,280
-I found a deep-freeze down on B Deck,
+I found a deep-freeze down on B deck,
 next to Kryten's quarters.
 
 15
@@ -219,7 +219,7 @@ And how are we supposed to know
 
 49
 00:02:58,320 --> 00:03:01,040
-what the inside of a 16th-century
+what the inside of a 16th century
 pickle jar looks like?
 
 50
@@ -503,7 +503,7 @@ They're misaligned!
 113
 00:05:59,640 --> 00:06:03,080
 That's what those alignment brackets
-were...for!
+were... for!
 
 114
 00:06:04,160 --> 00:06:06,160
@@ -511,7 +511,7 @@ What's happened? Where are we?
 
 115
 00:06:06,280 --> 00:06:10,720
- Damn cheap, Swedish, flat-pack,
+Damn cheap, Swedish, flat-pack,
 self-assembly rejuvenation showers!
 
 116
@@ -1275,7 +1275,7 @@ thou are impatient for thine food.
 
 290
 00:14:44,520 --> 00:14:46,640
-Please...join me.
+Please... join me.
 
 291
 00:14:48,720 --> 00:14:51,080
@@ -1311,7 +1311,7 @@ Um, you can call me Arn or Big Man.
 
 299
 00:15:07,400 --> 00:15:09,920
-Um...talking of big...
+Um... talking of big...
 
 300
 00:15:10,040 --> 00:15:11,360
@@ -1323,8 +1323,8 @@ Big, big fan.
 
 302
 00:15:14,360 --> 00:15:18,480
-Would the...gladiator
-like to...join us too?
+Would the... gladiator
+like to... join us too?
 
 303
 00:15:18,600 --> 00:15:21,200
@@ -1718,7 +1718,7 @@ And when did it start?
 
 393
 00:19:35,960 --> 00:19:38,680
-It...it sleeps, it-it wakes.
+It... it sleeps, it-it wakes.
 
 394
 00:19:39,840 --> 00:19:40,960
@@ -1756,7 +1756,7 @@ and complications could set in.
 
 402
 00:19:59,800 --> 00:20:04,080
-We get him down the medilab, we fix him
+We get him down the medi-lab, we fix him
 up, we beam him back to AD 23 -
 
 403
@@ -1765,7 +1765,7 @@ what's the problem?
 
 404
 00:20:05,440 --> 00:20:06,800
-We can't trust the medicomputer, sir.
+We can't trust the medi-computer, sir.
 
 405
 00:20:06,920 --> 00:20:09,960
@@ -1801,7 +1801,7 @@ You what?!
 
 412
 00:20:24,080 --> 00:20:27,160
-Well, not trusting the medicomputer,
+Well, not trusting the medi-computer,
 sir, what choice do I have?
 
 413
@@ -1868,7 +1868,7 @@ in the freezer.
 
 427
 00:21:01,240 --> 00:21:03,280
-Next to my quarters. On B Deck.
+Next to my quarters. On B deck.
 
 428
 00:21:14,080 --> 00:21:15,480
@@ -1927,7 +1927,7 @@ it's a perfectly standard operation.
 
 440
 00:21:44,880 --> 00:21:47,360
-Yeah, that's cos you're not a member
+Yeah, that's 'cause you're not a member
 of the Schneiberhauser club.
 
 441
@@ -2147,7 +2147,7 @@ So wait a minute.
 489
 00:24:29,040 --> 00:24:33,120
 He's gone back to 23 AD, and we can't go
-and get him cos he's taken the remote?
+and get him 'cause he's taken the remote?
 
 490
 00:24:33,240 --> 00:24:34,880
@@ -2247,7 +2247,7 @@ I think that's OK.
 
 511
 00:25:39,040 --> 00:25:42,240
-So...doesn't God break
+So... doesn't God break
 the Tenth Commandment,
 
 512
@@ -2285,7 +2285,7 @@ seem to ignore the rights
 
 519
 00:26:02,920 --> 00:26:05,720
-...but are big on protecting the rights
+... but are big on protecting the rights
 of oxen-, slave- and donkey-owners.
 
 520
@@ -2326,7 +2326,7 @@ You wanna fight, then, doth thou?
 528
 00:26:31,360 --> 00:26:32,840
 Let's see what you've got.
-Don't...don't think
+Don't... don't think
 
 529
 00:26:32,960 --> 00:26:35,160
@@ -2344,7 +2344,7 @@ It'd be like punching Gandhi.
 532
 00:26:46,520 --> 00:26:49,760
 No, no. No, mind my hair!
-You...you're messing with my hair!
+You... you're messing with my hair!
 
 533
 00:26:49,880 --> 00:26:52,000

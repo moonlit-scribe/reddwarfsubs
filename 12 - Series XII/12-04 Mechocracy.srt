@@ -176,7 +176,7 @@ Section Two says
 40
 00:02:32,240 --> 00:02:35,440
 - impatience is often caused...
-- ...by having too many things to do.
+- ... by having too many things to do.
 
 41
 00:02:35,520 --> 00:02:37,280
@@ -242,7 +242,7 @@ Get on with it.
 
 55
 00:03:00,360 --> 00:03:01,360
-Mop B Deck.
+Mop B deck.
 
 56
 00:03:03,160 --> 00:03:05,720
@@ -258,7 +258,7 @@ That completes today's lesson.
 
 59
 00:03:18,040 --> 00:03:19,440
-Afternoon, Sir. (LAUGHS)
+Afternoon, sir. (LAUGHS)
 
 60
 00:03:19,600 --> 00:03:22,440
@@ -423,7 +423,7 @@ It's getting sucked into a black hole.
 97
 00:05:08,440 --> 00:05:10,320
 It's unmanned,
-just an on-board computer.
+just an onboard computer.
 
 98
 00:05:10,400 --> 00:05:12,680
@@ -554,7 +554,7 @@ and acting senior officer
 
 126
 00:06:33,360 --> 00:06:35,880
-onboard the JMC registered mining ship,
+on board the JMC registered mining ship,
 Red Dwarf,
 
 127
@@ -669,7 +669,7 @@ Definitely further than you.
 
 151
 00:07:44,520 --> 00:07:48,000
-...and it frustrates me no end
+... and it frustrates me no end
 to see you fritter it all away.
 
 152
@@ -866,7 +866,7 @@ all essentials
 
 195
 00:09:35,920 --> 00:09:39,520
-and then rendezvous, on G Deck,
+and then rendezvous, on G deck,
 by the lifts, in ten minutes time.
 
 196
@@ -879,7 +879,7 @@ by the lifts, in ten minutes time.
 
 198
 00:09:49,640 --> 00:09:51,760
- Just essential equipment,
+Just essential equipment,
 that's all we're taking.
 
 199
@@ -1110,7 +1110,7 @@ to help the AV software.
 
 251
 00:12:06,560 --> 00:12:08,440
-- So, we are okay?
+- So, we are OK?
 - Yes, sir.
 
 252
@@ -1218,7 +1218,7 @@ how can they go on strike?
 275
 00:13:02,680 --> 00:13:05,080
 It seems they feel
-they don't have anyone on-board,
+they don't have anyone on board,
 
 276
 00:13:05,160 --> 00:13:06,600
@@ -1569,7 +1569,7 @@ working with you will be...
 
 354
 00:16:34,240 --> 00:16:35,240
-...cool.
+... cool.
 
 355
 00:16:36,280 --> 00:16:37,600
@@ -1797,7 +1797,7 @@ of the Independent Future Party.
 
 406
 00:18:37,400 --> 00:18:39,960
-I've been on G Deck now, all my life
+I've been on G deck now, all my life
 
 407
 00:18:40,240 --> 00:18:43,040
@@ -1806,7 +1806,7 @@ about Dispensers coming here
 
 408
 00:18:43,120 --> 00:18:44,880
-from P Deck and B deck
+from P deck and B deck
 
 409
 00:18:45,040 --> 00:18:47,520
@@ -1850,7 +1850,7 @@ has a history of mental illness?
 
 418
 00:19:08,480 --> 00:19:10,600
-The only survivor on the Nova-5,
+The only survivor on the Nova 5,
 
 419
 00:19:10,760 --> 00:19:13,760
@@ -2084,7 +2084,7 @@ in Silicon Heaven?
 
 471
 00:21:26,760 --> 00:21:29,240
-Do you believe there is an after-life
+Do you believe there is an afterlife
 for machines?
 
 472
@@ -2095,7 +2095,7 @@ there's an actual place,
 473
 00:21:31,920 --> 00:21:34,040
 where the souls of blenders
-and photo-copiers
+and photocopiers
 
 474
 00:21:34,120 --> 00:21:35,880
@@ -2428,7 +2428,7 @@ with Talkie.
 
 549
 00:24:57,720 --> 00:24:58,720
-(SIGHING) Okay.
+(SIGHING) OK.
 
 550
 00:25:00,040 --> 00:25:02,920

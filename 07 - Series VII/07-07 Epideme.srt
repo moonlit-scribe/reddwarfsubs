@@ -195,7 +195,7 @@ than an airline Chicken Kiev!
 42
 00:03:24,120 --> 00:03:28,353
 It's the Leviathan, sir,
-a 23rd-century JMC supply ship.
+a 23rd century JMC supply ship.
 
 43
 00:03:28,520 --> 00:03:30,511
@@ -655,7 +655,7 @@ Oh! Are you all right, sir?
 144
 00:10:48,520 --> 00:10:51,990
 I've just been molested
-by Tutankhamun's horny grandma!
+by Tutankhamen's horny grandma!
 
 145
 00:10:52,160 --> 00:10:55,790
@@ -1386,7 +1386,7 @@ than the Grim Reaper's passport photo.
 301
 00:21:49,280 --> 00:21:52,910
 Please give us more time, sir. The
-medicomp might still come up an antidote.
+medi-comp might still come up an antidote.
 
 302
 00:21:53,120 --> 00:21:57,671
@@ -1395,7 +1395,7 @@ Look, I haven't made a will, but Kris...
 
 303
 00:21:57,880 --> 00:22:02,272
-under my bunk...I want you to have
+under my bunk... I want you to have
 the collection of songs I wrote about you.
 
 304
@@ -1419,7 +1419,7 @@ Hey, keep it clean for me, man.
 
 308
 00:22:17,080 --> 00:22:19,640
-Oh, sir...you're too generous.
+Oh, sir... you're too generous.
 
 309
 00:22:21,320 --> 00:22:25,951
@@ -1664,7 +1664,7 @@ It's infected your hand!
 
 362
 00:26:30,240 --> 00:26:32,709
-Aand the big showbiz news today is that, as expected,
+And the big showbiz news today is that, as expected,
 
 363
 00:26:32,880 --> 00:26:37,556

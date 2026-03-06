@@ -351,7 +351,7 @@ soul in history and assessing each one.
 
 76
 00:05:33,061 --> 00:05:35,701
- He erases all those who wasted their lives
+He erases all those who wasted their lives
 
 77
 00:05:35,861 --> 00:05:40,571
@@ -446,12 +446,12 @@ missionary worker, you simply have to seize the gift of life...
 96
 00:06:53,301 --> 00:06:55,292
 - Oh, God.
-- ...make a contribution...
+- ... make a contribution...
 
 97
 00:06:55,461 --> 00:06:57,577
 - Oh, God.
-- ...no matter how small.
+- ... no matter how small.
 
 98
 00:06:57,741 --> 00:07:02,690
@@ -563,7 +563,7 @@ before the Inquisitor, your judge shall be...
 
 122
 00:08:52,621 --> 00:08:54,737
-(CHEERILY) ...yourself!
+(CHEERILY) ... yourself!
 
 123
 00:08:55,541 --> 00:08:59,500
@@ -1144,7 +1144,7 @@ Your middle name's Judas, but you tell everyone that it's Jonathan.
 
 249
 00:16:42,461 --> 00:16:45,852
-You sign all your official letters 'A. J. Rimmer, BSc'.
+You sign all your official letters "A J Rimmer, BSc".
 
 250
 00:16:46,021 --> 00:16:49,218
@@ -1175,7 +1175,7 @@ Who the smeg are these guys, Rimmer?
 
 256
 00:17:10,301 --> 00:17:13,134
-Never mind 'Who the smeg are these guys'... Who the smeg are you?
+Never mind "Who the smeg are these guys"... Who the smeg are you?
 
 257
 00:17:13,341 --> 00:17:15,412
@@ -1389,7 +1389,7 @@ For myself, death holds no fear.
 
 302
 00:20:12,541 --> 00:20:18,059
-That's why the Mechanoid 4000 Series was voted
+That's why the mechanoid 4000 series was voted
 "Android of the Year" five years running.
 
 303
@@ -1701,7 +1701,7 @@ OK, big fella. It's dangling time.
 
 370
 00:24:49,421 --> 00:24:54,495
-- Welcome back on-line.
+- Welcome back online.
 - What are you doing?
 
 371

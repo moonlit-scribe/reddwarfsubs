@@ -214,7 +214,7 @@ I think the blindfold's supposed to be for me.
 
 47
 00:04:03,680 --> 00:04:07,913
-This is the diary of Captain F. Hollister
+This is the diary of Captain F Hollister
 of the mining ship Red Dwarf.
 
 48
@@ -529,7 +529,7 @@ scam I cooked up with Rimmer after all,
 
 115
 00:12:10,570 --> 00:12:15,080
-all that stuff I gave him on the Captain. The
+all that stuff I gave him on the captain. The
 double-dealing, two-faced rat.
 
 116
@@ -651,7 +651,7 @@ Bananas.
 142
 00:13:47,920 --> 00:13:52,391
 If I say who I think is responsible for this,
-it'll get cut, too - so i'm not going to, but it's him.
+it'll get cut, too - so I'm not going to, but it's him.
 
 143
 00:13:52,560 --> 00:13:57,031
@@ -660,7 +660,7 @@ with him, I'm gonna cut off both his...
 
 144
 00:13:57,200 --> 00:13:59,430
-...a blunt knife.
+... a blunt knife.
 
 145
 00:13:59,600 --> 00:14:03,070
@@ -696,7 +696,7 @@ I got it!
 
 152
 00:14:30,160 --> 00:14:31,992
-11 is Xl in Roman numerals.
+11 is XI in Roman numerals.
 
 153
 00:14:32,160 --> 00:14:35,118
@@ -967,7 +967,7 @@ someone superglued me
 
 212
 00:18:34,650 --> 00:18:38,795
- to the rear of one of those rabbits that
+to the rear of one of those rabbits that
 whizzes round greyhound tracks.
 
 213

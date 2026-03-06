@@ -64,7 +64,7 @@ you get in trendy clothes shops.
 
 15
 00:01:46,240 --> 00:01:50,518
-- 72 tons of reconstituted sausage pate
+- 72 tons of reconstituted sausage patty
 - Check.
 
 16
@@ -125,7 +125,7 @@ I say "check". Where's the fun?
 
 29
 00:02:34,640 --> 00:02:38,918
-All right. we'll put you in command
+All right. We'll put you in command
 for a few seconds, Cap-i-tain.
 
 30
@@ -140,7 +140,7 @@ What's the plan? Lickety-split.
 32
 00:02:43,440 --> 00:02:47,115
 I dunno. Just sort of generally
-slob around...have a few laughs.
+slob around... have a few laughs.
 
 33
 00:02:47,440 --> 00:02:51,479
@@ -244,7 +244,7 @@ Rimmer's hologram back?
 
 55
 00:04:02,720 --> 00:04:05,394
-He was the most unpopular man onboard this ship.
+He was the most unpopular man on board this ship.
 
 56
 00:04:05,480 --> 00:04:09,394
@@ -261,7 +261,7 @@ Anyone. Chen... Petersen...
 
 59
 00:04:15,440 --> 00:04:18,353
-I mean, Hermann Goering would have
+I mean, Hermann Göring would have
 been more of a laugh than Rimmer.
 
 60
@@ -581,7 +581,7 @@ Skive hard, play hard - my motto.
 
 129
 00:08:13,360 --> 00:08:15,317
-(GROUP) Brrrr...Bleaaaa...
+(GROUP) Brrrr... Bleaaaa...
 
 130
 00:08:15,400 --> 00:08:18,916
@@ -598,7 +598,7 @@ I can name ninety men who've slept with Kochanski.
 
 133
 00:08:24,480 --> 00:08:26,676
-- The Service Droids!
+- The service droids!
 - My mother.
 
 134
@@ -607,7 +607,7 @@ OK. Leave it alone. Leave it...
 
 135
 00:08:35,320 --> 00:08:37,516
-...alone.
+... alone.
 
 136
 00:08:43,280 --> 00:08:44,953
@@ -836,7 +836,7 @@ God, she'd a chip on her shoulder, Lister.
 
 187
 00:11:50,240 --> 00:11:52,959
-- Yeah, Well, I want to go on a date with her.
+- Yeah, well, I want to go on a date with her.
 - Tough. She's dead.
 
 188
@@ -857,7 +857,7 @@ God, she'd a chip on her shoulder, Lister.
 191
 00:12:00,000 --> 00:12:02,196
 - Look, I know you're worried I won't turn you back on...
-- No
+- No.
 
 192
 00:12:02,280 --> 00:12:05,238
@@ -998,7 +998,7 @@ OK, Rimmer... OK.
 222
 00:13:38,000 --> 00:13:41,231
 - OK?
--Ooooh-kaaay.
+- Ooooh-kaaay.
 
 223
 00:13:41,920 --> 00:13:45,072
@@ -1119,7 +1119,7 @@ This isn't my arm. Whose arm is this?
 249
 00:15:17,080 --> 00:15:20,436
 I'm sorry, Arnold, your physical
-data disc has become corrupted,
+data disk has become corrupted,
 
 250
 00:15:20,520 --> 00:15:22,875
@@ -1128,7 +1128,7 @@ Give me my arm back.
 
 251
 00:15:22,960 --> 00:15:25,429
-I'll have to refresh the graphics from a back-up.
+I'll have to refresh the graphics from a backup.
 
 252
 00:15:25,520 --> 00:15:28,034
@@ -1182,7 +1182,7 @@ I haven't got time for this. Where's Lister?
 
 263
 00:15:59,920 --> 00:16:02,753
-That information is security protected,
+That information is security protected.
 
 264
 00:16:03,800 --> 00:16:05,837
@@ -1199,7 +1199,7 @@ Mmmm!
 
 267
 00:16:17,000 --> 00:16:19,196
-Today's fish is trout a la créme.
+Today's fish is trout à la crème.
 
 268
 00:16:19,920 --> 00:16:21,831
@@ -1208,13 +1208,13 @@ Today's fish is trout a la créme.
 
 269
 00:16:22,000 --> 00:16:25,152
-Today's fish is trout a la créme.
+Today's fish is trout à la crème.
 Enjoy your meal.
 
 270
 00:16:25,240 --> 00:16:27,834
 - Fish,
-Today's fish is trout a la créme.
+Today's fish is trout à la crème.
 
 271
 00:16:27,920 --> 00:16:30,036
@@ -1223,13 +1223,13 @@ Today's fish is trout a la créme.
 
 272
 00:16:30,120 --> 00:16:33,397
-Today's fish is trout a la créme.
+Today's fish is trout à la crème.
 Enjoy your meal.
 
 273
 00:16:33,480 --> 00:16:36,838
 - Fish.
-Today's fish is trout a la créme.
+Today's fish is trout à la crème.
 
 274
 00:16:36,862 --> 00:16:37,896
@@ -1238,7 +1238,7 @@ Enjoy your meal.
 275
 00:16:37,920 --> 00:16:40,912
 - Fish.
-Today's fish is trout a la créme.
+Today's fish is trout à la crème.
 
 276
 00:16:41,000 --> 00:16:43,560
@@ -1357,7 +1357,7 @@ Oooooh!
 300
 00:18:10,440 --> 00:18:14,717
 - Ah!
-- There, done it. just in time.
+- There, done it. Just in time.
 
 301
 00:18:14,880 --> 00:18:18,874
@@ -1378,7 +1378,7 @@ Where is Lister, the little worm?
 
 305
 00:18:45,480 --> 00:18:49,189
-Lister? Listie...Listie...Wistie, Lister?
+Lister? Listie... Listie... Wistie, Lister?
 
 306
 00:18:49,280 --> 00:18:54,559
@@ -1810,7 +1810,7 @@ no matter who they are
 398
 00:24:45,920 --> 00:24:50,312
 and I obey orders blindly
-and unquestioningly...yes! Yes, I do.
+and unquestioningly... yes! Yes, I do.
 
 399
 00:24:50,560 --> 00:24:53,951
@@ -1896,7 +1896,7 @@ Have you no respect for the dead?
 417
 00:26:18,880 --> 00:26:22,555
 I'm just doing this,
-er.. I'm taking, er... This is a surprise.
+er... I'm taking, er... This is a surprise.
 
 418
 00:26:23,200 --> 00:26:28,434
@@ -2098,5 +2098,5 @@ There's no kind of atmosphere
 
 464
 00:29:38,440 --> 00:29:42,035
- # In the sun, sun, sun #
+# In the sun, sun, sun #
 

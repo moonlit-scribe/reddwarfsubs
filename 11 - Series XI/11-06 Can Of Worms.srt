@@ -404,7 +404,7 @@ for one stupid, lousy second?
 
 88
 00:05:15,720 --> 00:05:17,560
-Okay. Moving on.
+OK. Moving on.
 
 89
 00:05:17,640 --> 00:05:19,360
@@ -665,7 +665,7 @@ in corridor Beta 12.
 
 145
 00:08:13,680 --> 00:08:16,400
-Where exactly in Beta 127
+Where exactly in Beta 12?
 
 146
 00:08:17,040 --> 00:08:18,800
@@ -765,7 +765,7 @@ He's right, I think we should go.
 168
 00:09:35,480 --> 00:09:38,960
 - Sir...
-- You haven't seen him. Okay.
+- You haven't seen him. OK.
 
 169
 00:09:39,960 --> 00:09:42,400
@@ -845,7 +845,7 @@ and turn round slowly.
 186
 00:10:44,120 --> 00:10:46,840
 Head count down, what's going on?
-Are you okay?
+Are you OK?
 
 187
 00:10:47,000 --> 00:10:49,440
@@ -1014,7 +1014,7 @@ he could ensure the polymorph's death.
 223
 00:13:02,480 --> 00:13:06,200
 And we killed the Mercenoid, saved the
-polymorph and brought it onboard ship.
+polymorph and brought it on board ship.
 
 224
 00:13:06,880 --> 00:13:10,960
@@ -1049,11 +1049,11 @@ Of course eggs that hatch.
 
 231
 00:13:28,240 --> 00:13:29,360
-Okay, when will they hatch?
+OK, when will they hatch?
 
 232
 00:13:29,560 --> 00:13:33,760
-Soon after 'mom' has found a host body
+Soon after "mom" has found a host body
 to deposit them in.
 
 233
@@ -1470,7 +1470,7 @@ Have you thought about a caesarean?
 
 326
 00:18:15,720 --> 00:18:17,360
-- Okay.
+- OK.
 - Are you sure?
 
 327

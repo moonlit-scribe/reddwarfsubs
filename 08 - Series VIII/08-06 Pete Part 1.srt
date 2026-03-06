@@ -18,7 +18,7 @@ What happened?
 5
 00:01:15,280 --> 00:01:20,309
 We inserted a capsule of the truth serum
-Sodium Pentothal into his asthma inhaler, sir.
+sodium pentothal into his asthma inhaler, sir.
 
 6
 00:01:21,920 --> 00:01:27,154
@@ -73,7 +73,7 @@ It's just that Mr Ackerman's so...
 
 17
 00:02:11,920 --> 00:02:14,150
-...horrible, sir!
+... horrible, sir!
 
 18
 00:02:14,320 --> 00:02:16,391
@@ -236,7 +236,7 @@ Here, guys. Way to go!
 54
 00:04:58,840 --> 00:05:01,263
 Yeah, the Skutter's managed to smuggle
-something out of the medi lab for us.
+something out of the medi-lab for us.
 
 55
 00:05:01,287 --> 00:05:03,710
@@ -322,7 +322,7 @@ I'm gonna have it crushed.
 73
 00:07:56,680 --> 00:08:01,675
 It was me, sir, when the doc's back was turned.
-I went to up to the medi lab for a sick note,
+I went to up to the medi-lab for a sick note,
 
 74
 00:08:01,880 --> 00:08:06,238
@@ -623,17 +623,17 @@ Programmable what?
 
 140
 00:13:10,040 --> 00:13:14,034
-Yeah they used to be on Z-Deck. I wonder
+Yeah they used to be on Z deck. I wonder
 if the Nanos have reconstructed them.
 
 141
 00:13:14,200 --> 00:13:18,034
-You can programme them
+You can program them
 to do anything you want. Eat potato skins. You name it.
 
 142
 00:13:18,200 --> 00:13:22,831
-We could programme them to eat the skins
+We could program them to eat the skins
 off the potatoes and leave the rest intact.
 
 143
@@ -857,7 +857,7 @@ Don't mess...
 
 193
 00:17:03,520 --> 00:17:04,840
-...ally screw...
+... ally screw...
 
 194
 00:17:05,000 --> 00:17:06,957
@@ -865,7 +865,7 @@ Don't mess...
 
 195
 00:17:08,200 --> 00:17:09,520
-...you up.
+... you up.
 
 196
 00:17:09,680 --> 00:17:14,356
@@ -1070,7 +1070,7 @@ Thank you, sir. Thank you.
 
 240
 00:21:27,000 --> 00:21:30,789
-You haven't been down to the medi bay
+You haven't been down to the medi-bay
 to get this virus off, have you?
 
 241
@@ -1327,7 +1327,7 @@ Watch.
 298
 00:25:49,680 --> 00:25:51,910
 - Holy...
-- ..smeg!
+- ... smeg!
 
 299
 00:25:52,080 --> 00:25:56,119

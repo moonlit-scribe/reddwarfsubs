@@ -1,6 +1,6 @@
 ﻿1
 00:00:05,080 --> 00:00:08,436
- (DRAMATIC "2001"-TYPE MUSIC)
+(DRAMATIC "2001"-TYPE MUSIC)
 
 2
 00:01:03,000 --> 00:01:06,755
@@ -19,7 +19,7 @@ Dave Lister, who was
 5
 00:01:12,431 --> 00:01:14,518
 in suspended animation
-during the disaster.
+during the disaster,
 
 6
 00:01:14,600 --> 00:01:18,275
@@ -62,7 +62,7 @@ to the crew's confidential reports.
 
 14
 00:01:46,040 --> 00:01:48,714
-Those are for the Captain's eyes only, Arnold.
+Those are for the captain's eyes only, Arnold.
 
 15
 00:01:48,800 --> 00:01:52,145
@@ -117,7 +117,7 @@ I always liked Captain Hollister.
 26
 00:02:25,360 --> 00:02:27,510
 Such a great reader of
-men was Captain Hollister
+men was Captain Hollister.
 
 27
 00:02:27,600 --> 00:02:31,798
@@ -170,7 +170,7 @@ MY report - Rimmer. Two Ms.
 
 38
 00:03:01,280 --> 00:03:04,856
-No, no, no, Holly, I want 'Rimmer', that's
+No, no, no, Holly, I want "Rimmer", that's
 two R's; one at the front, one at the back.
 
 39
@@ -380,7 +380,7 @@ new ways of looking at and doing things.
 
 84
 00:05:24,520 --> 00:05:27,797
-"Run...home, Dick."
+"Run... home, Dick."
 
 85
 00:05:28,800 --> 00:05:31,633
@@ -421,7 +421,7 @@ one where Dick buys this ball...
 
 93
 00:05:51,760 --> 00:05:54,320
-this big ball.. this big red ball.
+this big ball... this big red ball.
 
 94
 00:05:54,400 --> 00:05:56,596
@@ -493,7 +493,7 @@ OK, OK.
 108
 00:06:38,680 --> 00:06:42,799
 (SNIGGERS) You keep your underpants
-on coat-hangers, don't you?
+on coathangers, don't you?
 
 109
 00:06:42,880 --> 00:06:44,678
@@ -515,7 +515,7 @@ You've sweated in it.
 
 113
 00:06:54,120 --> 00:06:57,033
-- OK, OK. what's Holly spotted?
+- OK, OK. What's Holly spotted?
 - An unidentified object.
 
 114
@@ -658,7 +658,7 @@ the top, and the string down below
 145
 00:08:46,080 --> 00:08:48,456
 - or - and this is the clever part...
--Hmm!
+- Hmm!
 
 146
 00:08:48,480 --> 00:08:51,792
@@ -760,7 +760,7 @@ we have a drawing of something
 168
 00:10:03,789 --> 00:10:06,314
 that is happening in the story,
-and we call them 'pictures'.
+and we call them "pictures".
 
 169
 00:10:06,400 --> 00:10:08,391
@@ -786,7 +786,7 @@ He was the father of the cat people. He lived years ago at The Beginning.
 
 174
 00:10:21,600 --> 00:10:25,309
-No, That's me!. I was sent to
+No, that's me! I was sent to
 stasis, that's what "frozen in time" is.
 
 175
@@ -838,7 +838,7 @@ didn't get out for three million years.
 
 185
 00:11:06,680 --> 00:11:09,752
-I'm saying is, that over those three million years,
+What I'm saying is that over those three million years
 
 186
 00:11:09,840 --> 00:11:13,515
@@ -882,7 +882,7 @@ that's what's wrong with it. Aow!
 
 195
 00:11:43,320 --> 00:11:47,393
- If I give you my cat dictionary,
+If I give you my cat dictionary,
 can you translate this for me?
 
 196
@@ -1034,7 +1034,7 @@ good reason why I'm your superior.
 
 228
 00:13:36,960 --> 00:13:38,868
-- ...and i've been with them for eight months
+- ... and I've been with them for eight months
 
 229
 00:13:38,892 --> 00:13:40,799
@@ -1095,7 +1095,7 @@ in waste disposal?
 
 242
 00:14:28,320 --> 00:14:29,913
-No, Dave,
+No, Dave.
 
 243
 00:14:30,000 --> 00:14:34,517
@@ -1366,12 +1366,12 @@ Good morning. How can I help you?
 
 302
 00:17:59,440 --> 00:18:02,990
-Er...chicken vindaloo and a milkshake.
+Er... chicken vindaloo and a milkshake.
 
 303
 00:18:03,080 --> 00:18:06,118
 - What flavour milkshake?
-- Um...beer.
+- Um... beer.
 
 304
 00:18:06,200 --> 00:18:07,998
@@ -1603,7 +1603,7 @@ Come on!
 
 352
 00:20:54,080 --> 00:20:57,311
-I'm not a god! I've just been...misquoted.
+I'm not a god! I've just been... misquoted.
 
 353
 00:20:57,400 --> 00:20:59,391
@@ -1642,7 +1642,7 @@ all his splendour,
 
 360
 00:21:18,520 --> 00:21:21,114
-and says, "Sorry it's all been a total cock-up!"
+and says, "Sorry, it's all been a total cock-up!"
 
 361
 00:21:21,200 --> 00:21:25,478
@@ -1765,7 +1765,7 @@ Cat! Come on, Cat.
 
 387
 00:22:46,600 --> 00:22:49,479
-Miaow! Come on, kitty, kitty!
+Meow! Come on, kitty, kitty!
 
 388
 00:22:50,560 --> 00:22:55,191

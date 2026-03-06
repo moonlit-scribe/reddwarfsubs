@@ -207,7 +207,7 @@ I'm on the cop.
 45
 00:03:16,880 --> 00:03:20,510
 - So, who is she, Holly?
-- It says on the pod, 'Barbra Bellini.'
+- It says on the pod, "Barbra Bellini."
 
 46
 00:03:20,680 --> 00:03:23,638
@@ -1572,7 +1572,7 @@ Hey, my friends... I don't want any trouble.
 343
 00:23:23,920 --> 00:23:28,596
 I just want your spacecraft.
-Give me the start-up code.
+Give me the startup code.
 
 344
 00:23:29,520 --> 00:23:32,558
@@ -1661,7 +1661,7 @@ So did I.
 
 364
 00:24:51,720 --> 00:24:56,078
-But I lied...twice.
+But I lied... twice.
 
 365
 00:24:58,680 --> 00:25:01,320
@@ -1700,7 +1700,7 @@ Ugh!
 
 373
 00:25:54,200 --> 00:25:59,639
-Mal...function. Mal...function.
+Mal... function. Mal... function.
 
 374
 00:26:05,840 --> 00:26:08,400

@@ -24,7 +24,7 @@ Who the hell are you?
 
 7
 00:02:14,560 --> 00:02:16,710
-Oh, welcome back on-line, sir.
+Oh, welcome back online, sir.
 
 8
 00:02:18,720 --> 00:02:22,998
@@ -415,7 +415,7 @@ traverse an asteroid belt without deflectors."
 
 91
 00:08:20,600 --> 00:08:24,594
-Your hologram's on battery back-up.
+Your hologram's on battery backup.
 Oxygen for three months.
 
 92
@@ -434,7 +434,7 @@ Rogue asteroids, meteor storms...
 
 95
 00:08:36,920 --> 00:08:39,309
-One direct hit on that plexi-glass view-screen,
+One direct hit on that plexiglass viewscreen,
 
 96
 00:08:39,480 --> 00:08:43,360
@@ -513,7 +513,7 @@ Face it, we're deader than corduroy.
 
 112
 00:09:53,280 --> 00:09:56,796
--  Will you tell me what's he doing?
+- Will you tell me what's he doing?
 - He's customised the waste disposal unit,
 
 113
@@ -764,7 +764,7 @@ and then suck out your brains.
 167
 00:13:52,040 --> 00:13:55,317
 They shouldn't bother us, then.
-There's barely a snack on-board.
+There's barely a snack on board.
 
 168
 00:13:57,120 --> 00:13:59,919
@@ -1103,7 +1103,7 @@ more times than a ZX81.
 
 239
 00:18:51,080 --> 00:18:56,917
-It's what it's made of. Back in the 22nd Century Aerospace engineers
+It's what it's made of. Back in the 22nd century aerospace engineers
 discovered that, after a plane crash,
 
 240
@@ -1312,7 +1312,7 @@ I can't hang on any longer. Let me in!
 
 284
 00:22:21,160 --> 00:22:26,712
-Then we'll definitely have a Psiren on-board,
+Then we'll definitely have a Psiren on board,
 a brain-sucking psychotic temporal-lobe slurper.
 
 285
@@ -1557,7 +1557,7 @@ I'm almost annoyed.
 
 338
 00:27:24,480 --> 00:27:27,074
-Well, according to the NaviComp,
+Well, according to the navicomp,
 it's gone into that gas nebula.
 
 339

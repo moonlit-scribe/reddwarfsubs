@@ -80,7 +80,7 @@ Don't panic! I've got another one.
 
 19
 00:02:08,920 --> 00:02:10,760
-You can't eat in the drive room.
+You can't eat in the Drive Room.
 
 20
 00:02:10,880 --> 00:02:13,200
@@ -673,7 +673,7 @@ Kryten, where's Lister? Have you seen him?
 
 152
 00:08:55,920 --> 00:08:58,120
-I think he may be in the drive room, sir.
+I think he may be in the Drive Room, sir.
 
 153
 00:08:58,240 --> 00:09:00,840
@@ -1568,7 +1568,7 @@ and ended up on this moon somehow!
 357
 00:18:39,480 --> 00:18:43,920
 Let's punch these numbers into the
-Navicomp and see where it takes us.
+navicomp and see where it takes us.
 
 358
 00:18:45,000 --> 00:18:46,760
@@ -1643,7 +1643,7 @@ weathermen...
 
 374
 00:19:29,800 --> 00:19:32,360
-...who were then re-educated
+... who were then re-educated
 in the sciences
 
 375
@@ -1750,7 +1750,7 @@ I'm very comfortable here.
 398
 00:20:32,960 --> 00:20:37,880
 The smell, the atmosphere.
-It feels like...home.
+It feels like... home.
 
 399
 00:20:39,200 --> 00:20:41,320
@@ -1864,7 +1864,7 @@ Is it Kochanski?
 
 425
 00:21:45,960 --> 00:21:48,280
-Whoever it is, they're brunette, 5 '5 ".
+Whoever it is, they're brunette, 5'5".
 
 426
 00:21:48,400 --> 00:21:51,000
@@ -2020,7 +2020,7 @@ Pressing "undo" now.
 
 460
 00:23:35,000 --> 00:23:37,520
-Evolution mode...engaged.
+Evolution mode... engaged.
 
 461
 00:23:37,640 --> 00:23:39,280
@@ -2170,7 +2170,7 @@ Moving on to the matter in hand...
 
 495
 00:25:07,360 --> 00:25:10,400
-Yeah, yeah, can you...help me
+Yeah, yeah, can you... help me
 get out of this?
 
 496
@@ -2207,7 +2207,7 @@ it's not going to be in here.
 503
 00:25:26,600 --> 00:25:31,120
 Oh, Protocol 121 -
-no exploding in the drive room, right(?)
+no exploding in the Drive Room, right(?)
 
 504
 00:25:31,240 --> 00:25:33,560
@@ -2340,7 +2340,7 @@ My boots are full of my own leg dribble.
 534
 00:26:44,600 --> 00:26:47,600
 - Professor?
-- Call me Irene...everyone does.
+- Call me Irene... everyone does.
 
 535
 00:26:47,720 --> 00:26:51,040

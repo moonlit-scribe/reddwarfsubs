@@ -25,7 +25,7 @@ from the ship's cat. Message ends.
 6
 00:01:23,581 --> 00:01:27,176
 Additional. Our biggest enemy
-is going space-crazy through loneliness.
+is going space crazy through loneliness.
 
 7
 00:01:27,261 --> 00:01:31,050
@@ -254,7 +254,7 @@ a meteor is about to hit the ship."
 57
 00:04:22,381 --> 00:04:25,533
 - He's computer-senile. That's what's wrong with him.
-- ls there any damage?
+- Is there any damage?
 
 58
 00:04:25,621 --> 00:04:28,534
@@ -461,7 +461,7 @@ Alright, keep your hair on.
 
 103
 00:07:41,701 --> 00:07:46,013
-- I'm lucky if i can keep my legs on, with you in charge.
+- I'm lucky if I can keep my legs on, with you in charge.
 - He's out to lunch, man.
 
 104
@@ -481,7 +481,7 @@ He's not in for a single meal, if you ask me.
 
 107
 00:07:59,381 --> 00:08:02,772
-I'm Queeg 500, the Red Dwarf back-up computer.
+I'm Queeg 500, the Red Dwarf backup computer.
 
 108
 00:08:02,861 --> 00:08:05,535
@@ -490,7 +490,7 @@ the Jupiter Mining Corporation fleet
 
 109
 00:08:05,621 --> 00:08:09,535
-are obliged to carry a back-up computer
+are obliged to carry a backup computer
 to replace the primary computer
 
 110
@@ -647,7 +647,7 @@ The lifts are fixed. The fire extinguishers work.
 
 143
 00:10:25,421 --> 00:10:28,777
-And when I say 'work',
+And when I say "work",
 I mean they work when you turn them on,
 
 144
@@ -1054,7 +1054,7 @@ What about my naps?
 231
 00:16:44,505 --> 00:16:47,972
 I'm a cat, I need to nap.
-If don't nap 9 or 10 times a day.
+If I don't nap 9 or 10 times a day.
 
 232
 00:16:47,996 --> 00:16:51,499
@@ -1184,7 +1184,7 @@ It's just not important.
 
 259
 00:18:22,962 --> 00:18:26,176
-Wel, it is to me. I've been impugned.
+Well, it is to me. I've been impugned.
 I want to clear my name.
 
 260
@@ -1636,11 +1636,11 @@ Knight to King Bish 3.
 358
 00:25:17,741 --> 00:25:19,618
 - Bishop-pawn...
-- ..to Queen 3,
+- ... to Queen 3,
 
 359
 00:25:19,701 --> 00:25:22,215
-- ..takes pawn.
+- ... takes pawn.
 - Prawn to King 4.
 
 360

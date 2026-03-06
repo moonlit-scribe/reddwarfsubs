@@ -70,7 +70,7 @@ who falls under your jurisdiction.
 
 17
 00:01:28,040 --> 00:01:29,520
-A 'David Lister'.
+A "David Lister".
 
 18
 00:01:29,720 --> 00:01:30,920
@@ -111,8 +111,8 @@ and we have something you want.
 
 26
 00:01:53,840 --> 00:01:56,160
--What?
--A hostage
+- What?
+- A hostage
 
 27
 00:01:56,240 --> 00:01:58,720
@@ -265,7 +265,7 @@ Now, get me a pad and open comms.
 
 60
 00:03:29,440 --> 00:03:31,840
-Okay, Arn, we're working on the pad.
+OK, Arn, we're working on the pad.
 
 61
 00:03:31,920 --> 00:03:34,280
@@ -287,7 +287,7 @@ Just get me a damn pad!
 
 65
 00:03:42,080 --> 00:03:45,360
-Okay, Arnold, we're working on the pad,
+OK, Arnold, we're working on the pad,
 but you gotta realise
 
 66
@@ -345,8 +345,8 @@ underneath the pool table.
 
 78
 00:04:17,240 --> 00:04:19,880
--For safe keeping?
--Nah, to keep the table level.
+- For safe keeping?
+- Nah, to keep the table level.
 
 79
 00:04:20,960 --> 00:04:22,120
@@ -448,8 +448,8 @@ to expand the beam.
 
 102
 00:05:28,440 --> 00:05:30,160
--What?
--They're Expanoids.
+- What?
+- They're Expanoids.
 
 103
 00:05:30,240 --> 00:05:31,680
@@ -556,7 +556,7 @@ on their slipstream.
 
 126
 00:06:40,520 --> 00:06:41,560
--Planet up ahead.
+- Planet up ahead.
 -(BEEPING)
 
 127
@@ -578,8 +578,8 @@ We've lost navigation.
 
 131
 00:06:50,120 --> 00:06:52,200
--And steering!
--And monitors!
+- And steering!
+- And monitors!
 
 132
 00:06:52,280 --> 00:06:53,840
@@ -623,8 +623,8 @@ Argh!
 
 141
 00:07:13,560 --> 00:07:16,200
--Argh!
--Argh!
+- Argh!
+- Argh!
 
 142
 00:07:18,120 --> 00:07:19,120
@@ -653,8 +653,8 @@ Mars bar living in Scotland.
 
 148
 00:07:54,880 --> 00:07:57,920
--Rimmer is out too.
--Every cloud!
+- Rimmer is out too.
+- Every cloud!
 
 149
 00:07:59,600 --> 00:08:01,160
@@ -681,7 +681,7 @@ using the auxiliary drives.
 
 154
 00:08:16,360 --> 00:08:18,080
--Jump leads attached.
+- Jump leads attached.
 -(ELECTRIC ZAPPING)
 
 155
@@ -704,12 +704,12 @@ barbequed-flavoured Nik Naks.
 
 159
 00:08:34,920 --> 00:08:36,960
--Here's goes nothing.
+- Here's goes nothing.
 -(ZAPPING)
 
 160
 00:08:37,600 --> 00:08:39,960
-Okay, start her up.
+OK, start her up.
 
 161
 00:08:40,680 --> 00:08:42,000
@@ -740,8 +740,8 @@ So embarrassing.
 
 167
 00:09:02,200 --> 00:09:03,960
--What happened?
--I think we got hit
+- What happened?
+- I think we got hit
 
 168
 00:09:04,040 --> 00:09:05,440
@@ -856,13 +856,13 @@ my theory really is.
 
 193
 00:10:16,000 --> 00:10:18,800
--Okay, any theories, Rimmer?
--No!
+- OK, any theories, Rimmer?
+- No!
 
 194
 00:10:20,760 --> 00:10:23,480
--It's the principle.
--Look at that.
+- It's the principle.
+- Look at that.
 
 195
 00:10:24,080 --> 00:10:26,720
@@ -918,7 +918,7 @@ after prohibition ended.
 206
 00:10:52,200 --> 00:10:55,040
 -(WHISTLE BLOWING)
--Hey! What's going on?
+- Hey! What's going on?
 
 207
 00:10:55,360 --> 00:10:57,920
@@ -965,8 +965,8 @@ to enslave humanity.
 
 216
 00:11:35,160 --> 00:11:37,000
--It's contraband.
--By doing what?
+- It's contraband.
+- By doing what?
 
 217
 00:11:37,080 --> 00:11:39,840
@@ -1032,8 +1032,8 @@ Argh. (COUGHS)
 
 231
 00:12:12,960 --> 00:12:14,400
--Is he dead?
--He's moaning.
+- Is he dead?
+- He's moaning.
 
 232
 00:12:14,800 --> 00:12:16,960
@@ -1067,7 +1067,7 @@ The Lady Be Good Club.
 
 239
 00:12:37,920 --> 00:12:40,560
-Here. Ask for Harmony De Gaultier.
+Here. Ask for Harmony de Gauthier.
 
 240
 00:12:41,280 --> 00:12:42,880
@@ -1143,7 +1143,7 @@ I just wasn't up to it.
 
 256
 00:13:33,800 --> 00:13:34,800
--Catching the bus.
+- Catching the bus.
 -(ENGINE STARTS)
 
 257
@@ -1245,7 +1245,7 @@ frequents your establishment
 279
 00:14:46,800 --> 00:14:49,520
 and who goes by the name
-Harmony De Gaultier.
+Harmony de Gauthier.
 
 280
 00:14:49,720 --> 00:14:51,800
@@ -1339,7 +1339,7 @@ You boys want company?
 
 301
 00:16:02,920 --> 00:16:04,960
-We're looking for a Harmony De Gaultier.
+We're looking for a Harmony de Gauthier.
 
 302
 00:16:05,040 --> 00:16:08,400
@@ -1410,7 +1410,7 @@ between discreet stationary states.
 316
 00:16:51,640 --> 00:16:54,080
 Look, we're not here to do
-science with you, okay?
+science with you, OK?
 
 317
 00:16:54,320 --> 00:16:56,680
@@ -1483,8 +1483,8 @@ But how I don't know. It's not my area.
 
 333
 00:17:34,160 --> 00:17:37,440
--You were just keeping it safe.
--Exactly. No one goes up there.
+- You were just keeping it safe.
+- Exactly. No one goes up there.
 
 334
 00:17:39,760 --> 00:17:41,160
@@ -1502,8 +1502,8 @@ to destroy the Expanoids.
 
 337
 00:17:46,880 --> 00:17:49,240
--You got it.
--Any clue how they go together?
+- You got it.
+- Any clue how they go together?
 
 338
 00:17:49,400 --> 00:17:50,720
@@ -1531,8 +1531,8 @@ who fell apart
 
 343
 00:18:03,360 --> 00:18:05,800
--when they couldn't practise science.
--But where are they?
+- when they couldn't practise science.
+- But where are they?
 
 344
 00:18:05,920 --> 00:18:08,080
@@ -1701,13 +1701,13 @@ Your string is safe.
 
 381
 00:19:49,720 --> 00:19:51,640
--My string.
--We won't touch your string.
+- My string.
+- We won't touch your string.
 
 382
 00:19:51,720 --> 00:19:53,200
--My string.
--It's your string.
+- My string.
+- It's your string.
 
 383
 00:19:54,120 --> 00:19:56,800
@@ -1741,8 +1741,8 @@ Because you're genius. You can do this!
 
 390
 00:20:14,520 --> 00:20:16,320
--I can do this?
--We realise electrics
+- I can do this?
+- We realise electrics
 
 391
 00:20:16,400 --> 00:20:18,360
@@ -1824,7 +1824,7 @@ It doesn't go there, how about there?
 
 409
 00:21:39,120 --> 00:21:42,000
--Okay, everybody pipe down! Quiet!
+- OK, everybody pipe down! Quiet!
 -(MUSIC STOPS)
 
 410
@@ -1838,7 +1838,7 @@ What's the beef?
 
 412
 00:21:46,400 --> 00:21:48,320
-Harmony De Gaultier.
+Harmony de Gauthier.
 
 413
 00:21:48,400 --> 00:21:50,680

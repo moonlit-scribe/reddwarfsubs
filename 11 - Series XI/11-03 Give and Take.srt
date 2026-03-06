@@ -41,7 +41,7 @@ move quicker!
 10
 00:01:04,560 --> 00:01:07,880
 I'm picking up several strange
-energy signatures on B-Deck.
+energy signatures on B deck.
 
 11
 00:01:08,040 --> 00:01:09,800
@@ -584,7 +584,7 @@ How can I be of service?
 134
 00:07:02,720 --> 00:07:08,000
 I am Standing Acting Senior
-Commanding Officer Arnold J. Rimmer,
+Commanding Officer Arnold J Rimmer,
 
 135
 00:07:08,080 --> 00:07:10,120
@@ -623,7 +623,7 @@ You didn't have to big me up.
 
 143
 00:07:28,280 --> 00:07:29,520
-DROID: Arnold J. Rimmer?
+DROID: Arnold J Rimmer?
 
 144
 00:07:29,960 --> 00:07:31,360
@@ -674,7 +674,7 @@ Follow me.
 155
 00:08:02,040 --> 00:08:06,120
 Well, according to these notes,
-the guy's name was Romero G. Gonzalez,
+the guy's name was Romero G Gonzalez,
 
 156
 00:08:06,200 --> 00:08:08,400
@@ -1311,11 +1311,11 @@ I need you to...
 
 301
 00:15:02,720 --> 00:15:04,440
-...give me...
+... give me...
 
 302
 00:15:05,280 --> 00:15:06,640
-...one of your kidneys.
+... one of your kidneys.
 
 303
 00:15:06,960 --> 00:15:08,160
@@ -1606,7 +1606,7 @@ Well, I've got an idea.
 
 369
 00:17:57,040 --> 00:17:58,640
-How's your lie-mode these days?
+How's your lie mode these days?
 
 370
 00:17:58,880 --> 00:18:01,080
@@ -1687,7 +1687,7 @@ I've come to tuck you in.
 
 387
 00:18:56,760 --> 00:18:57,880
-Okay.
+OK.
 
 388
 00:18:58,000 --> 00:18:59,120
@@ -1777,7 +1777,7 @@ and what's yours is mine.
 
 407
 00:19:41,920 --> 00:19:45,240
-Budskies till the day
+Budskis till the day
 I get my first wrinkle, right?
 
 408
@@ -2327,7 +2327,7 @@ Perhaps, I can do this.
 
 531
 00:24:54,400 --> 00:24:56,960
-Okay, get me
+OK, get me
 to the nearest stasis booth.
 
 532
@@ -2576,7 +2576,7 @@ and you'll be right as rain.
 
 588
 00:27:45,120 --> 00:27:46,120
-So, I'm going to be okay?
+So, I'm going to be OK?
 
 589
 00:27:46,200 --> 00:27:47,440

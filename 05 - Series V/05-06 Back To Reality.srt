@@ -621,7 +621,7 @@ Which one was Rimmer?
 
 135
 00:09:36,741 --> 00:09:39,733
-You found the Captain's message right away?
+You found the captain's message right away?
 
 136
 00:09:41,501 --> 00:09:42,758
@@ -630,7 +630,7 @@ What Captain's message?
 137
 00:09:42,782 --> 00:09:46,577
 The one that's hidden in the microdot
-in the 'i' in Rimmer's swimming certificate.
+in the I in Rimmer's swimming certificate.
 
 138
 00:09:46,741 --> 00:09:50,700
@@ -692,7 +692,7 @@ So no-one would suspect he was on a secret mission to destroy Red Dwarf, in orde
 
 150
 00:10:29,901 --> 00:10:34,657
-You know that bit when Lister jump-starts the Second
+You know that bit when Lister jump starts the Second
 Big Bang with jump leads from Starbug?
 
 151
@@ -710,7 +710,7 @@ You what?!
 
 154
 00:10:45,021 --> 00:10:47,492
-It was all in the Captain's
+It was all in the captain's
 message. It was all in the microdot.
 
 155
@@ -1071,7 +1071,7 @@ But where? And then it hits him.
 231
 00:15:57,261 --> 00:16:02,700
 With his ill-gotten gains he can buy four years
-in a computer game, and wait 'til the heat's off.
+in a computer game, and wait till the heat's off.
 
 232
 00:16:02,861 --> 00:16:06,138
@@ -1570,7 +1570,7 @@ brought on by the ink from the Despair Squid.
 341
 00:24:22,021 --> 00:24:27,937
 You were about to commit suicide just like the crew
-of the Esperanto, 'til the mood-stabiliser saved you.
+of the Esperanto, till the mood-stabiliser saved you.
 
 342
 00:24:28,101 --> 00:24:31,731

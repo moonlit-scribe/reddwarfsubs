@@ -61,7 +61,7 @@ Zero Gravity Edition." That's mine.
 14
 00:01:59,760 --> 00:02:02,957
 "Arnold J Rimmer - A Tribute."
-what's this?
+What's this?
 
 15
 00:02:03,040 --> 00:02:06,749
@@ -100,11 +100,11 @@ Just stick it in the trunk and shut up.
 22
 00:02:28,040 --> 00:02:31,715
 - Whoa! They're mine.
-- But the Blu-Tack is mine.
+- But the Blu Tack is mine.
 
 23
 00:02:31,800 --> 00:02:33,648
-You want to take the Blu-Tack?
+You want to take the Blu Tack?
 
 24
 00:02:33,672 --> 00:02:36,636
@@ -212,7 +212,7 @@ for experimental pile surgery.
 
 46
 00:03:43,600 --> 00:03:45,955
-It's not all one-way you know, Rimmer.
+It's not all one way you know, Rimmer.
 
 47
 00:03:46,040 --> 00:03:50,511
@@ -330,7 +330,7 @@ What a guy!
 
 72
 00:05:09,200 --> 00:05:12,636
-I just don't know why didn't I think
+I just don't know why I didn't think
 of this before? A duplicate me, Lister.
 
 73
@@ -513,7 +513,7 @@ all over the floor,
 112
 00:07:49,840 --> 00:07:53,390
 where any self-respecting bachelor
-would keep "em.
+would keep 'em.
 
 113
 00:07:53,480 --> 00:07:57,075
@@ -558,7 +558,7 @@ and put the video on for us, would you?
 
 122
 00:08:41,640 --> 00:08:45,759
-well, I can just about
+Well, I can just about
 manage that, I suppose.
 
 123
@@ -602,7 +602,7 @@ Poetry in motion.
 
 132
 00:09:17,560 --> 00:09:20,598
-...and if it hadn't been for those people
+... and if it hadn't been for those people
 
 133
 00:09:20,680 --> 00:09:24,150
@@ -635,7 +635,7 @@ Yes!
 
 140
 00:09:41,840 --> 00:09:47,870
-Look, It was your job to fix it, Rimmer!
+Look, it was your job to fix it, Rimmer!
 You can't do sloppy work on the drive plate!
 
 141
@@ -650,7 +650,7 @@ Emergency. There's an emergency going on.
 143
 00:09:56,920 --> 00:10:00,276
 Will Arnold Rimmer please hurry
-to White Corridor 159...7
+to White Corridor 159...?
 
 144
 00:10:00,360 --> 00:10:02,237
@@ -767,7 +767,7 @@ absolutely right. Keep it going.
 
 169
 00:11:28,240 --> 00:11:31,710
-- No, Half past four...
+- No, half past four...
 - Half past four, that's the middle of the night!
 
 170
@@ -860,7 +860,7 @@ What are you doing?
 
 190
 00:12:32,880 --> 00:12:38,273
-It's called work, Lister. I didnt' think you'd recognise it.
+It's called work, Lister. I didn't think you'd recognise it.
 W-O-R-K. It is in the dictionary.
 
 191
@@ -929,12 +929,12 @@ knows, so what do you talk about?
 205
 00:13:28,920 --> 00:13:33,915
 We reminisce, chew over old times,
-past glories...old girlfriends.
+past glories... old girlfriends.
 
 206
 00:13:34,000 --> 00:13:38,995
 - Oh, you mean Yvonne McGruder?
-- Don't say "Yvonne MacGruder" as if she's the only one.
+- Don't say "Yvonne McGruder" as if she's the only one.
 
 207
 00:13:39,080 --> 00:13:41,071
@@ -956,7 +956,7 @@ Fine, Rimmer, fine. Very nice. Very, very nice.
 
 211
 00:13:56,200 --> 00:13:59,875
-So, um...what's gazpacho soup?
+So, um... what's gazpacho soup?
 
 212
 00:14:00,680 --> 00:14:01,556
@@ -1242,7 +1242,7 @@ No, you can't. You haven't got a clue. You're useless.
 
 276
 00:18:03,758 --> 00:18:04,908
-- (RIMMER 2) Shut up, Lister, will hear you.
+- (RIMMER 2) Shut up, Lister will hear you.
 
 277
 00:18:04,932 --> 00:18:06,075
@@ -1309,7 +1309,7 @@ You better watch what you say about my mummy. I'm a grown man, and I'm not going
 
 291
 00:18:46,760 --> 00:18:49,320
--Oh, grow up, Mr Gazpacho!
+- Oh, grow up, Mr Gazpacho!
 
 292
 00:18:49,840 --> 00:18:55,677
@@ -1345,7 +1345,7 @@ I'm tickety-boo. What do you want?
 299
 00:19:21,600 --> 00:19:25,514
 I don't suppose you managed to get
-that Blu-Tack together for me, have you?
+that Blu Tack together for me, have you?
 
 300
 00:19:25,600 --> 00:19:27,557
@@ -1354,12 +1354,12 @@ Rimmer, it's 3 AM!
 301
 00:19:27,640 --> 00:19:30,188
 It doesn't matter. It
-can wait 'til the morning.
+can wait till the morning.
 
 302
 00:19:30,212 --> 00:19:32,760
 I'm just gonna sleep
-here, OK? Til you're ready.
+here, OK? Till you're ready.
 
 303
 00:19:34,680 --> 00:19:38,799
@@ -1425,7 +1425,7 @@ Rimmer and me, we've had a bit of a tiff.
 
 317
 00:20:39,640 --> 00:20:44,794
-Nothing major...but it goes
+Nothing major... but it goes
 without saying, it was his fault!
 
 318
@@ -1776,7 +1776,7 @@ It was the greatest night of my life.
 
 395
 00:25:39,560 --> 00:25:42,996
-I'd been invited to the Captain's table.
+I'd been invited to the Captain's Table.
 
 396
 00:25:43,080 --> 00:25:47,472
@@ -1823,7 +1823,7 @@ as I ate my piping hot gazpacho soup!
 
 406
 00:26:27,480 --> 00:26:30,677
-I never ate at the Captain's table again.
+I never ate at the Captain's Table again.
 
 407
 00:26:30,760 --> 00:26:32,275

@@ -179,7 +179,7 @@ the guy on the left, clobbered the one on the right
 39
 00:02:40,580 --> 00:02:45,256
 and been over that green hill and far away
-before you could say 'Pontius Pilate'.
+before you could say "Pontius Pilate".
 
 40
 00:02:45,460 --> 00:02:48,373
@@ -271,7 +271,7 @@ some kind of energy emission.
 59
 00:04:11,420 --> 00:04:13,855
 They've taken Mr Rimmer!
-Sir, they've taken Mr. Rimmer!
+Sir, they've taken Mr Rimmer!
 
 60
 00:04:14,060 --> 00:04:18,054
@@ -427,7 +427,7 @@ But what about love? Surely people still fall in love?
 
 93
 00:06:21,740 --> 00:06:23,970
-We have developed beyond love, Mr. Rimmer.
+We have developed beyond love, Mr Rimmer.
 
 94
 00:06:24,140 --> 00:06:26,416
@@ -548,7 +548,7 @@ withdrawn due to major flight design flaws.
 
 119
 00:07:54,980 --> 00:08:00,896
-Crew, three. One Series 4000 mechanoid -
+Crew, three. One series 4000 mechanoid -
 almost burnt out.
 
 120
@@ -645,12 +645,12 @@ The intruder seems to be blissfully unaware
 
 139
 00:09:33,420 --> 00:09:38,290
-that we have a rather sturdy holowhip
+that we have a rather sturdy holo-whip
 in the munitions cabinet,
 
 140
 00:09:38,500 --> 00:09:42,733
-and unless he wants his derriére
+and unless he wants his derrière
 minced like burger meat,
 
 141
@@ -1080,7 +1080,7 @@ a goalkeeper or a philosopher?
 
 234
 00:15:53,180 --> 00:15:58,254
-Was Albert Einstein an clerk in a patent office
+Was Albert Einstein a clerk in a patent office
 or the greatest physicist who ever lived?
 
 235
@@ -1368,7 +1368,7 @@ a hologram and become a part of the crew...
 
 295
 00:20:25,549 --> 00:20:27,175
-...and the crew is you three?
+... and the crew is you three?
 
 296
 00:20:29,300 --> 00:20:34,978

@@ -65,7 +65,7 @@ Right! That's it!
 
 16
 00:01:51,120 --> 00:01:53,157
-"Lister, D., Third Technician.
+"Lister, D, Third Technician.
 
 17
 00:01:53,240 --> 00:01:56,995
@@ -77,7 +77,7 @@ Right! That's it!
 
 19
 00:02:01,480 --> 00:02:03,357
-When the Captain sees this, you're dead.
+When the captain sees this, you're dead.
 
 20
 00:02:03,520 --> 00:02:05,636
@@ -279,7 +279,7 @@ and I see that you've filed
 64
 00:04:33,160 --> 00:04:38,553
 - Yes, sir!
-- That's 123 counts of "insulting a superior technician"
+- That's 123 counts of "insulting a superior technician",
 
 65
 00:04:38,640 --> 00:04:41,519
@@ -356,7 +356,7 @@ for the death penalty.
 
 80
 00:05:18,600 --> 00:05:20,591
-There are 169 people onboard this ship.
+There are 169 people on board this ship.
 
 81
 00:05:20,760 --> 00:05:23,991
@@ -385,7 +385,7 @@ Lister, do you have any conception
 86
 00:05:36,400 --> 00:05:39,677
 of the penalty for describing
-a superior technician as a 'smeghead'?
+a superior technician as a "smeghead"?
 
 87
 00:05:39,840 --> 00:05:43,993
@@ -449,7 +449,7 @@ There goes McIntyre.
 
 100
 00:06:31,440 --> 00:06:34,478
-- #...so long! Goodbye! #
+- #... So long! Goodbye! #
 - Bye George.
 
 101
@@ -460,7 +460,7 @@ There goes McIntyre.
 102
 00:06:39,480 --> 00:06:40,993
 - So anybody for a sherry?
-Off!
+- Off!
 
 103
 00:06:41,160 --> 00:06:43,674
@@ -762,11 +762,11 @@ more intelligent you are.
 
 166
 00:10:16,680 --> 00:10:18,432
-(ALL) Brrr...brrr...brrr.
+(ALL) Brrr... brrr... brrr.
 
 167
 00:10:18,640 --> 00:10:21,792
-- Brrr...brrr..brrr...
+- Brrr... brrr... brrr...
 - Shhhh! shhhh!
 
 168
@@ -837,7 +837,7 @@ I've just seen the vid.
 
 182
 00:11:12,600 --> 00:11:15,558
-And I want to thank the Captain
+And I want to thank the captain
 for his beautiful eulogy.
 
 183
@@ -888,7 +888,7 @@ Please be upstanding for the cutting of the cake.
 
 193
 00:12:08,520 --> 00:12:10,511
-Flight Coordinator George Mcintyre.
+Flight Coordinator George McIntyre.
 
 194
 00:12:10,680 --> 00:12:12,353
@@ -1045,7 +1045,7 @@ Well, Rimmer, honestly, good luck.
 
 229
 00:14:04,800 --> 00:14:09,112
- It's all right, Lister.
+It's all right, Lister.
 I'm in complete and total control.
 
 230
@@ -1054,7 +1054,7 @@ Lock! Lock!
 
 231
 00:14:21,160 --> 00:14:23,197
-(CAT MIAOWS)
+(CAT MEOWS)
 
 232
 00:14:31,480 --> 00:14:34,791
@@ -1101,7 +1101,7 @@ Turn over and start. Good luck.
 
 242
 00:16:39,880 --> 00:16:41,337
-Where's the Captain's office?
+Where's the captain's office?
 
 243
 00:16:41,361 --> 00:16:44,033
@@ -1110,8 +1110,8 @@ it says "Captain's Office".
 
 244
 00:16:44,120 --> 00:16:47,272
-- Where it's always said "Captain's Office"
-- So that's the Captain's office!
+- Where it's always said "Captain's Office".
+- So, that's the captain's office!
 
 245
 00:16:47,360 --> 00:16:49,829
@@ -1264,7 +1264,7 @@ Lister, give me that cat!
 
 277
 00:18:20,200 --> 00:18:23,909
-It's not that easy as that! Me and
+It's not as easy as that! Me and
 the cat, we're gonna have a baby cat,
 
 278
@@ -1298,7 +1298,7 @@ of the trip and forfeit 18 months' wages?
 
 284
 00:18:42,200 --> 00:18:45,158
-Gordon Bennet! Yes, Chen, everybody
+Gordon Bennett! Yes, Chen, everybody
 
 285
 00:18:46,400 --> 00:18:48,999
@@ -1421,7 +1421,7 @@ They're all dead. Everybody's dead, Dave.
 310
 00:20:31,480 --> 00:20:35,269
 - Not Chen?
-- Gordon Bennet! Yes! Everybody.
+- Gordon Bennett! Yes! Everybody.
 
 311
 00:20:35,360 --> 00:20:38,159
@@ -1454,7 +1454,7 @@ inefficiently repaired.
 317
 00:20:54,600 --> 00:20:58,753
 It blew, and the entire crew was
-subjected to a lethal dose of Cadmium-2
+subjected to a lethal dose of cadmium-2
 
 318
 00:20:58,840 --> 00:21:00,478
@@ -1495,7 +1495,7 @@ doing in the Drive Room?
 
 326
 00:21:24,720 --> 00:21:28,395
-He was explaining to the Captain why
+He was explaining to the captain why
 he hadn't sealed the drive plate properly.
 
 327
@@ -1868,7 +1868,7 @@ Hee hee! Fearsome. I was fearsome!
 
 407
 00:26:19,920 --> 00:26:23,515
- # Just me and my shadow, ooohhh! #
+# Just me and my shadow, ooohhh! #
 
 408
 00:26:23,600 --> 00:26:25,876
@@ -2024,7 +2024,7 @@ slime that first crawled out the oceans.
 
 442
 00:28:11,400 --> 00:28:15,280
-And I've still got a cat. Okay, it's
+And I've still got a cat. OK, it's
 not Frankenstein, but it's still a cat.
 
 443

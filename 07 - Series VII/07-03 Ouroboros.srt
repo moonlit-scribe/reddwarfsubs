@@ -642,7 +642,7 @@ and having fantastic sex.
 
 140
 00:10:08,960 --> 00:10:11,554
-- I'm, er...back with Tim now.
+- I'm, er... back with Tim now.
 - Tim?!
 
 141
@@ -684,7 +684,7 @@ maintenance repair man, I'm nobody?
 
 149
 00:10:34,560 --> 00:10:36,198
-Well.. yes.
+Well... yes.
 
 150
 00:10:36,960 --> 00:10:40,351
@@ -698,7 +698,7 @@ hasn't got connections?
 152
 00:10:41,960 --> 00:10:44,520
 - I just think that perhaps, if you would...
-- (MIAOWING)
+- (MEOWING)
 
 153
 00:10:48,360 --> 00:10:51,352
@@ -805,7 +805,7 @@ exchanging supplies and information.
 
 175
 00:12:37,800 --> 00:12:42,192
-We could update your hydrogen RAM-drive
+We could update your hydrogen RAM drive
 to a tachyon-powered engine core.
 
 176
@@ -844,7 +844,7 @@ as we've only just met, but perhaps you could...
 
 183
 00:13:10,280 --> 00:13:14,513
-It's a self-gamete mixing invitro tube.
+It's a self-gamete mixing in vitro tube.
 I'm already in there.
 
 184
@@ -866,7 +866,7 @@ Congratulations.
 
 188
 00:13:33,360 --> 00:13:36,239
-Gelf ship! Somehow they've managed
+GELF ship! Somehow they've managed
 to infiltrate non-space!
 
 189
@@ -1004,7 +1004,7 @@ We're under attack.
 
 218
 00:16:23,280 --> 00:16:25,840
-Some Gelf battle cruiser.
+Some GELF battle cruiser.
 
 219
 00:16:26,040 --> 00:16:28,919
@@ -1017,7 +1017,7 @@ Oh, my God. It's the missus.
 221
 00:16:32,720 --> 00:16:35,030
 - The what?
-- Mr Lister's Gelf bride.
+- Mr Lister's GELF bride.
 
 222
 00:16:35,240 --> 00:16:38,710
@@ -1046,7 +1046,7 @@ Sir, they're demanding you return to your bride.
 
 227
 00:16:57,080 --> 00:16:59,230
-In Gelf law, separation is impossible
+In GELF law, separation is impossible
 
 228
 00:16:59,400 --> 00:17:03,633
@@ -1161,7 +1161,7 @@ to compare you with her Mr Lister.
 252
 00:18:56,040 --> 00:18:59,271
 Apparently, he's really quite something.
-Initially, a soft-light hologram,
+Initially, a soft light hologram,
 
 253
 00:18:59,440 --> 00:19:03,798
@@ -1630,7 +1630,7 @@ with a chopstick.
 353
 00:25:05,560 --> 00:25:10,794
 Just pop that in the uterine simulator
-in your medi-lab and...bingo.
+in your medi-lab and... bingo.
 
 354
 00:25:10,960 --> 00:25:12,951
@@ -1814,7 +1814,7 @@ I know who I am. I understand now.
 
 393
 00:27:37,280 --> 00:27:40,511
-Explain, sir. The in-vitro tube,
+Explain, sir. The in vitro tube,
 the one Kochanski's got.
 
 394
@@ -1856,7 +1856,7 @@ Mum, wait!
 402
 00:28:13,480 --> 00:28:16,996
 - What?
-- I need the in-vitro tube! It's me!
+- I need the in vitro tube! It's me!
 
 403
 00:28:17,200 --> 00:28:19,077
@@ -1864,7 +1864,7 @@ It's what?
 
 404
 00:28:21,480 --> 00:28:22,959
-The Gelfs are back!
+The GELFs are back!
 
 405
 00:28:37,880 --> 00:28:40,599

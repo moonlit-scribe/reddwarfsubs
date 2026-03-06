@@ -50,7 +50,7 @@ the same IQ as 6,000 PE teachers.
 
 12
 00:01:37,800 --> 00:01:41,759
-# In a crater, on a ast'roid
+# In a crater, on an ast'roid
 excavating for a mine,
 
 13
@@ -89,12 +89,12 @@ Your vocabulary unit's not working either.
 20
 00:02:08,023 --> 00:02:13,066
 Yeth, I know. Thith altho hath been reported to
-the Thkutterth.Thorry for the inconvenienth.
+the Thkutterth. Thorry for the inconvenienth.
 
 21
 00:02:13,090 --> 00:02:16,959
 - Can you just try and give me a black coffee?
-- l'll thertainly try.
+- I'll thertainly try.
 
 22
 00:02:21,600 --> 00:02:23,876
@@ -107,7 +107,7 @@ the Thkutterth.Thorry for the inconvenienth.
 
 24
 00:02:26,880 --> 00:02:30,760
- How's life in hippie heaven, you pregnant
+How's life in hippie heaven, you pregnant
 baboon-bellied space beatnik?
 
 25
@@ -153,7 +153,7 @@ look too shagged out when I went past him.
 34
 00:03:05,640 --> 00:03:08,140
 Knock *that* off
-and...I've broken the world record!
+and... I've broken the world record!
 
 35
 00:03:08,280 --> 00:03:12,074
@@ -176,7 +176,7 @@ Holly, give me a clean uniform.
 
 39
 00:03:23,520 --> 00:03:28,310
-And give me a crewcut, Holly. I'm beginning
+And give me a crew cut, Holly. I'm beginning
 to look like one of those Hell's Angels.
 
 40
@@ -232,12 +232,12 @@ Understand? You stupid, jumped-up filofax.
 
 51
 00:04:07,680 --> 00:04:10,877
-- A crewcut, and it's very short?
+- A crew cut, and it's very short?
 - Yes, Arnold.
 
 52
 00:04:10,960 --> 00:04:14,271
- As my father always said, shiny clean boots
+As my father always said, shiny clean boots
 
 53
 00:04:14,360 --> 00:04:17,671
@@ -278,7 +278,7 @@ She brought me up. She was a great old lady.
 
 61
 00:04:46,640 --> 00:04:50,713
-i got expelled from school once because she nutted
+I got expelled from school once because she nutted
 the headmaster when I came bottom in French.
 
 62
@@ -318,17 +318,17 @@ OK, will you do that for me?
 
 70
 00:05:16,280 --> 00:05:21,673
-This...er 'dog'. He better not be around here
+This... er "dog". He better not be around here
 anyplace, because if he is I may have to chase him.
 
 71
 00:05:21,840 --> 00:05:22,853
 - Oh, yeah.
--Yeah
+- Yeah
 
 72
 00:05:22,877 --> 00:05:24,736
--Do you know how big they are?
+- Do you know how big they are?
 
 73
 00:05:24,760 --> 00:05:29,436
@@ -602,7 +602,7 @@ Channel 27 had a hologram reading the news.
 
 132
 00:09:06,120 --> 00:09:09,954
-Oh...groovy, funky Channel 27.
+Oh... groovy, funky Channel 27.
 
 133
 00:09:10,040 --> 00:09:13,715
@@ -713,7 +713,7 @@ Git.
 156
 00:10:44,600 --> 00:10:49,549
 # But there ain't no place
-in the whole of...space
+in the whole of... space
 
 157
 00:10:49,640 --> 00:10:53,520
@@ -801,7 +801,7 @@ but I just can't wrap me head round it.
 
 177
 00:12:08,480 --> 00:12:10,949
-Gordon Bennet, that was a close one!
+Gordon Bennett, that was a close one!
 
 178
 00:12:11,240 --> 00:12:14,949
@@ -833,7 +833,7 @@ I'm getting the hang of it now.
 
 184
 00:12:31,320 --> 00:12:34,233
-Left a bit..straighten her up. I better go.
+Left a bit. Straighten her up. I better go.
 
 185
 00:12:36,760 --> 00:12:40,230
@@ -950,7 +950,7 @@ You can't take all of this. There's no room.
 
 211
 00:14:12,280 --> 00:14:16,114
-OK. Then I'll leave...this.
+OK. Then I'll leave... this.
 
 212
 00:14:16,800 --> 00:14:18,996
@@ -1039,12 +1039,12 @@ What, on your own, for the rest of your life?
 
 230
 00:15:22,360 --> 00:15:25,751
-You're the one who's...space crazy.
+You're the one who's... space crazy.
 
 231
 00:15:25,840 --> 00:15:28,992
 Well, it probably is
-déja-vu. It sounds like it.
+déjà-vu. It sounds like it.
 
 232
 00:15:36,000 --> 00:15:40,710
@@ -1111,12 +1111,12 @@ and said exactly these things.
 
 245
 00:16:14,400 --> 00:16:16,277
-"Well, it probably is déja-vu."
+"Well, it probably is déjà-vu."
 
 246
 00:16:16,360 --> 00:16:19,079
 Well, it probably is
-déja-vu. It sounds like it.
+déjà-vu. It sounds like it.
 
 247
 00:16:20,160 --> 00:16:22,720
@@ -1140,7 +1140,7 @@ Cat, wait. Rimmer, listen.
 
 252
 00:16:37,840 --> 00:16:40,480
-# I'm gonna eat you litt-- # oh-oh...ah-ha!
+# I'm gonna eat you litt-- # oh-oh... ah-ha!
 
 253
 00:16:40,560 --> 00:16:44,554
@@ -1173,7 +1173,7 @@ What is going on?
 
 259
 00:16:56,520 --> 00:17:01,196
-Look, I'm a 10th generation Al hologramic computer.
+Look, I'm a 10th generation AI hologramic computer.
 I'm not your mum.
 
 260
@@ -1220,11 +1220,11 @@ Difficult, I know.
 
 270
 00:17:32,000 --> 00:17:33,991
-We're travelling faster than L.S. Right?
+We're travelling faster than LS. Right?
 
 271
 00:17:34,080 --> 00:17:36,071
-- What's LS.?
+- What's LS?
 - Light Speed.
 
 272
@@ -1363,7 +1363,7 @@ I did warn you to brace yourself.
 
 301
 00:19:28,840 --> 00:19:30,990
-No, you didn't...you didn't even pause.
+No, you didn't... you didn't even pause.
 
 302
 00:19:31,160 --> 00:19:33,913
@@ -1554,7 +1554,7 @@ I wish I was someone else, then I could kiss me.
 
 343
 00:21:49,600 --> 00:21:52,752
-I think I'll investigate.. these!
+I think I'll investigate... these!
 
 344
 00:21:53,840 --> 00:21:57,037
@@ -1579,7 +1579,7 @@ Yeah, I got you!
 
 349
 00:22:09,160 --> 00:22:11,151
-I'm gonna...errgh.
+I'm gonna... errgh.
 
 350
 00:22:12,550 --> 00:22:13,425

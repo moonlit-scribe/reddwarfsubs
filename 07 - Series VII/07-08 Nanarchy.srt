@@ -23,7 +23,7 @@ I've been tongue-hockeyed to death!
 6
 00:00:31,440 --> 00:00:35,195
 You know how you told us all to work on a
-solution to Mr. Epideme, no matter how drastic?
+solution to Mr Epideme, no matter how drastic?
 
 7
 00:00:35,400 --> 00:00:37,391
@@ -358,7 +358,7 @@ bite-sized soldiers of varying ranks.
 76
 00:06:04,080 --> 00:06:08,392
 - Asked for?
-- Now, just remember, sir, 'Kryten knows best'!
+- Now, just remember, sir, "Kryten knows best"!
 
 77
 00:06:08,560 --> 00:06:12,679
@@ -511,7 +511,7 @@ Losing an arm, that is one terrible thing.
 108
 00:08:07,040 --> 00:08:11,910
 One minute, you got two arms,
-and the next - zing...doof! - you got one.
+and the next - zing... doof! - you got one.
 
 109
 00:08:12,120 --> 00:08:13,838
@@ -695,7 +695,7 @@ Now let's really get it going, sir!
 
 148
 00:10:41,200 --> 00:10:44,716
-- "Pick up the ball! Hand, pick up the ball'"
+- "Pick up the ball! Hand, pick up the ball!"
 - (GRITTED TEETH) Pick. Up. The Ball
 
 149
@@ -1480,7 +1480,7 @@ That, or they went somewhere out of reach of your scanners.
 
 314
 00:23:15,280 --> 00:23:18,238
-But we were gaining on them, bud. How could they out run us?
+But we were gaining on them, bud. How could they outrun us?
 
 315
 00:23:18,440 --> 00:23:22,798

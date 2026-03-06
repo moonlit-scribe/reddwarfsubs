@@ -214,7 +214,7 @@ Ah, you're all right, Kryten.
 
 50
 00:02:49,120 --> 00:02:50,400
-Are you okay?
+Are you OK?
 
 51
 00:02:50,480 --> 00:02:52,120
@@ -566,7 +566,7 @@ after that, huh?
 129
 00:06:26,840 --> 00:06:29,720
 He had a bad case of second
-nursery-rhyme syndrome, right?
+nursery rhyme syndrome, right?
 
 130
 00:06:30,920 --> 00:06:34,960
@@ -702,7 +702,7 @@ I'm feeling it, I'm feeling it!
 
 160
 00:08:08,520 --> 00:08:10,320
-We used to play this on the Nova-5.
+We used to play this on the Nova 5.
 
 161
 00:08:10,400 --> 00:08:11,480
@@ -825,8 +825,8 @@ Yes, independent to look after you!
 
 188
 00:09:12,960 --> 00:09:17,080
-Okay, how about this, remember years ago
-that tech we took from the Nova-5?
+OK, how about this, remember years ago
+that tech we took from the Nova 5?
 
 189
 00:09:17,160 --> 00:09:18,200
@@ -901,12 +901,12 @@ There's a ship 222 klicks from here.
 205
 00:10:07,000 --> 00:10:09,080
 - Name?
-- Nova-3
+- Nova 3
 
 206
 00:10:09,240 --> 00:10:12,280
-The 3's were launched
-a hundred years before the Nova-5's.
+The 3s were launched
+a hundred years before the Nova 5s.
 
 207
 00:10:12,480 --> 00:10:13,560
@@ -914,11 +914,11 @@ Any life signs, sir?
 
 208
 00:10:13,640 --> 00:10:16,920
-One, a mechanoid 3000 Series.
+One, a mechanoid 3000 series.
 
 209
 00:10:17,440 --> 00:10:19,080
-Goes by the name of 'Butler'.
+Goes by the name of "Butler".
 
 210
 00:10:28,800 --> 00:10:30,240
@@ -1061,7 +1061,7 @@ How very quaint.
 
 241
 00:11:54,680 --> 00:11:57,280
-Back on the Nova-5
+Back on the Nova 5
 we had a command room.
 
 242
@@ -1076,7 +1076,7 @@ very special, I'm afraid.
 244
 00:12:01,040 --> 00:12:03,960
 I hope you don't mind,
-but I prepared some canapes.
+but I prepared some canapés.
 
 245
 00:12:04,040 --> 00:12:06,000
@@ -1085,7 +1085,7 @@ after your journey.
 
 246
 00:12:06,320 --> 00:12:09,640
-So we have Bleu-Blanc-Coeur
+So we have Bleu-Blanc-Cœur
 rillettes du Maine,
 
 247
@@ -1452,7 +1452,7 @@ Try and outrun them.
 
 328
 00:15:33,880 --> 00:15:36,960
-Okay, spinning up engines one,
+OK, spinning up engines one,
 drives two!
 
 329
@@ -1547,7 +1547,7 @@ Best weed killer I've ever had.
 
 350
 00:16:37,000 --> 00:16:39,440
-My rafflesia arnoldiis
+My Rafflesia arnoldiis
 absolutely love it.
 
 351
@@ -1961,7 +1961,7 @@ along our present line of velocity.
 
 441
 00:20:35,120 --> 00:20:40,840
-Okay, scanning. Scanning. Scanning.
+OK, scanning. Scanning. Scanning.
 There!
 
 442
