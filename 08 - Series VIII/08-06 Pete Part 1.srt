@@ -18,7 +18,7 @@ What happened?
 5
 00:01:15,280 --> 00:01:20,309
 We inserted a capsule of the truth serum
-Sodium Pentothal into his asthma inhaler, sir.
+sodium pentothal into his asthma inhaler, sir.
 
 6
 00:01:21,920 --> 00:01:27,154
