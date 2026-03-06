@@ -1159,7 +1159,7 @@ Recall of previous evening - 2%.
 253
 00:18:43,461 --> 00:18:45,975
 "Advised repair schedule -
-reboot start-up disk,
+reboot startup disk,
 
 254
 00:18:46,141 --> 00:18:50,180

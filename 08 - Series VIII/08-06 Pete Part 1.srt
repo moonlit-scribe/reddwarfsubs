@@ -628,12 +628,12 @@ if the Nanos have reconstructed them.
 
 141
 00:13:14,200 --> 00:13:18,034
-You can programme them
+You can program them
 to do anything you want. Eat potato skins. You name it.
 
 142
 00:13:18,200 --> 00:13:22,831
-We could programme them to eat the skins
+We could program them to eat the skins
 off the potatoes and leave the rest intact.
 
 143

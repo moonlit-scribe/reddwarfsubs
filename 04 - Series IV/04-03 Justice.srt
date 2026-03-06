@@ -1572,7 +1572,7 @@ Hey, my friends... I don't want any trouble.
 343
 00:23:23,920 --> 00:23:28,596
 I just want your spacecraft.
-Give me the start-up code.
+Give me the startup code.
 
 344
 00:23:29,520 --> 00:23:32,558
