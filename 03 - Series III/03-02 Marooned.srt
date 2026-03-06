@@ -1804,5 +1804,5 @@ There's no kind of atmosphere
 
 397
 00:28:16,741 --> 00:28:20,974
- # In the sun, sun, sun #
+# In the sun, sun, sun #
 

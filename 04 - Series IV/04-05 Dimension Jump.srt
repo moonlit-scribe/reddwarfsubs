@@ -1,4 +1,4 @@
- ﻿1
+1
 00:00:02,240 --> 00:00:05,119
 ("RED DWARF" THEME)
 
@@ -168,7 +168,7 @@ salt-of-the-earth engineering boys, as per usual.
 
 37
 00:03:11,560 --> 00:03:14,678
- - See you there at 1900?
+- See you there at 1900?
 - See you later, Ace.
 
 38

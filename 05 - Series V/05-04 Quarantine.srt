@@ -129,7 +129,7 @@ to point out the fatal flaw in your logic.
 
 29
 00:02:50,380 --> 00:02:55,853
- the crimson short one up there, can only
+the crimson short one up there, can only
 sustain one hologram, or had you forgotten?
 
 30
@@ -1302,7 +1302,7 @@ conversation makes interesting listening.
 
 281
 00:20:25,780 --> 00:20:28,169
- - Rimmer, is that you?
+- Rimmer, is that you?
 - Oh, yes.
 
 282

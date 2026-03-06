@@ -596,7 +596,7 @@ Engage panic circuits... Panic circuits engaged.
 
 130
 00:09:09,560 --> 00:09:13,679
- - What was it like being a hamster?
+- What was it like being a hamster?
 - It was better than being a chicken.
 
 131

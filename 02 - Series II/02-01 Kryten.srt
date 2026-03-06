@@ -917,7 +917,7 @@ Hi, monkeys! Meet the plastic surgeon's nightmare!
 
 205
 00:15:40,040 --> 00:15:44,591
- - A spacesuit with cufflinks?!
+- A spacesuit with cufflinks?!
 - Where did you get the helmet?
 
 206
@@ -1579,7 +1579,7 @@ Swivel on it, punk!
 
 354
 00:27:33,400 --> 00:27:36,518
- # Let me fly far away from here
+# Let me fly far away from here
 
 355
 00:27:36,600 --> 00:27:39,353

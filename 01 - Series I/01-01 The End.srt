@@ -766,7 +766,7 @@ more intelligent you are.
 
 167
 00:10:18,640 --> 00:10:21,792
-- Brrr... brrr..brrr...
+- Brrr... brrr... brrr...
 - Shhhh! shhhh!
 
 168
@@ -1045,7 +1045,7 @@ Well, Rimmer, honestly, good luck.
 
 229
 00:14:04,800 --> 00:14:09,112
- It's all right, Lister.
+It's all right, Lister.
 I'm in complete and total control.
 
 230
@@ -1868,7 +1868,7 @@ Hee hee! Fearsome. I was fearsome!
 
 407
 00:26:19,920 --> 00:26:23,515
- # Just me and my shadow, ooohhh! #
+# Just me and my shadow, ooohhh! #
 
 408
 00:26:23,600 --> 00:26:25,876
