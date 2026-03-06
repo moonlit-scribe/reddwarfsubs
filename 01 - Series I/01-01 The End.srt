@@ -356,7 +356,7 @@ for the death penalty.
 
 80
 00:05:18,600 --> 00:05:20,591
-There are 169 people onboard this ship.
+There are 169 people on board this ship.
 
 81
 00:05:20,760 --> 00:05:23,991

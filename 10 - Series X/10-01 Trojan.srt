@@ -2319,7 +2319,7 @@ Cheers, darling.
 516
 00:27:58,640 --> 00:28:02,480
 Mail, sirs,
-from the JMC on-board computer.
+from the JMC onboard computer.
 
 517
 00:28:04,480 --> 00:28:06,200

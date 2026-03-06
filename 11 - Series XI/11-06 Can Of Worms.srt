@@ -1014,7 +1014,7 @@ he could ensure the polymorph's death.
 223
 00:13:02,480 --> 00:13:06,200
 And we killed the Mercenoid, saved the
-polymorph and brought it onboard ship.
+polymorph and brought it on board ship.
 
 224
 00:13:06,880 --> 00:13:10,960

@@ -764,7 +764,7 @@ and then suck out your brains.
 167
 00:13:52,040 --> 00:13:55,317
 They shouldn't bother us, then.
-There's barely a snack on-board.
+There's barely a snack on board.
 
 168
 00:13:57,120 --> 00:13:59,919
@@ -1312,7 +1312,7 @@ I can't hang on any longer. Let me in!
 
 284
 00:22:21,160 --> 00:22:26,712
-Then we'll definitely have a Psiren on-board,
+Then we'll definitely have a Psiren on board,
 a brain-sucking psychotic temporal-lobe slurper.
 
 285

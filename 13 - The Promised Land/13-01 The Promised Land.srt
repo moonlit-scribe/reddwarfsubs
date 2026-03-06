@@ -1712,7 +1712,7 @@ Derelict ships have to be made safe
 385
 00:23:01,240 --> 00:23:03,640
 before the senior officer
-ventures onboard.
+ventures on board.
 
 386
 00:23:03,760 --> 00:23:06,640
@@ -5658,7 +5658,7 @@ Let's get Red Dwarf the hell out of here.
 1276
 01:12:50,080 --> 01:12:53,160
 Holly, why didn't you tell us
-the Ferals were onboard?
+the Ferals were on board?
 
 1277
 01:12:53,280 --> 01:12:55,400

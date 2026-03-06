@@ -380,7 +380,7 @@ some oxygen tanks have survived.
 83
 00:06:20,220 --> 00:06:24,976
 Maybe some fuel tanks. If we get a fix, and
-we can get out there, and bring them on-board.
+we can get out there, and bring them on board.
 
 84
 00:06:25,700 --> 00:06:29,819
@@ -471,7 +471,7 @@ of the ship should be triplicated too.
 
 103
 00:07:34,020 --> 00:07:38,696
-So, there will be a working triplicator on-board
+So, there will be a working triplicator on board
 whichever of the ships is the superior.
 
 104

@@ -356,7 +356,7 @@ The flabsters don't know what's hit them.
 82
 00:04:23,200 --> 00:04:25,560
 Er, an e-post from the JMC
-on-board computer, sir.
+onboard computer, sir.
 
 83
 00:04:25,680 --> 00:04:27,920

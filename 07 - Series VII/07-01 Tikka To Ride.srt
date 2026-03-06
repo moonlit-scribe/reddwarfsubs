@@ -25,7 +25,7 @@ OK. Here we go. Ship's log... um... one.
 7
 00:00:48,360 --> 00:00:52,593
 I've decided to keep a journal of life
-on-board ship and send it off in a probe.
+on board ship and send it off in a probe.
 
 8
 00:00:52,760 --> 00:00:56,196
