@@ -305,7 +305,7 @@ something wrong with our video feed.
 68
 00:04:55,560 --> 00:04:59,360
 From our end you look like
-a hideous 19th-century circus freak.
+a hideous 19th century circus freak.
 
 69
 00:05:00,000 --> 00:05:03,520
