@@ -464,7 +464,7 @@ Would you like a crumpet?
 
 101
 00:07:05,040 --> 00:07:08,510
-I'm a computer with a IQ of 12,000.
+I'm a computer with an IQ of 12,000.
 
 102
 00:07:08,680 --> 00:07:12,833
