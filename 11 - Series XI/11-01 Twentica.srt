@@ -70,7 +70,7 @@ who falls under your jurisdiction.
 
 17
 00:01:28,040 --> 00:01:29,520
-A 'David Lister'.
+A "David Lister".
 
 18
 00:01:29,720 --> 00:01:30,920

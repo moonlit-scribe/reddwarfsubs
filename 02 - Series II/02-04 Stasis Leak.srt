@@ -427,7 +427,7 @@ Listen to what it said. It says: "The head came through the table
 93
 00:06:52,920 --> 00:06:59,110
 "and said, 'I'm from the future. I've come to save
-your life. We found a stasis leak on Floor 16.""
+your life. We found a stasis leak on Floor 16.'"
 
 94
 00:06:59,200 --> 00:07:03,273

@@ -170,7 +170,7 @@ MY report - Rimmer. Two Ms.
 
 38
 00:03:01,280 --> 00:03:04,856
-No, no, no, Holly, I want 'Rimmer', that's
+No, no, no, Holly, I want "Rimmer", that's
 two R's; one at the front, one at the back.
 
 39
@@ -760,7 +760,7 @@ we have a drawing of something
 168
 00:10:03,789 --> 00:10:06,314
 that is happening in the story,
-and we call them 'pictures'.
+and we call them "pictures".
 
 169
 00:10:06,400 --> 00:10:08,391

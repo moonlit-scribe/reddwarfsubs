@@ -640,7 +640,7 @@ Yes?
 136
 00:08:59,240 --> 00:09:04,838
 As it seems you may be with us for some time, ma'am, I was
-wondering if I might go through a few 'rules of the ship'?
+wondering if I might go through a few "rules of the ship"?
 
 137
 00:09:05,000 --> 00:09:06,957
@@ -1502,8 +1502,8 @@ I always love that one!
 
 324
 00:22:03,360 --> 00:22:08,309
-'Armpit Name That Tune'? 'Guess Whose Botty
-Is Sticking Through A Hole In The Curtain'?
+"Armpit Name That Tune"? "Guess Whose Botty
+Is Sticking Through A Hole In The Curtain'"
 
 325
 00:22:08,520 --> 00:22:11,672

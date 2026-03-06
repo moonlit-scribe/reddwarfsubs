@@ -358,7 +358,7 @@ bite-sized soldiers of varying ranks.
 76
 00:06:04,080 --> 00:06:08,392
 - Asked for?
-- Now, just remember, sir, 'Kryten knows best'!
+- Now, just remember, sir, "Kryten knows best"!
 
 77
 00:06:08,560 --> 00:06:12,679

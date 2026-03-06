@@ -918,7 +918,7 @@ One, a mechanoid 3000 Series.
 
 209
 00:10:17,440 --> 00:10:19,080
-Goes by the name of 'Butler'.
+Goes by the name of "Butler".
 
 210
 00:10:28,800 --> 00:10:30,240

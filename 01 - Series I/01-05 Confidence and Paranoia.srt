@@ -1071,7 +1071,7 @@ I'm gonna take my presents back!
 
 233
 00:15:45,680 --> 00:15:49,071
-- What do you mean 'solid'?
+- What do you mean "solid"?
 - I mean, they were real, alive, solid.
 
 234
@@ -1803,7 +1803,7 @@ Nothing.
 390
 00:25:06,080 --> 00:25:08,064
 It's space jargon.
-It means 'find him'.
+It means "find him".
 
 391
 00:25:08,088 --> 00:25:10,756

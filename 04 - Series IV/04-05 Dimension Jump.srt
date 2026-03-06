@@ -309,7 +309,7 @@ There's no way of knowing if it'll even get there.
 
 67
 00:04:58,600 --> 00:05:01,797
-- Where is 'there', exactly?
+- Where is "there", exactly?
 - You'll be transported to an alternative reality,
 
 68

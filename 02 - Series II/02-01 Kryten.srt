@@ -711,7 +711,7 @@ Makes me sound like a lavatory disinfectant.
 
 159
 00:12:17,200 --> 00:12:19,794
-Well what do you want me to call you, 'Rimere'?
+Well what do you want me to call you, "Rimere"?
 
 160
 00:12:19,880 --> 00:12:23,589
@@ -1463,11 +1463,11 @@ Kryten, you got never got a thing from those movies I showed you, did ya?
 327
 00:25:29,320 --> 00:25:33,553
 - Er, what movies?
-- Mr David was kind enough to take me to see 'The Wild Ones',
+- Mr David was kind enough to take me to see "The Wild Ones",
 
 328
 00:25:33,640 --> 00:25:36,678
-'Easy Rider' and 'Rebel Without A Cause'.
+"Easy Rider" and "Rebel Without A Cause".
 
 329
 00:25:36,760 --> 00:25:40,276

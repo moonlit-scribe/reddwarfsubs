@@ -1053,7 +1053,7 @@ Okay, when will they hatch?
 
 232
 00:13:29,560 --> 00:13:33,760
-Soon after 'mom' has found a host body
+Soon after "mom" has found a host body
 to deposit them in.
 
 233

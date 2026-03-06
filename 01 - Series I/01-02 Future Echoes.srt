@@ -318,7 +318,7 @@ OK, will you do that for me?
 
 70
 00:05:16,280 --> 00:05:21,673
-This... er 'dog'. He better not be around here
+This... er "dog". He better not be around here
 anyplace, because if he is I may have to chase him.
 
 71

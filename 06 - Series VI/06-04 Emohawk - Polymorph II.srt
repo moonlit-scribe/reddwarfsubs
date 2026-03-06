@@ -912,11 +912,11 @@ Panta anag ew. Panta wa ah.
 
 194
 00:14:04,080 --> 00:14:06,356
-He's giving us five 'hanaka' to decide.
+He's giving us five "hanaka" to decide.
 
 195
 00:14:06,520 --> 00:14:09,717
-- How Long's a 'hanaka'?
+- How long's a "hanaka"?
 - Curiously enough, it's exactly the same as one Earth minute.
 
 196
@@ -926,7 +926,7 @@ Five hanaka. That only gives us 28 hours!
 197
 00:14:14,800 --> 00:14:20,398
 OK, look. Let's get out our sheet music
-and play the Real Waltz.
+and play the real waltz.
 
 198
 00:14:20,560 --> 00:14:22,949
