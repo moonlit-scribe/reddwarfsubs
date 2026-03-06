@@ -702,7 +702,7 @@ I'm feeling it, I'm feeling it!
 
 160
 00:08:08,520 --> 00:08:10,320
-We used to play this on the Nova-5.
+We used to play this on the Nova 5.
 
 161
 00:08:10,400 --> 00:08:11,480
@@ -826,7 +826,7 @@ Yes, independent to look after you!
 188
 00:09:12,960 --> 00:09:17,080
 Okay, how about this, remember years ago
-that tech we took from the Nova-5?
+that tech we took from the Nova 5?
 
 189
 00:09:17,160 --> 00:09:18,200
@@ -901,12 +901,12 @@ There's a ship 222 klicks from here.
 205
 00:10:07,000 --> 00:10:09,080
 - Name?
-- Nova-3
+- Nova 3
 
 206
 00:10:09,240 --> 00:10:12,280
-The 3's were launched
-a hundred years before the Nova-5's.
+The 3s were launched
+a hundred years before the Nova 5s.
 
 207
 00:10:12,480 --> 00:10:13,560
@@ -1061,7 +1061,7 @@ How very quaint.
 
 241
 00:11:54,680 --> 00:11:57,280
-Back on the Nova-5
+Back on the Nova 5
 we had a command room.
 
 242
