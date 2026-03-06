@@ -166,7 +166,7 @@ I can do it! I did it again! I can lie!
 
 37
 00:02:29,280 --> 00:02:32,477
-- Cat, Cat!, come here. Come here. Check this. Check this.
+- Cat, Cat! Come here. Come here. Check this. Check this.
 - Check what?
 
 38
