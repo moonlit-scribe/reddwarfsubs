@@ -1342,7 +1342,7 @@ Estimated duration. 18 hours.
 
 291
 00:19:07,880 --> 00:19:11,510
-(OFF-KEY) # ..our love I tried to kindle
+(OFF-KEY) # ... our love I tried to kindle
 
 292
 00:19:11,600 --> 00:19:16,197
@@ -1473,7 +1473,7 @@ Anything!
 
 319
 00:20:52,280 --> 00:20:56,911
-- ..anything. He can't do anything.
+- Anything. He can't do anything.
 - Oh, I know, I know. I'll bet five.
 
 320

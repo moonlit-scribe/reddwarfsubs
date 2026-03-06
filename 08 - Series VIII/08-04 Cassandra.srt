@@ -720,7 +720,7 @@ A computer that unerringly predicts the future...
 
 163
 00:11:55,200 --> 00:11:59,478
-- ..is a dangerous thing indeed.
+- ... is a dangerous thing indeed.
 - is a dangerous... er... yes, precisely.
 
 164
@@ -1090,12 +1090,12 @@ name is. I mean, our relationship doesn't last very long.
 243
 00:17:09,000 --> 00:17:13,198
 - I understand you have the ability to predict...
-- ..the future, yes.
+- ... the future, yes.
 
 244
 00:17:13,360 --> 00:17:15,590
 - 100 per cent reli...
-- ..able, yes.
+- ... able, yes.
 
 245
 00:17:17,160 --> 00:17:19,428

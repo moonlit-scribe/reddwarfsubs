@@ -1636,11 +1636,11 @@ Knight to King Bish 3.
 358
 00:25:17,741 --> 00:25:19,618
 - Bishop-pawn...
-- ..to Queen 3,
+- ... to Queen 3,
 
 359
 00:25:19,701 --> 00:25:22,215
-- ..takes pawn.
+- ... takes pawn.
 - Prawn to King 4.
 
 360
