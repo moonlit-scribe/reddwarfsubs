@@ -1143,7 +1143,7 @@ What do they call you, matey?
 247
 00:16:57,000 --> 00:17:00,834
 - Uh... K-Kryten, sir.
-- Series 4,000 Mechanoid, am I right?
+- Series 4000 mechanoid, am I right?
 
 248
 00:17:01,000 --> 00:17:03,719
@@ -1308,7 +1308,7 @@ I cannot allow you to go out in this storm, sir. Not with your arm in that condi
 
 282
 00:19:14,200 --> 00:19:18,398
-- The Series 4,000 isn't waterproof, is it?
+- The series 4000 isn't waterproof, is it?
 - Well, that's besides the point, sir.
 
 283

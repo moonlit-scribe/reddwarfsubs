@@ -290,7 +290,7 @@ Look! Mr Lister is a droid!
 62
 00:04:39,600 --> 00:04:44,913
 He's entirely mechanical.
-A 3000 Series. Made in Taiwan.
+A 3000 series. Made in Taiwan.
 
 63
 00:04:45,080 --> 00:04:48,755
@@ -351,7 +351,7 @@ exact duplicates rather disturbing, sir.
 
 75
 00:05:28,000 --> 00:05:30,719
-The 3000 Series was notoriously unpopular.
+The 3000 series was notoriously unpopular.
 
 76
 00:05:30,880 --> 00:05:35,351
@@ -443,7 +443,7 @@ You're a droid.
 94
 00:06:42,000 --> 00:06:45,311
 - I'm a what?
-- You're a mechanical, 3000 Series.
+- You're a mechanical, 3000 series.
 
 95
 00:06:45,480 --> 00:06:49,439
