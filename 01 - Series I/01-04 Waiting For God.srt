@@ -658,7 +658,7 @@ the top, and the string down below
 145
 00:08:46,080 --> 00:08:48,456
 - or - and this is the clever part...
--Hmm!
+- Hmm!
 
 146
 00:08:48,480 --> 00:08:51,792

@@ -22,8 +22,8 @@ And we begin.
 
 6
 00:00:58,440 --> 00:01:01,876
--Have you found any dirt on her yet?
--Her character is flawless, sir.
+- Have you found any dirt on her yet?
+- Her character is flawless, sir.
 
 7
 00:01:01,960 --> 00:01:03,109
@@ -44,8 +44,8 @@ I'll have to frame her.
 
 11
 00:01:09,320 --> 00:01:11,516
--No, sir. I meant...
--Mmm.
+- No, sir. I meant...
+- Mmm.
 
 12
 00:01:12,160 --> 00:01:13,389
@@ -137,8 +137,8 @@ What was that?
 
 33
 00:02:35,920 --> 00:02:38,514
--Did you hear something smash?
--On TV.
+- Did you hear something smash?
+- On TV.
 
 34
 00:02:48,760 --> 00:02:50,159
@@ -146,8 +146,8 @@ Can't hold on much longer!
 
 35
 00:02:53,920 --> 00:02:57,754
--MAN: What, is it HD ready?
--It's a version of HD ready, yeah.
+- MAN: What, is it HD ready?
+- It's a version of HD ready, yeah.
 
 36
 00:02:58,400 --> 00:02:59,799
@@ -202,18 +202,18 @@ with them.
 
 48
 00:03:57,760 --> 00:04:00,673
--Where are we, Kryten?
--Well, according to the psi-scans, sirs,
+- Where are we, Kryten?
+- Well, according to the psi-scans, sirs,
 
 49
 00:04:00,760 --> 00:04:02,956
--we're in a department store in London.
+- we're in a department store in London.
 - (CHUCKLING) Red Dwarf.
 
 50
 00:04:03,040 --> 00:04:06,590
--Is this a new series?
--I don't really follow it myself.
+- Is this a new series?
+- I don't really follow it myself.
 
 51
 00:04:07,200 --> 00:04:08,554
@@ -259,8 +259,8 @@ who incidentally has a very small penis.
 
 60
 00:04:32,600 --> 00:04:35,433
--How does the psi-scan know that?
--Well, it's scanned his e-mail, sir.
+- How does the psi-scan know that?
+- Well, it's scanned his e-mail, sir.
 
 61
 00:04:35,520 --> 00:04:39,275
@@ -340,8 +340,8 @@ and were replaced with what we use now.
 
 77
 00:05:35,920 --> 00:05:37,672
--What, you mean videos?
--Precisely.
+- What, you mean videos?
+- Precisely.
 
 78
 00:05:37,760 --> 00:05:41,116
@@ -412,8 +412,8 @@ I'm not real. I'm not real.
 
 93
 00:06:25,280 --> 00:06:28,272
--That explains so much.
--I'm not real either.
+- That explains so much.
+- I'm not real either.
 
 94
 00:06:29,400 --> 00:06:32,518
@@ -468,8 +468,8 @@ put in it in perspective.
 
 105
 00:07:01,960 --> 00:07:04,998
--Don't you, sirs?
--This is too weird for words.
+- Don't you, sirs?
+- This is too weird for words.
 
 106
 00:07:06,200 --> 00:07:08,111
@@ -528,8 +528,8 @@ to plead for more life.
 
 118
 00:08:02,200 --> 00:08:03,952
--How are we gonna do that?
--Easy.
+- How are we gonna do that?
+- Easy.
 
 119
 00:08:04,040 --> 00:08:07,635
@@ -558,8 +558,8 @@ I'd get the chance.
 
 124
 00:08:23,240 --> 00:08:26,437
--So what happens next?
--Doesn't say, it's a three-parter.
+- So what happens next?
+- Doesn't say, it's a three-parter.
 
 125
 00:08:26,520 --> 00:08:29,512
@@ -581,8 +581,8 @@ the toilets here are medieval.
 
 129
 00:08:49,320 --> 00:08:53,200
--Bet you felt right at home then.
--Oh, there's no toilet paper.
+- Bet you felt right at home then.
+- Oh, there's no toilet paper.
 
 130
 00:08:53,280 --> 00:08:57,239
@@ -627,8 +627,8 @@ and use the air machine to dry your bum.
 
 139
 00:09:18,720 --> 00:09:21,075
--And that's what you did?
--No choice.
+- And that's what you did?
+- No choice.
 
 140
 00:09:21,160 --> 00:09:23,390
@@ -664,8 +664,8 @@ Haven't got a bean between us.
 
 147
 00:09:39,360 --> 00:09:42,159
--Money? How are they gonna get money?
--Some second-hand shop.
+- Money? How are they gonna get money?
+- Some second-hand shop.
 
 148
 00:09:42,240 --> 00:09:44,595
@@ -673,13 +673,13 @@ Kryten's gonna try and pawn his head.
 
 149
 00:09:44,680 --> 00:09:48,196
--And what about seeing?
--Gonna use his spare set of eyes.
+- And what about seeing?
+- Gonna use his spare set of eyes.
 
 150
 00:09:48,280 --> 00:09:51,272
--Hang them out of his neck hole.
--Oh that's a good look, isn't it?
+- Hang them out of his neck hole.
+- Oh that's a good look, isn't it?
 
 151
 00:09:51,360 --> 00:09:53,749
@@ -687,8 +687,8 @@ That's not gonna stand out at all.
 
 152
 00:09:53,840 --> 00:09:55,877
--Hey!
--Any luck?
+- Hey!
+- Any luck?
 
 153
 00:09:56,400 --> 00:09:58,676
@@ -742,13 +742,13 @@ or Shergar anytime.
 
 164
 00:10:34,640 --> 00:10:40,238
--What about the money?
--Yeah, so far we got £19 and 43 pence.
+- What about the money?
+- Yeah, so far we got £19 and 43 pence.
 
 165
 00:10:40,840 --> 00:10:43,480
--Now what?
--Well, according to this
+- Now what?
+- Well, according to this
 
 166
 00:10:43,560 --> 00:10:48,270
@@ -761,8 +761,8 @@ RIMMER: This is too weird for words.
 
 168
 00:11:27,920 --> 00:11:31,276
--CAT: Hey buds! Check this!
--KRYTEN: Look, that's me!
+- CAT: Hey buds! Check this!
+- KRYTEN: Look, that's me!
 
 169
 00:11:33,000 --> 00:11:34,911
@@ -770,8 +770,8 @@ Look at that! And that!
 
 170
 00:11:44,560 --> 00:11:46,995
--Listening to music?
--No. Why?
+- Listening to music?
+- No. Why?
 
 171
 00:11:49,400 --> 00:11:52,233
@@ -856,8 +856,8 @@ about the small rouge one.
 
 189
 00:12:39,240 --> 00:12:41,709
--We've got a fan club?
--New guy just taken over.
+- We've got a fan club?
+- New guy just taken over.
 
 190
 00:12:41,800 --> 00:12:44,918
@@ -995,8 +995,8 @@ for the eyes of the captain only.
 
 220
 00:14:12,640 --> 00:14:15,393
--Ah!
--So we're smegged?
+- Ah!
+- So we're smegged?
 
 221
 00:14:16,320 --> 00:14:17,719
@@ -1024,7 +1024,7 @@ sucked out of an airlock?
 
 226
 00:14:33,560 --> 00:14:36,120
--Fish scale?
+- Fish scale?
 - (SNIFFING) Not fish.
 
 227
@@ -1074,8 +1074,8 @@ Wait, what's that? Frame left.
 
 237
 00:15:14,160 --> 00:15:17,596
--RIMMER: That card, zoom in.
--CAT: Swallow. Pick up 3:00.
+- RIMMER: That card, zoom in.
+- CAT: Swallow. Pick up 3:00.
 
 238
 00:15:17,840 --> 00:15:19,035
@@ -1123,13 +1123,13 @@ Zoom 220.
 
 248
 00:15:45,680 --> 00:15:47,910
--CAT: What's that?
--RIMMER: Flop.
+- CAT: What's that?
+- RIMMER: Flop.
 
 249
 00:15:48,320 --> 00:15:50,914
--KRYTEN: That's the taxi driver.
--LISTER: There's the business card.
+- KRYTEN: That's the taxi driver.
+- LISTER: There's the business card.
 
 250
 00:15:51,000 --> 00:15:54,755
@@ -1188,8 +1188,8 @@ Uh.
 
 262
 00:16:25,600 --> 00:16:27,671
--Matter Paddle.
--ALL: It's on the Dwarf.
+- Matter Paddle.
+- ALL: It's on the Dwarf.
 
 263
 00:16:27,760 --> 00:16:30,912
@@ -1206,8 +1206,8 @@ NODDY: Got it! Beam there.
 
 266
 00:16:34,560 --> 00:16:37,837
--ALL: That's Star Trek, not us.
--KRYTEN: No, we don't do that, sir.
+- ALL: That's Star Trek, not us.
+- KRYTEN: No, we don't do that, sir.
 
 267
 00:16:37,920 --> 00:16:40,116
@@ -1285,8 +1285,8 @@ that's funny.
 
 283
 00:17:28,680 --> 00:17:32,116
--Where's first class?
--It's all first class, mate.
+- Where's first class?
+- It's all first class, mate.
 
 284
 00:17:32,240 --> 00:17:34,880
@@ -1325,13 +1325,13 @@ You're Dave Lister, aren't you?
 
 292
 00:18:08,240 --> 00:18:11,949
--Yeah. How do you know?
--We watch it with Dad on Dave.
+- Yeah. How do you know?
+- We watch it with Dad on Dave.
 
 293
 00:18:12,640 --> 00:18:14,711
--Dave?
--The TV channel.
+- Dave?
+- The TV channel.
 
 294
 00:18:15,160 --> 00:18:18,755
@@ -1340,13 +1340,13 @@ named after you?
 
 295
 00:18:19,280 --> 00:18:21,510
--A what?
--You're pretty cool.
+- A what?
+- You're pretty cool.
 
 296
 00:18:22,440 --> 00:18:24,716
--Cool?
--You don't take any smeg.
+- Cool?
+- You don't take any smeg.
 
 297
 00:18:24,800 --> 00:18:26,120
@@ -1368,8 +1368,8 @@ Then we worked it out.
 
 301
 00:18:44,600 --> 00:18:47,638
--Worked what out?
--She is not really dead.
+- Worked what out?
+- She is not really dead.
 
 302
 00:18:47,800 --> 00:18:49,074
@@ -1387,13 +1387,13 @@ of the airlock. But she didn't.
 
 305
 00:18:54,600 --> 00:18:56,955
--She didn't?
--Kryten made it up.
+- She didn't?
+- Kryten made it up.
 
 306
 00:18:58,000 --> 00:19:00,958
--why would he do that?
--You were a mess. Falling apart.
+- why would he do that?
+- You were a mess. Falling apart.
 
 307
 00:19:01,040 --> 00:19:03,270
@@ -1464,13 +1464,13 @@ Even in that Bible film, she said,
 
 322
 00:19:48,360 --> 00:19:53,912
--Jesus, he's not dead, I bet ya.
--Next series try and find her.
+- Jesus, he's not dead, I bet ya.
+- Next series try and find her.
 
 323
 00:19:54,240 --> 00:19:57,198
--Get her back.
--And kiss her. I would.
+- Get her back.
+- And kiss her. I would.
 
 324
 00:19:59,360 --> 00:20:03,194
@@ -1487,8 +1487,8 @@ I think you exist.
 
 327
 00:20:08,960 --> 00:20:11,839
--I do, too.
--Hey, our stop.
+- I do, too.
+- Hey, our stop.
 
 328
 00:20:12,400 --> 00:20:14,676
@@ -1523,8 +1523,8 @@ but you won't defeat me.
 
 335
 00:20:36,120 --> 00:20:38,589
--I too smart.
--Erase me?
+- I too smart.
+- Erase me?
 
 336
 00:20:39,200 --> 00:20:41,157
@@ -1550,8 +1550,8 @@ Fair enough.
 
 341
 00:20:54,720 --> 00:20:59,032
--Come on, we haven't got all day.
--She didn't see that coming, did she?
+- Come on, we haven't got all day.
+- She didn't see that coming, did she?
 
 342
 00:20:59,280 --> 00:21:00,429
@@ -1674,8 +1674,8 @@ He make your brain, too.
 
 369
 00:22:31,640 --> 00:22:34,598
--It was a Friday.
--How do we get to see him?
+- It was a Friday.
+- How do we get to see him?
 
 370
 00:22:36,160 --> 00:22:38,470
