@@ -223,7 +223,7 @@ and a one and you lost this game?
 
 51
 00:04:19,800 --> 00:04:21,320
-Okay, I accept it.
+OK, I accept it.
 
 52
 00:04:22,120 --> 00:04:24,680
@@ -1294,7 +1294,7 @@ Kryten!
 
 292
 00:17:21,240 --> 00:17:22,480
-Sir, are you okay?
+Sir, are you OK?
 
 293
 00:17:22,560 --> 00:17:23,640
@@ -1773,7 +1773,7 @@ I'm going to have some painkillers.
 
 398
 00:22:31,160 --> 00:22:32,200
-Okay, listen.
+OK, listen.
 
 399
 00:22:33,600 --> 00:22:36,600

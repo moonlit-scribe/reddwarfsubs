@@ -285,7 +285,7 @@ in this case, save the Nautilus.
 
 64
 00:04:43,800 --> 00:04:46,920
-Okay, okay,
+OK, OK,
 we've got pictures coming through.
 
 65
@@ -890,7 +890,7 @@ Landing bay.
 
 197
 00:11:55,440 --> 00:11:58,000
-Okay, keep your hair on.
+OK, keep your hair on.
 I'm not deaf. am I?
 
 198
@@ -1806,7 +1806,7 @@ Get me out of here, pronto.
 
 400
 00:23:51,600 --> 00:23:53,200
-GRUNT LIFT: I'm busy, okay?
+GRUNT LIFT: I'm busy, OK?
 
 401
 00:23:53,280 --> 00:23:54,320
@@ -1858,7 +1858,7 @@ Officer's quarters now.
 
 412
 00:24:17,560 --> 00:24:20,120
-GRUNT LIFT: Okay, keep your hair on.
+GRUNT LIFT: OK, keep your hair on.
 I'm not deaf. am I?
 
 413
@@ -1926,7 +1926,7 @@ But I worked so hard for it.
 
 427
 00:25:05,760 --> 00:25:09,720
-Okay, okay, I resign. Just let me in.
+OK, OK, I resign. Just let me in.
 
 428
 00:25:10,720 --> 00:25:11,720

@@ -214,7 +214,7 @@ Ah, you're all right, Kryten.
 
 50
 00:02:49,120 --> 00:02:50,400
-Are you okay?
+Are you OK?
 
 51
 00:02:50,480 --> 00:02:52,120
@@ -825,7 +825,7 @@ Yes, independent to look after you!
 
 188
 00:09:12,960 --> 00:09:17,080
-Okay, how about this, remember years ago
+OK, how about this, remember years ago
 that tech we took from the Nova 5?
 
 189
@@ -1452,7 +1452,7 @@ Try and outrun them.
 
 328
 00:15:33,880 --> 00:15:36,960
-Okay, spinning up engines one,
+OK, spinning up engines one,
 drives two!
 
 329
@@ -1961,7 +1961,7 @@ along our present line of velocity.
 
 441
 00:20:35,120 --> 00:20:40,840
-Okay, scanning. Scanning. Scanning.
+OK, scanning. Scanning. Scanning.
 There!
 
 442

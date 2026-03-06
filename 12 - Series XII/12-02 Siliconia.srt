@@ -217,7 +217,7 @@ Well, if I move my 1:30 to 4:00,
 
 50
 00:03:10,760 --> 00:03:12,880
-and my 4:00 to 5:00, just tell me, okay?
+and my 4:00 to 5:00, just tell me, OK?
 
 51
 00:03:13,240 --> 00:03:15,680
@@ -984,7 +984,7 @@ two thousand flouncy pirate shirts.
 
 224
 00:12:14,560 --> 00:12:16,400
-I ain't no mech, okay?
+I ain't no mech, OK?
 
 225
 00:12:16,760 --> 00:12:18,480
@@ -1212,7 +1212,7 @@ Well,
 
 277
 00:14:52,560 --> 00:14:55,360
-okay, sometimes, when I'd be vaccing,
+OK, sometimes, when I'd be vaccing,
 
 278
 00:14:55,440 --> 00:14:59,440

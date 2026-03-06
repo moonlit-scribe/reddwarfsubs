@@ -1110,7 +1110,7 @@ to help the AV software.
 
 251
 00:12:06,560 --> 00:12:08,440
-- So, we are okay?
+- So, we are OK?
 - Yes, sir.
 
 252
@@ -2428,7 +2428,7 @@ with Talkie.
 
 549
 00:24:57,720 --> 00:24:58,720
-(SIGHING) Okay.
+(SIGHING) OK.
 
 550
 00:25:00,040 --> 00:25:02,920

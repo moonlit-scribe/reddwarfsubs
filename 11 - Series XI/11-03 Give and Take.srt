@@ -1687,7 +1687,7 @@ I've come to tuck you in.
 
 387
 00:18:56,760 --> 00:18:57,880
-Okay.
+OK.
 
 388
 00:18:58,000 --> 00:18:59,120
@@ -2327,7 +2327,7 @@ Perhaps, I can do this.
 
 531
 00:24:54,400 --> 00:24:56,960
-Okay, get me
+OK, get me
 to the nearest stasis booth.
 
 532
@@ -2576,7 +2576,7 @@ and you'll be right as rain.
 
 588
 00:27:45,120 --> 00:27:46,120
-So, I'm going to be okay?
+So, I'm going to be OK?
 
 589
 00:27:46,200 --> 00:27:47,440
