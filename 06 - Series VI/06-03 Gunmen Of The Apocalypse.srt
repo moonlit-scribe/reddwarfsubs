@@ -559,7 +559,7 @@ You have two Earth minutes before we attack.
 122
 00:09:35,240 --> 00:09:39,438
 - Let's get out of here.
-- Wait, I know this game, it's called 'cat and mouse'.
+- Wait, I know this game, it's called "cat and mouse".
 
 123
 00:09:39,600 --> 00:09:42,911
