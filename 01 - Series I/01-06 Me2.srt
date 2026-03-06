@@ -100,11 +100,11 @@ Just stick it in the trunk and shut up.
 22
 00:02:28,040 --> 00:02:31,715
 - Whoa! They're mine.
-- But the Blu-Tack is mine.
+- But the Blu Tack is mine.
 
 23
 00:02:31,800 --> 00:02:33,648
-You want to take the Blu-Tack?
+You want to take the Blu Tack?
 
 24
 00:02:33,672 --> 00:02:36,636
@@ -1345,7 +1345,7 @@ I'm tickety-boo. What do you want?
 299
 00:19:21,600 --> 00:19:25,514
 I don't suppose you managed to get
-that Blu-Tack together for me, have you?
+that Blu Tack together for me, have you?
 
 300
 00:19:25,600 --> 00:19:27,557
