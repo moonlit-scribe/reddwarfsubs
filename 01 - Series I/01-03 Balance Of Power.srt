@@ -1119,7 +1119,7 @@ This isn't my arm. Whose arm is this?
 249
 00:15:17,080 --> 00:15:20,436
 I'm sorry, Arnold, your physical
-data disc has become corrupted,
+data disk has become corrupted,
 
 250
 00:15:20,520 --> 00:15:22,875
