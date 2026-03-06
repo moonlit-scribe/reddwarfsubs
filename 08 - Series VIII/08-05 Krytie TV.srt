@@ -294,7 +294,7 @@ blah-blah-blah-blah...
 
 67
 00:05:29,520 --> 00:05:31,716
-"...we are willing to review your case.
+"... we are willing to review your case.
 
 68
 00:05:31,880 --> 00:05:36,556
@@ -558,11 +558,11 @@ Kill the lights.
 
 126
 00:09:45,120 --> 00:09:47,430
-Ten...nine...eight...
+Ten... nine... eight...
 
 127
 00:09:47,600 --> 00:09:50,353
-- ..seven...six...
+- ..seven... six...
 - (CLUNK!)
 
 128

@@ -380,7 +380,7 @@ new ways of looking at and doing things.
 
 84
 00:05:24,520 --> 00:05:27,797
-"Run...home, Dick."
+"Run... home, Dick."
 
 85
 00:05:28,800 --> 00:05:31,633
@@ -1034,7 +1034,7 @@ good reason why I'm your superior.
 
 228
 00:13:36,960 --> 00:13:38,868
-- ...and I've been with them for eight months
+- ... and I've been with them for eight months
 
 229
 00:13:38,892 --> 00:13:40,799
@@ -1366,12 +1366,12 @@ Good morning. How can I help you?
 
 302
 00:17:59,440 --> 00:18:02,990
-Er...chicken vindaloo and a milkshake.
+Er... chicken vindaloo and a milkshake.
 
 303
 00:18:03,080 --> 00:18:06,118
 - What flavour milkshake?
-- Um...beer.
+- Um... beer.
 
 304
 00:18:06,200 --> 00:18:07,998
@@ -1603,7 +1603,7 @@ Come on!
 
 352
 00:20:54,080 --> 00:20:57,311
-I'm not a god! I've just been...misquoted.
+I'm not a god! I've just been... misquoted.
 
 353
 00:20:57,400 --> 00:20:59,391

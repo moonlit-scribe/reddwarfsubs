@@ -1346,11 +1346,11 @@ Estimated duration. 18 hours.
 
 292
 00:19:11,600 --> 00:19:16,197
-# like firelight, it...dwindled
+# like firelight, it... dwindled
 
 293
 00:19:16,280 --> 00:19:24,279
-# Now I wonder when this...wind'll
+# Now I wonder when this... wind'll
 ever stop #
 
 294

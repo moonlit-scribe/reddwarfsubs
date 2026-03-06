@@ -350,7 +350,7 @@ Who buys this junk?
 
 77
 00:04:40,920 --> 00:04:46,560
-...grab your Stirmaster, and
+... grab your Stirmaster, and
 the Stirmaster stirs your coffee for you!
 
 78
@@ -846,7 +846,7 @@ Over.
 
 188
 00:09:55,880 --> 00:09:59,080
-Er...received. Over.
+Er... received. Over.
 Sir, shall I prepare the teleporters?
 
 189
@@ -1459,7 +1459,7 @@ holder of the Gold Oblong of Pluck...
 
 324
 00:17:28,280 --> 00:17:31,200
-...and proud Fellow
+... and proud Fellow
 of the Space Corps Super-Infinity Fleet.
 
 325
@@ -1601,7 +1601,7 @@ Hampton!
 
 356
 00:19:04,600 --> 00:19:06,760
-Oh! Er...good to meet you, Captain.
+Oh! Er... good to meet you, Captain.
 
 357
 00:19:06,880 --> 00:19:11,720
@@ -1668,7 +1668,7 @@ Please, try it on me.
 
 371
 00:19:49,720 --> 00:19:52,760
-Have...have we got the time?
+Have... have we got the time?
 I don't think we've really got the time.
 
 372
@@ -1702,11 +1702,11 @@ OK. OK.
 
 379
 00:20:18,360 --> 00:20:21,000
-You're thinking...you're thinking...
+You're thinking... you're thinking...
 
 380
 00:20:21,120 --> 00:20:24,040
-Um...I'm sensing discomfort.
+Um... I'm sensing discomfort.
 
 381
 00:20:24,160 --> 00:20:25,760
@@ -1758,7 +1758,7 @@ We tend to use it very much as a corridor.
 
 392
 00:20:55,200 --> 00:20:56,720
-Often...oh.
+Often... oh.
 
 393
 00:20:56,840 --> 00:20:59,520
@@ -1936,7 +1936,7 @@ Strange. I didn't sense us turning.
 
 431
 00:22:48,400 --> 00:22:50,240
-Er...turning now, ma'am.
+Er... turning now, ma'am.
 
 432
 00:22:50,360 --> 00:22:52,400

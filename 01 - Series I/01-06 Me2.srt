@@ -602,7 +602,7 @@ Poetry in motion.
 
 132
 00:09:17,560 --> 00:09:20,598
-...and if it hadn't been for those people
+... and if it hadn't been for those people
 
 133
 00:09:20,680 --> 00:09:24,150
@@ -929,7 +929,7 @@ knows, so what do you talk about?
 205
 00:13:28,920 --> 00:13:33,915
 We reminisce, chew over old times,
-past glories...old girlfriends.
+past glories... old girlfriends.
 
 206
 00:13:34,000 --> 00:13:38,995
@@ -956,7 +956,7 @@ Fine, Rimmer, fine. Very nice. Very, very nice.
 
 211
 00:13:56,200 --> 00:13:59,875
-So, um...what's gazpacho soup?
+So, um... what's gazpacho soup?
 
 212
 00:14:00,680 --> 00:14:01,556
@@ -1425,7 +1425,7 @@ Rimmer and me, we've had a bit of a tiff.
 
 317
 00:20:39,640 --> 00:20:44,794
-Nothing major...but it goes
+Nothing major... but it goes
 without saying, it was his fault!
 
 318

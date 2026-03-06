@@ -4,7 +4,7 @@
 
 2
 00:00:38,440 --> 00:00:40,372
-(RIMMER) ...So there we were
+(RIMMER) ... So there we were
 at 2.30 in the morning.
 
 3
@@ -497,7 +497,7 @@ So long...
 
 109
 00:07:18,040 --> 00:07:19,474
-...suckers!
+... suckers!
 
 110
 00:07:20,360 --> 00:07:22,351
@@ -1025,7 +1025,7 @@ Come on, Kryten.
 
 224
 00:14:48,240 --> 00:14:51,756
-...and we've been fighting
+... and we've been fighting
 the Wax War ever since.
 
 225

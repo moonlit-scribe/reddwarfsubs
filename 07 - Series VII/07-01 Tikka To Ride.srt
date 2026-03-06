@@ -20,7 +20,7 @@ Hello? Yes!
 
 6
 00:00:44,120 --> 00:00:47,750
-OK. Here we go. Ship's log...um...one.
+OK. Here we go. Ship's log... um... one.
 
 7
 00:00:48,360 --> 00:00:52,593
@@ -90,7 +90,7 @@ Is that what you were going to say?
 
 21
 00:01:44,560 --> 00:01:48,474
-S...speak, Kryten.
+S... speak, Kryten.
 How can we change what's happening?
 
 22
@@ -815,7 +815,7 @@ with three fried eggs on the sid, coated in cheese!
 
 177
 00:13:28,840 --> 00:13:32,754
-So, um...Kryten,
+So, um... Kryten,
 now that you've had time to think,
 
 178

@@ -326,7 +326,7 @@ corrupted file in your database!
 
 73
 00:05:48,720 --> 00:05:51,109
-...when someone's
+... when someone's
 doing the Heimlich manoeuvre on you.
 
 74

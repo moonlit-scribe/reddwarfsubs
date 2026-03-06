@@ -713,7 +713,7 @@ closer to the object.
 155
 00:10:59,200 --> 00:11:03,797
 I see. Move your head
-closer...hmm...to the object.
+closer... hmm... to the object.
 
 156
 00:11:03,960 --> 00:11:06,270

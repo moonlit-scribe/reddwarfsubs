@@ -176,7 +176,7 @@ Section Two says
 40
 00:02:32,240 --> 00:02:35,440
 - impatience is often caused...
-- ...by having too many things to do.
+- ... by having too many things to do.
 
 41
 00:02:35,520 --> 00:02:37,280
@@ -669,7 +669,7 @@ Definitely further than you.
 
 151
 00:07:44,520 --> 00:07:48,000
-...and it frustrates me no end
+... and it frustrates me no end
 to see you fritter it all away.
 
 152
@@ -1569,7 +1569,7 @@ working with you will be...
 
 354
 00:16:34,240 --> 00:16:35,240
-...cool.
+... cool.
 
 355
 00:16:36,280 --> 00:16:37,600
