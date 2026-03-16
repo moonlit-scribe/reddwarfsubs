@@ -160,7 +160,7 @@ A blueberry muffin...
 
 37
 00:03:39,920 --> 00:03:41,911
-..like Martha used to make.
+... like Martha used to make.
 
 38
 00:03:43,160 --> 00:03:46,312
@@ -1386,7 +1386,7 @@ Got to get some control back.
 311
 00:26:19,360 --> 00:26:21,510
 - Hi.
-- Hi....
+- Hi...
 
 312
 00:26:23,440 --> 00:26:26,956

@@ -1194,7 +1194,7 @@ draw a moustache, mouth and ears on it...
 
 265
 00:19:45,880 --> 00:19:49,953
-..then pin it up on the bulletin board
+... then pin it up on the bulletin board
 under "Missing Persons".
 
 266

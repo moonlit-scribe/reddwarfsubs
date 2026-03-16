@@ -263,7 +263,7 @@ The chances of it blowing are about one in...
 
 58
 00:04:29,340 --> 00:04:31,138
-..one.
+... one.
 
 59
 00:04:38,820 --> 00:04:40,811

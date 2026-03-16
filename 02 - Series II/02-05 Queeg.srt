@@ -435,7 +435,7 @@ up with the white cable.
 
 97
 00:07:17,341 --> 00:07:19,651
-..or is it the yellow cable?
+... or is it the yellow cable?
 
 98
 00:07:19,741 --> 00:07:22,130

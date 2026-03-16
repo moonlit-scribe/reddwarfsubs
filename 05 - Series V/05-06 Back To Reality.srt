@@ -264,7 +264,7 @@ but we may experience (SOBS) moments...
 
 58
 00:04:20,901 --> 00:04:23,211
-..of despair and anguish.
+... of despair and anguish.
 
 59
 00:04:23,381 --> 00:04:25,372

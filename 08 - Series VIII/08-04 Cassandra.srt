@@ -594,7 +594,7 @@ The future's not happened yet.
 
 135
 00:10:04,783 --> 00:10:06,157
-..although you do.
+... although you do.
 
 136
 00:10:06,320 --> 00:10:08,197
@@ -748,7 +748,7 @@ All the Canaries will be dead within one hour
 
 169
 00:12:16,320 --> 00:12:18,470
-..who will be dead in 20 minutes.
+... who will be dead in 20 minutes.
 
 170
 00:12:24,760 --> 00:12:28,674
@@ -1074,7 +1074,7 @@ I've brought you a visitor, Cassandra. Do you know his name?
 
 240
 00:16:59,480 --> 00:17:01,869
-- Yes, I do... Not..
+- Yes, I do... Not...
 - What?
 
 241
