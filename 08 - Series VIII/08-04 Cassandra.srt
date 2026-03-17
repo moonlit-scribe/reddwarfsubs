@@ -963,7 +963,7 @@ That's just what I thought.
 
 216
 00:15:24,920 --> 00:15:29,278
-Cassandra said, "Rimmer dies," but it doesn't
+Cassandra said, "Rimmer dies", but it doesn't
 necessarily follow that that means me.
 
 217

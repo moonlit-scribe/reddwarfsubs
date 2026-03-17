@@ -212,7 +212,7 @@ You what? You walked in there
 
 50
 00:03:49,880 --> 00:03:52,599
-wrote "I am a fish," 400 times
+wrote "I am a fish" 400 times
 
 51
 00:03:52,680 --> 00:03:54,796

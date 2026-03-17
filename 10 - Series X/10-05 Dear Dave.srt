@@ -1201,7 +1201,7 @@ then you say something like,
 
 273
 00:12:50,520 --> 00:12:52,840
-- "Listen, I've got bad news," right?
+- "Listen, I've got bad news", right?
 - That's correct, sir.
 
 274
@@ -1628,7 +1628,7 @@ The first person I ever heard say,
 
 368
 00:16:50,520 --> 00:16:52,400
-"That's the real McCoy," she'd say.
+"That's the real McCoy", she'd say.
 
 369
 00:16:52,520 --> 00:16:55,640
