@@ -425,7 +425,7 @@ There's a perfectly rational explanation for this.
 
 94
 00:07:33,360 --> 00:07:35,795
-.tfil a tnaw uoy fi ,nwot otni gniog m'I
+.tfil a tnaw uoy fi ,nwot otni gniog m'I !ni poH
 
 95
 00:07:37,000 --> 00:07:39,196
@@ -1332,7 +1332,7 @@ What fight? we didn't start any fight?
 296
 00:21:50,140 --> 00:21:54,500
 .tog S'EH efil das roop a tahw ,gniyas m'I
-s'taht hsibbur eht tuo krow yllautca dna dnuor ti nrut
+taht hsibbur eht tuo krow yllautca dna dnuor ti nrut
 
 297
 00:21:54,524 --> 00:21:58,884
