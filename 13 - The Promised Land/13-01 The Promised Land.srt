@@ -4714,7 +4714,7 @@ He still likes you.
 
 1062
 01:00:39,880 --> 01:00:40,920
-Erm..
+Erm...
 
 1063
 01:00:42,280 --> 01:00:46,320
@@ -5798,7 +5798,7 @@ for the chicken-soup repairman.
 1308
 01:14:16,800 --> 01:14:19,800
 So Rimmer would be like, er,
-"Pass me a 14B,"
+"Pass me a 14B",
 
 1309
 01:14:19,920 --> 01:14:21,640

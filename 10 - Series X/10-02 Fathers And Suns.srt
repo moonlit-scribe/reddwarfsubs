@@ -1177,7 +1177,7 @@ I'm doing OK.
 
 271
 00:11:56,920 --> 00:11:58,920
-"I'm doing OK," you're probably saying.
+"I'm doing OK", you're probably saying.
 
 272
 00:11:59,040 --> 00:12:01,040
@@ -1221,7 +1221,7 @@ And how do I do all of that?
 
 281
 00:12:35,160 --> 00:12:36,920
-Er..
+Er...
 
 282
 00:12:37,040 --> 00:12:38,440

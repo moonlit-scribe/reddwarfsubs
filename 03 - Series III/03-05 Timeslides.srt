@@ -422,7 +422,7 @@ I can't walk out of the edge of the photograph.
 
 95
 00:07:12,040 --> 00:07:14,554
-..credible.
+- ... credible.
 - Try another one.
 
 96

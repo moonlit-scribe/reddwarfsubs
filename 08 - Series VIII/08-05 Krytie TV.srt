@@ -216,7 +216,7 @@ That was a classic!
 
 49
 00:04:15,440 --> 00:04:17,317
-#Om.....
+#Om...
 
 50
 00:04:17,480 --> 00:04:19,994
@@ -550,7 +550,7 @@ During which, I want whoever took it...
 
 124
 00:09:34,240 --> 00:09:36,675
-..to return my glass eye.
+... to return my glass eye.
 
 125
 00:09:42,240 --> 00:09:43,560
@@ -1600,7 +1600,7 @@ And as a personal thank you...
 
 356
 00:28:05,720 --> 00:28:08,280
-..I thought I'd write you a song.
+... I thought I'd write you a song.
 
 357
 00:28:13,960 --> 00:28:17,669

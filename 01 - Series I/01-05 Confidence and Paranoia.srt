@@ -197,7 +197,7 @@ can read 'em again tonight.
 
 43
 00:03:35,000 --> 00:03:36,991
-"Password override. "
+"Password override."
 
 44
 00:03:37,080 --> 00:03:40,960
@@ -254,7 +254,7 @@ This'll go on all night.
 
 55
 00:04:13,200 --> 00:04:17,159
-(MAN) I know, Carol
+(MAN) I know, Carol.
 Dr Graham told me everything.
 
 56
@@ -408,7 +408,7 @@ you could never get a date.
 
 87
 00:05:56,320 --> 00:06:00,473
-No it wasn't. I happen to agree with
+No, it wasn't. I happen to agree with
 their philosophy that love is a sickness
 
 88
