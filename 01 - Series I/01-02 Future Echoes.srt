@@ -1501,7 +1501,7 @@ in a future echo, right?
 
 331
 00:21:09,640 --> 00:21:12,280
-- Now if I can stop him breaking it..
+- Now if I can stop him breaking it...
 - Can't be done.
 
 332

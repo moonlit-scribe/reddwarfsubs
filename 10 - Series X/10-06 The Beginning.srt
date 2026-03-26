@@ -1326,7 +1326,7 @@ At least my death was dignified.
 303
 00:16:40,280 --> 00:16:43,160
 I'd hardly call yelling,
-"Mummy, Mummy," dignified.
+"Mummy, Mummy", dignified.
 
 304
 00:16:43,280 --> 00:16:45,080
@@ -1966,7 +1966,7 @@ were here now, he'd be so proud.
 
 450
 00:23:43,120 --> 00:23:47,040
-Second Technician in the JMC,
+Second technician in the JMC,
 senior officer in a mining ship,
 
 451

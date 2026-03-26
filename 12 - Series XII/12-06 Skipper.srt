@@ -2137,7 +2137,7 @@ there's no down time.
 
 486
 00:24:20,880 --> 00:24:21,880
-..Sir.
+... Sir.
 
 487
 00:24:21,960 --> 00:24:22,960
@@ -2211,7 +2211,7 @@ stays on Venus.
 503
 00:25:00,680 --> 00:25:04,480
 My God,
-how did you ever get to be Captain?
+how did you ever get to be captain?
 
 504
 00:25:05,000 --> 00:25:06,600
