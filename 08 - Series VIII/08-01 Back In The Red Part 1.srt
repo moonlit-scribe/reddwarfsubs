@@ -598,7 +598,7 @@ He's drunk!
 134
 00:11:17,000 --> 00:11:21,790
 The crew are all alive. Great news.
-wonderful, marvellous, incredible news.
+Wonderful, marvellous, incredible news.
 
 135
 00:11:21,960 --> 00:11:24,793
@@ -1501,7 +1501,7 @@ chair for me, would you, Kryten?
 
 332
 00:24:01,080 --> 00:24:04,869
-with long, long screws
+With long, long screws
 that go deep, deep into the ground?
 
 333

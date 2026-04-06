@@ -1006,7 +1006,7 @@ can't get any food out of the dispensing machines.
 
 217
 00:14:29,400 --> 00:14:31,835
-we're gonna have to scavenge for what we can find in the cargo decks.
+We're gonna have to scavenge for what we can find in the cargo decks.
 
 218
 00:14:32,000 --> 00:14:35,118
@@ -1805,7 +1805,7 @@ none of this will have occurred.
 
 387
 00:26:05,760 --> 00:26:09,958
-but we will exist back on Red Dwarf,
+But we will exist back on Red Dwarf,
 before all this began,
 
 388

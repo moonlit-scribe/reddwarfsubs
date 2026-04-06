@@ -858,7 +858,7 @@ on an excursion to the 20th century.
 182
 00:13:09,440 --> 00:13:12,512
 Before they died, they programmed
-the autopilot through deep space.
+the autopilot through deep space
 
 183
 00:13:12,680 --> 00:13:16,992

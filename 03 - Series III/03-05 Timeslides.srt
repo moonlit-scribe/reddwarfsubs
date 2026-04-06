@@ -1113,7 +1113,7 @@ but you're not going to like it.
 245
 00:16:51,080 --> 00:16:53,356
 - Heeeeeere's Blaize!
-- Hello.
+- Hello
 
 246
 00:16:53,800 --> 00:16:57,395

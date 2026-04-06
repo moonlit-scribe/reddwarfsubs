@@ -683,7 +683,7 @@ program somewhere to allow escape.
 
 149
 00:14:14,640 --> 00:14:17,075
-something like a trapdoor or exit.
+Something like a trapdoor or exit.
 
 150
 00:14:23,680 --> 00:14:25,671
@@ -888,7 +888,7 @@ called Kylie.
 195
 00:17:24,160 --> 00:17:27,073
 Why would I want to take off with you lot?
-what have you got to offer?
+What have you got to offer?
 
 196
 00:17:27,240 --> 00:17:30,278

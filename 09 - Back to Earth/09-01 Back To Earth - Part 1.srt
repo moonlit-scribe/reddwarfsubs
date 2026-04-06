@@ -147,7 +147,7 @@ Only thing I'm allergic to.
 
 33
 00:02:52,800 --> 00:02:55,519
-why do you want to eat something
+Why do you want to eat something
 you're allergic to?
 
 34
@@ -1018,7 +1018,7 @@ CAT: What the hell was that thing?
 
 227
 00:15:28,040 --> 00:15:31,158
-well, some kind of
+Well, some kind of
 dimension-migrating leviathan
 
 228
@@ -1115,7 +1115,7 @@ Result! You beauty!
 
 249
 00:16:31,560 --> 00:16:33,756
-why does mainframe
+Why does mainframe
 computer not function?
 
 250

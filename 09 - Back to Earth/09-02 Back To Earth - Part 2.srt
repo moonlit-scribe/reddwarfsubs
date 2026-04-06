@@ -241,7 +241,7 @@ Talk about rubbish.
 
 56
 00:04:22,840 --> 00:04:24,114
-who's he Kryten?
+Who's he Kryten?
 
 57
 00:04:24,200 --> 00:04:27,192
@@ -1089,7 +1089,7 @@ is on the other side.
 240
 00:15:20,720 --> 00:15:24,315
 RIMMER: Pull out. Stop.
-wait, I've got an idea, track in.
+Wait, I've got an idea, track in.
 
 241
 00:15:25,480 --> 00:15:27,471
@@ -1411,7 +1411,7 @@ so she took a Blue Midget and legged it.
 
 310
 00:19:11,200 --> 00:19:12,554
-why would Kryten lie to me?
+Why would Kryten lie to me?
 
 311
 00:19:12,640 --> 00:19:15,029

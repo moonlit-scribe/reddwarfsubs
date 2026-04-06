@@ -265,7 +265,7 @@ Would you like to grip a paddle, sir?
 
 59
 00:03:58,240 --> 00:04:01,198
-we'll meet you by the navicomp in Starbug.
+We'll meet you by the navicomp in Starbug.
 
 60
 00:04:02,200 --> 00:04:04,237
@@ -1083,7 +1083,7 @@ You are an impudent fool!
 
 236
 00:15:33,800 --> 00:15:36,440
-the most hated, loathed and despised man of his era.
+The most hated, loathed and despised man of his era.
 
 237
 00:15:36,640 --> 00:15:38,870
@@ -1400,7 +1400,7 @@ We attack tomorrow under cover of daylight.
 
 306
 00:20:15,360 --> 00:20:17,351
-a daylight charge over the minefield.
+A daylight charge over the minefield.
 
 307
 00:20:17,560 --> 00:20:18,896

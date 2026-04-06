@@ -2227,11 +2227,11 @@ when we could just walk out that door at any moment?
 
 480
 00:31:39,200 --> 00:31:42,477
-Well, if you'd excuse we've got some serious reversing to do.
+Well, if you'd excuse us, we've got some serious reversing to do.
 
 481
 00:31:42,640 --> 00:31:47,555
-but we'll talk about this over a cup
+But we'll talk about this over a cup
 of coffee and a hot branding iron.
 
 482
