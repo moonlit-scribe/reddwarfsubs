@@ -1086,7 +1086,7 @@ Thirty-two.
 235
 00:18:03,640 --> 00:18:06,393
 - This will be your cell, Dave.
-- My cell
+- My cell.
 
 236
 00:18:06,560 --> 00:18:09,473

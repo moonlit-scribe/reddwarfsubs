@@ -318,7 +318,7 @@ Wait for me-me-me-me-me-me!
 
 71
 00:05:36,741 --> 00:05:39,017
-Here it is. 592
+Here it is. 592.
 
 72
 00:05:39,101 --> 00:05:41,331
@@ -969,7 +969,7 @@ When a crewmember has run out of credit,
 213
 00:15:39,541 --> 00:15:43,091
 food and drink may not be supplied
-until the balance has been restored,
+until the balance has been restored.
 
 214
 00:15:43,181 --> 00:15:47,414
@@ -1577,7 +1577,7 @@ gotta do. Let battle commence.
 345
 00:24:28,661 --> 00:24:33,292
 - Pawn to King 4.
-- Horsie to King Bish 3,
+- Horsie to King Bish 3.
 
 346
 00:24:33,381 --> 00:24:35,736
@@ -1599,7 +1599,7 @@ like that. I was thinking of poker.
 
 350
 00:24:47,341 --> 00:24:49,571
-Cluedo? You can be Colonel Mustard,
+Cluedo? You can be Colonel Mustard.
 
 351
 00:24:50,461 --> 00:24:54,250

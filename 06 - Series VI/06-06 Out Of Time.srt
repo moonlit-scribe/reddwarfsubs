@@ -1000,7 +1000,7 @@ It's a Jupiter Mining Corporation call sign.
 
 213
 00:15:19,040 --> 00:15:24,638
-Some kind of transport vehicle. Colour: green,
+Some kind of transport vehicle. Colour: green.
 Life-forms: four... Craft name: "Starbug"?
 
 214

@@ -695,7 +695,7 @@ Can I buy you anything?"
 152
 00:09:14,280 --> 00:09:18,160
 The "Welcome Back George McIntyre"
-reception is about to begin in the refectory
+reception is about to begin in the refectory.
 
 153
 00:09:18,320 --> 00:09:20,118
@@ -1996,7 +1996,7 @@ Earth.
 436
 00:27:53,512 --> 00:27:55,718
 Earth?! What makes you
-think there'll BE any Earth, Lister
+think there'll BE any Earth, Lister.
 
 437
 00:27:55,800 --> 00:27:58,360

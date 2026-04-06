@@ -594,7 +594,7 @@ Ah, my foot! I must have gone to sleep on it.
 
 133
 00:11:20,800 --> 00:11:25,590
-You were putting it away last night, Lister
+You were putting it away last night, Lister.
 You really fell for my joke, didn't you?
 
 134
@@ -1046,7 +1046,7 @@ I'm gonna give Rimmer a love affair.
 
 234
 00:18:08,800 --> 00:18:12,316
-I'm gonna take eight months out of my memory, and I'm gonna paste it into his,
+I'm gonna take eight months out of my memory, and I'm gonna paste it into his.
 
 235
 00:18:12,400 --> 00:18:15,597
@@ -1532,7 +1532,7 @@ through life without feeling,
 
 341
 00:25:52,640 --> 00:25:55,473
-You go through life never experiencing,
+you go through life never experiencing,
 you're no better than a jellyfish,
 
 342

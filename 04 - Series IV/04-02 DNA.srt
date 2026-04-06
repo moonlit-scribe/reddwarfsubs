@@ -397,7 +397,7 @@ I got you into this, I'll get you out.
 
 87
 00:06:19,960 --> 00:06:22,679
-New genetic structure accepted,
+New genetic structure accepted.
 
 88
 00:06:22,880 --> 00:06:26,475
@@ -565,7 +565,7 @@ I am mineral and therefore immune.
 
 123
 00:08:42,320 --> 00:08:47,030
-New genetic structure accepted,
+New genetic structure accepted.
 Metamorphosis in ten seconds and counting.
 
 124
@@ -1631,7 +1631,7 @@ Go back through there. The DNA suite, I've got an idea!
 352
 00:24:23,080 --> 00:24:25,503
 Holly, I'm only going to ask you
-this the once, and I want the truth -
+this the once, and I want the truth.
 
 353
 00:24:25,527 --> 00:24:27,950
