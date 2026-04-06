@@ -55,7 +55,7 @@ called "The National Enquirer",
 
 13
 00:01:33,640 --> 00:01:35,870
-the operation's quite straightforward,
+the operation's quite straightforward.
 
 14
 00:01:38,200 --> 00:01:40,635

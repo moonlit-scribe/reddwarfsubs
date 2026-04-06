@@ -144,7 +144,7 @@ Good work, Rimmer. Great work.
 
 33
 00:03:28,080 --> 00:03:30,037
-Oh, before I go, sir,
+Oh, before I go, sir.
 
 34
 00:03:30,200 --> 00:03:32,760
@@ -908,7 +908,7 @@ All line blocks and corrupted personality disks
 
 204
 00:17:31,160 --> 00:17:32,719
-have now been fixed,
+have now been fixed.
 
 205
 00:17:32,880 --> 00:17:34,439

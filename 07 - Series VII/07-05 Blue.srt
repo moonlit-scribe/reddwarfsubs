@@ -308,7 +308,7 @@ Heading straight for its tail. Plotting avoidance course.
 67
 00:04:44,520 --> 00:04:46,989
 What's the problem with going
-through it? It'll get you home quicker
+through it? It'll get you home quicker.
 
 68
 00:04:47,200 --> 00:04:50,511
@@ -1555,7 +1555,7 @@ the man, the memories, the personality.
 335
 00:22:59,320 --> 00:23:03,951
 - How did you compile all the exhibits?
-- Well, I recreated key events in his life from Mr Rimmer's diaries
+- Well, I recreated key events in his life from Mr Rimmer's diaries.
 
 336
 00:23:04,120 --> 00:23:07,909

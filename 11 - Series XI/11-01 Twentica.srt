@@ -649,7 +649,7 @@ Argh!
 147
 00:07:50,960 --> 00:07:54,720
 Kryten could be more fried if he was
-Mars bar living in Scotland.
+a Mars bar living in Scotland.
 
 148
 00:07:54,880 --> 00:07:57,920
