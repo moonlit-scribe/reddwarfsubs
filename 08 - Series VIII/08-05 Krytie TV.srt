@@ -220,7 +220,7 @@ That was a classic!
 
 50
 00:04:17,480 --> 00:04:19,994
-#om! #
+#Om! #
 
 51
 00:04:20,160 --> 00:04:23,357
@@ -349,7 +349,7 @@ I know. I know.
 
 79
 00:06:17,520 --> 00:06:19,989
-Why should I, a series 4000 mechanoid,
+Why should I, a Series 4000 mechanoid,
 
 80
 00:06:20,160 --> 00:06:25,872
@@ -623,7 +623,7 @@ They're here! They've landed!
 140
 00:11:40,960 --> 00:11:43,474
 - Who have?
-- The invisible aliens.
+- The aliens! The invisible aliens.
 
 141
 00:11:43,640 --> 00:11:46,678
@@ -700,7 +700,7 @@ This is a joke, right? This is a...
 
 157
 00:12:59,560 --> 00:13:01,551
-There is a god?
+There is a God?
 
 158
 00:13:02,160 --> 00:13:04,800
