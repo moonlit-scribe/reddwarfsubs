@@ -1951,7 +1951,7 @@ DNA medi-computer,
 
 447
 00:21:29,400 --> 00:21:32,520
-when, in fact.
+when, in fact,
 that's not what you do, at all.
 
 448

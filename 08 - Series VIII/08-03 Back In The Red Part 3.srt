@@ -683,7 +683,7 @@ program somewhere to allow escape.
 
 149
 00:14:14,640 --> 00:14:17,075
-something like a trapdoor or exit.
+Something like a trapdoor or exit.
 
 150
 00:14:23,680 --> 00:14:25,671
@@ -823,7 +823,7 @@ I want his babies!
 
 181
 00:16:29,320 --> 00:16:31,789
-The luck virus. You still got it? Take some,
+The luck virus. You still got it? Take some.
 
 182
 00:16:31,960 --> 00:16:35,555
@@ -888,7 +888,7 @@ called Kylie.
 195
 00:17:24,160 --> 00:17:27,073
 Why would I want to take off with you lot?
-what have you got to offer?
+What have you got to offer?
 
 196
 00:17:27,240 --> 00:17:30,278
@@ -1327,7 +1327,7 @@ men's toilets has outsmarted you again?
 293
 00:23:49,880 --> 00:23:55,353
 No. By that other version of me -
-the one on Red Dwarf. This is still our trial
+the one on Red Dwarf. This is still our trial.
 
 294
 00:23:55,520 --> 00:23:57,636

@@ -984,7 +984,7 @@ ident computer, sir.
 210
 00:14:44,305 --> 00:14:48,960
 Rogue simulants looted the pod from a colonisation
-seeding ship constructed in the 25th century
+seeding ship constructed in the 25th century.
 
 211
 00:14:49,120 --> 00:14:54,480
@@ -1066,7 +1066,7 @@ found a nearer S3 planet.
 228
 00:15:50,080 --> 00:15:53,480
 It's taking you through
-that wormhole at 495-372,
+that wormhole at 495-372.
 
 229
 00:15:53,680 --> 00:15:56,000
@@ -1618,7 +1618,7 @@ What's happened to him, bud?
 345
 00:24:21,802 --> 00:24:25,960
 How long have you been in here, sir?
-In this god-forsaken dungeon pit from hell.
+In this godforsaken dungeon pit from hell.
 
 346
 00:24:27,360 --> 00:24:29,360

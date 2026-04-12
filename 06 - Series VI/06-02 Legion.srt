@@ -481,7 +481,7 @@ The controls are down!
 
 105
 00:07:46,520 --> 00:07:50,354
-- What on lo was that?
+- What on Io was that?
 - Some kind of suction beam. We're being dragged down.
 
 106
@@ -1086,7 +1086,7 @@ Thirty-two.
 235
 00:18:03,640 --> 00:18:06,393
 - This will be your cell, Dave.
-- My cell
+- My cell.
 
 236
 00:18:06,560 --> 00:18:09,473
@@ -1127,7 +1127,7 @@ Absolutely no Doug McClure.
 244
 00:18:39,080 --> 00:18:43,631
 There is a cyberpark in the complex.
-You may go to any time period of your choosing.
+You may go to any time period of your choosing
 
 245
 00:18:43,800 --> 00:18:47,839
@@ -1516,7 +1516,7 @@ smashing me over the head with a vase!
 
 327
 00:24:13,600 --> 00:24:18,720
-There's no such thing as an lonian Nerve
+There's no such thing as an Ionian Nerve
 Grip. Now stand still while I hit you!
 
 328

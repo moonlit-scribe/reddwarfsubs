@@ -43,7 +43,7 @@ gone bananas,
 10
 00:01:16,778 --> 00:01:19,058
 he's completely rewired the maintenance
-decks back to front and upside down
+decks back to front and upside down.
 
 11
 00:01:19,320 --> 00:01:23,598
@@ -444,7 +444,7 @@ Detonation in 5 seconds.
 
 96
 00:06:50,720 --> 00:06:53,280
-One. Initiate self-destruct,
+One. Initiate self-destruct.
 
 97
 00:06:59,960 --> 00:07:02,759

@@ -659,7 +659,7 @@ Getting a message.
 
 143
 00:09:23,920 --> 00:09:25,911
-(JUSTICE COMPUTER) Welcome to Justice World,
+(JUSTICE COMPUTER) Welcome to Justice World.
 
 144
 00:09:26,120 --> 00:09:29,078
@@ -897,7 +897,7 @@ over three million years ago.
 193
 00:12:41,200 --> 00:12:45,353
 - Seriously, Kryten, do you reckon?
-- Boy, I'm really getting the hang of this lie mode
+- Boy, I'm really getting the hang of this lie mode.
 
 194
 00:12:45,520 --> 00:12:47,511
@@ -1477,7 +1477,7 @@ In view of your counsel's eloquent defence,
 322
 00:21:13,720 --> 00:21:17,315
 together with the reams of material
-evidence he submitted on computer card.
+evidence he submitted on computer card,
 
 323
 00:21:17,480 --> 00:21:20,233

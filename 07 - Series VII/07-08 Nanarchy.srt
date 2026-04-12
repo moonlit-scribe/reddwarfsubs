@@ -701,7 +701,7 @@ Now let's really get it going, sir!
 149
 00:10:44,920 --> 00:10:48,754
 Really start to move it now, sir!
-"Hand, pick up the ball!" now let's keep moving
+"Hand, pick up the ball!" Now let's keep moving.
 
 150
 00:10:48,920 --> 00:10:53,710
@@ -1397,7 +1397,7 @@ I'm sorry, mate.
 
 297
 00:22:01,920 --> 00:22:07,711
-it's the way the light was shining on your -
+It's the way the light was shining on your -
 what's the right word? - "face" I suppose.
 
 298

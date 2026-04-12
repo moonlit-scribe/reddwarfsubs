@@ -1119,7 +1119,7 @@ This isn't my arm. Whose arm is this?
 249
 00:15:17,080 --> 00:15:20,436
 I'm sorry, Arnold, your physical
-data disk has become corrupted,
+data disk has become corrupted.
 
 250
 00:15:20,520 --> 00:15:22,875
@@ -1347,7 +1347,7 @@ a couple of seconds.
 
 298
 00:18:01,560 --> 00:18:04,791
-Ah, look at that. I've outwitted him
+Ah, look at that. I've outwitted him.
 He's given up. Look, he's given up.
 
 299
@@ -1567,7 +1567,7 @@ What the hell is a quasar?
 346
 00:21:48,320 --> 00:21:50,960
 Just put a neat cross through it.
-we'll do the next one. OK?
+We'll do the next one. OK?
 
 347
 00:21:51,040 --> 00:21:53,839
@@ -1731,7 +1731,7 @@ nearly puked. I really did.
 
 380
 00:23:52,640 --> 00:23:55,519
-That, with times as good as those,
+that, with times as good as those,
 
 381
 00:23:55,600 --> 00:23:59,639

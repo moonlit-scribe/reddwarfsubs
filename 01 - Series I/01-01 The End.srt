@@ -695,7 +695,7 @@ Can I buy you anything?"
 152
 00:09:14,280 --> 00:09:18,160
 The "Welcome Back George McIntyre"
-reception is about to begin in the refectory
+reception is about to begin in the refectory.
 
 153
 00:09:18,320 --> 00:09:20,118
@@ -727,7 +727,7 @@ the coin onto your forehead.
 
 159
 00:09:59,400 --> 00:10:01,965
-and then the more times you
+And then the more times you
 can bang yourself on the head
 
 160
@@ -1170,7 +1170,7 @@ and woman on this ship...
 
 257
 00:17:21,080 --> 00:17:25,119
-not only that, but you take a
+Not only that, but you take a
 photograph of yourself with the cat
 
 258
@@ -1298,7 +1298,8 @@ of the trip and forfeit 18 months' wages?
 
 284
 00:18:42,200 --> 00:18:45,158
-Gordon Bennett! Yes, Chen, everybody
+- No!
+- Choose.
 
 285
 00:18:46,400 --> 00:18:48,999
@@ -1995,7 +1996,7 @@ Earth.
 436
 00:27:53,512 --> 00:27:55,718
 Earth?! What makes you
-think there'll BE any Earth, Lister
+think there'll BE any Earth, Lister.
 
 437
 00:27:55,800 --> 00:27:58,360
@@ -2079,7 +2080,7 @@ It's Lister the - Stupid?!
 
 454
 00:28:49,720 --> 00:28:54,112
-who shall returneth to lead us
+Who shall returneth to lead us
 to Fuchal, the Promised Land.
 
 455

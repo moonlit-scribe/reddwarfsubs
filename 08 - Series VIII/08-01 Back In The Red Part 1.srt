@@ -598,7 +598,7 @@ He's drunk!
 134
 00:11:17,000 --> 00:11:21,790
 The crew are all alive. Great news.
-wonderful, marvellous, incredible news.
+Wonderful, marvellous, incredible news.
 
 135
 00:11:21,960 --> 00:11:24,793
@@ -611,7 +611,7 @@ Mr Thornton, read them their rights.
 137
 00:11:32,200 --> 00:11:36,956
 David Lister, you are formally charged
-with stealing and crashing a Starbug,
+with stealing and crashing a Starbug.
 
 138
 00:11:37,120 --> 00:11:39,264
@@ -705,7 +705,7 @@ Well, if you lose, you'll probably get a couple of years in the brig.
 158
 00:12:47,360 --> 00:12:50,398
 - There isn't a floor 13.
-- Yeah, there is. It was classified,
+- Yeah, there is. It was classified.
 
 159
 00:12:50,560 --> 00:12:52,358
@@ -1487,7 +1487,7 @@ teenty little robots.
 
 329
 00:23:52,520 --> 00:23:54,318
-(SQUEAKS) Mini-mini-mini-mini-mini-mini
+(SQUEAKS) Mini-mini-mini-mini-mini-mini.
 
 330
 00:23:54,480 --> 00:23:58,030
@@ -1501,7 +1501,7 @@ chair for me, would you, Kryten?
 
 332
 00:24:01,080 --> 00:24:04,869
-with long, long screws
+With long, long screws
 that go deep, deep into the ground?
 
 333
