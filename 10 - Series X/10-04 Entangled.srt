@@ -483,7 +483,7 @@ Open the door!
 
 110
 00:06:30,400 --> 00:06:32,320
-I've left my key!
+I forgot me key!
 
 111
 00:06:33,960 --> 00:06:35,520
@@ -1946,7 +1946,7 @@ Well, it's definitely not Kochanski.
 
 444
 00:22:39,200 --> 00:22:40,640
-She went for my groin.
+She went for me groin.
 
 445
 00:22:47,160 --> 00:22:52,120
